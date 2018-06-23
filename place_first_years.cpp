@@ -38,7 +38,7 @@ void assign_students();
 void assign_least_requested_first();
 void count_trip_requests();
 int get_random_student();
-int get_student_for_trip(int trip_id);
+int get_best_student_for_trip(int trip_id);
 bool place_student_on_trip(int student_id, int trip_id);
 void assign_students_randomly();
 
@@ -219,6 +219,8 @@ void assign_students() {
 // if requests <= capacity, then add a random student
 // repeat until no students are left to be placed
 void assign_least_requested_first() {
+    sort(open_trips.begin(), open_trips.end(), trip_buffer_cmp);
+    print_open_trips();
     while(unassigned_students.size() > 0) {
         // cout << "size of open_trips: " << open_trips.size() << endl;
         // cout << "size of unassigned_students: " << unassigned_students.size() << endl;
@@ -231,7 +233,8 @@ void assign_least_requested_first() {
             best_student_id = get_random_student();
         }
         else {
-            best_student_id = get_student_for_trip(best_trip_id);
+
+            best_student_id = get_best_student_for_trip(best_trip_id);
         }
 
         place_student_on_trip(best_student_id, best_trip_id);
@@ -249,7 +252,7 @@ int get_random_student() {
 }
 
 // gets the best student for a trip and also removes it from unassigned_students
-int get_student_for_trip(int trip_id) {
+int get_best_student_for_trip(int trip_id) {
     int best_student_id = -1;
     int best_priority = 6;
     int index_in_available = -1;
@@ -257,15 +260,18 @@ int get_student_for_trip(int trip_id) {
         student* s = unassigned_students[i];
         for(int j = 0; j < best_priority; j++) {
             if(s->pref[j] == trip_id) {
-                best_student_id = s->id;
+                best_student_id = s->id - 1;
                 best_priority = j;
                 index_in_available = i;
+                cout << "best priority: " << best_priority << endl;
+                cout << get_csv_row_for_student(i) << endl;
                 break;
             }
         }
     }
     unassigned_students.erase(unassigned_students.begin()+index_in_available);
     if(best_student_id != -1) {
+        cout << "placing student " << best_student_id << " on trip " << trip_id << endl;
         return best_student_id;
     }
     else {
@@ -340,7 +346,7 @@ void print_trips() {
 
 void print_open_trips() {
     for(int i = 0; i < open_trips.size(); i++) {
-        printf("trip id: %d, capacity: %d, total requests: %d, c1: %d, c2: %d, c3: %d, c4: %d, c5: %d, c6: %d, name: %s\n", i, open_trips[i]->capacity, open_trips[i]->total_requests, open_trips[i]->num_of_requests[0], open_trips[i]->num_of_requests[1], open_trips[i]->num_of_requests[2], open_trips[i]->num_of_requests[3], open_trips[i]->num_of_requests[4], open_trips[i]->num_of_requests[5], open_trips[i]->name.c_str());
+        printf("trip id: %d, capacity: %d, total requests: %d, c1: %d, c2: %d, c3: %d, c4: %d, c5: %d, c6: %d, name: %s\n", open_trips[i]->id, open_trips[i]->capacity, open_trips[i]->total_requests, open_trips[i]->num_of_requests[0], open_trips[i]->num_of_requests[1], open_trips[i]->num_of_requests[2], open_trips[i]->num_of_requests[3], open_trips[i]->num_of_requests[4], open_trips[i]->num_of_requests[5], open_trips[i]->name.c_str());
         // trips[i].name.c_str()
     }
 }
