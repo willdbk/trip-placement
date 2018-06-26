@@ -1,480 +1,489 @@
-﻿OrientationYear,LastName,FirstName,Gender,SwimmingAbility,ActivityLevel,ActivityIntensity,choice1,choice2,choice3,choice4,choice5,choice6,TripAssignment
-2018,Abboud,Firas,Male,4,3,2,Merritt Island,Indian Pond,Stand Up Paddleboarding,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,0
-2018,Abdelrahman,Ahmed,Male,1,3,2,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Indian Pond,Stand Up Paddleboarding,0
-2018,Aborbie Jr.,Solomon,Male,2,3,3,Harpswell Sound: Sail,Aziscohos Valley,Harpswell Sound: Surf,Merritt Island,Vinalhaven Island Community,Aroostook County: Houlton Community,0
-2018,Abrams,Adunni,Female ,2,3,3,Aziscohos Valley,Merritt Island,Harpswell Sound: Sail,Canoe Tripping,Harpswell Sound: Surf,Carpenter's Boat Shop,0
-2018,Adams,Catherine,Female,3,2,2,Day Hiking,Aziscohos Valley,Indian Pond,Merritt Island,Harpswell Sound: Sail,Harpswell Sound: Surf,0
-2018,Adelmann,Julia,Female,4,4,3,Indian Pond,Stand Up Paddleboarding,Canoe Tripping,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,0
-2018,Adewale,Adedunmola,Female,1,2,1,Aziscohos Valley,Merritt Island,Downeast Communities: Lubec,Carpenter's Boat Shop,Aroostook County: Houlton Community,Day Hiking,0
-2018,Ahmed,Sulwan,Female,2,4,2,Passamaquoddy Communities: Pleasant Point,North Haven Island Community,Passamaquoddy Communities: Indian Township,Merritt Island,Canoe Tripping,Carpenter's Boat Shop,0
-2018,Ambrosio,Alison,Female,3,2,2,Carpenter's Boat Shop,BSE,Day Hiking,Carrabassett Trail Work,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Environment and Sustainability,0
-2018,Anderson,Preston,Male,5,4,2,Carpenter's Boat Shop,Whitewater Kayaking,Day Hiking,Harpswell Sound: Surf,Stand Up Paddleboarding,Harpswell Sound: Sail,0
-2018,Andres,Teresa,Female,4,4,3,North Haven Island Community,Midcoast Communities: Environment and Sustainability,Vinalhaven Island Community,Morris Farm,Merritt Island,BSE,0
-2018,Angel,Isabella,Female,4,2,2,Indian Pond,Whitewater Kayaking,Carpenter's Boat Shop,Aziscohos Valley,Merritt Island,Harpswell Sound: Sail,0
-2018,Angotti,Tatum,female,5,4,3,Indian Pond,Stand Up Paddleboarding,Harpswell Sound: Surf,Whitewater Kayaking,Merritt Island,Harpswell Sound: Sail,0
-2018,Argueta Angulo,Camila,Female,1,3,2,Backpacking,Day Hiking,Cabin Trail Work,Downeast Communities: Milbridge,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,0
-2018,Aronson,Hailey,Female,5,3,3,Harpswell Sound: Surf,Backpacking,Day Hiking,Carrabassett Trail Work,Whitewater Kayaking,Cabin Trail Work,0
-2018,Arrarte,Tomas,Male,5,2,2,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Day Hiking,Harpswell Sound: Sail,Monson Bike,0
-2018,Asper,Garrison,Male,5,4,3,Harpswell Sound: Surf,Backpacking,Whitewater Kayaking,Canoe Tripping,Carpenter's Boat Shop,Cabin Trail Work,0
-2018,Attisani,Christopher,male,4,4,2,Harpswell Sound: Surf,Indian Pond,Merritt Island,Stand Up Paddleboarding,Whitewater Kayaking,Canoe Tripping,0
-2018,Ault,Patrick,male,3,4,2,Canoe Tripping,Day Hiking,Cabin Trail Work,Carrabassett Trail Work,Backpacking,Harpswell Sound: Surf,0
-2018,Autrey,Ashlynn,Female,5,4,3,Whitewater Kayaking,Canoe Tripping,Harpswell Sound: Sail,Stand Up Paddleboarding,BSE,Downeast Communities: Milbridge,0
-2018,Aydogdu,Mustafa,Male,2,2,2,Monson Bike,Vinalhaven Island Community,Passamaquoddy Communities: Indian Township,Aziscohos Valley,Backpacking,Day Hiking,0
-2018,Badger,Nina,Female,5,3,3,Harpswell Sound: Sail,Aziscohos Valley,Day Hiking,Harpswell Sound: Surf,Backpacking,Canoe Tripping,0
-2018,Bae,Minseo,male,4,4,3,Whitewater Kayaking,Harpswell Sound: Surf,Monson Bike,Canoe Tripping,Stand Up Paddleboarding,Harpswell Sound: Sail,0
-2018,Baker,Elizabeth,Female,3,2,2,BSE,Harpswell Sound: Sail,Harpswell Sound: Surf,Whitewater Kayaking,Carpenter's Boat Shop,Midcoast Communities: Environment and Sustainability,0
-2018,Baldwin,Haley,Female,3,2,2,Harpswell Sound: Sail,Morris Farm,Carpenter's Boat Shop,Aziscohos Valley,Cabin Trail Work,Day Hiking,0
-2018,Ball,Isabel,Female,5,4,3,Whitewater Kayaking,Harpswell Sound: Surf,Backpacking,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,0
-2018,Barbecho,Bryam,Male,3,3,3,BSE,Harpswell Sound: Sail,Midcoast Communities: Immigrants and Refugees,Backpacking,Downeast Communities: Milbridge,Morris Farm,0
-2018,Bastone,Andrew,Male,5,3,3,Indian Pond,Aziscohos Valley,Merritt Island,Canoe Tripping,Whitewater Kayaking,Backpacking,0
-2018,Behshid,Michelle,Female,3,4,3,Indian Pond,Canoe Tripping,Whitewater Kayaking,Stand Up Paddleboarding,Harpswell Sound: Surf,Aziscohos Valley,0
-2018,Bell,Anthea,female,2,2,2,Midcoast Communities: Public Health,Aziscohos Valley,Cabin Trail Work,Day Hiking,North Haven Island Community,Aroostook County: Presque Isle Community,0
-2018,Bergquist,Finn,Male,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Merritt Island,Canoe Tripping,0
-2018,Berry,Brooke,Female,4,3,3,Canoe Tripping,Whitewater Kayaking,Merritt Island,Morris Farm,Midcoast Communities: Hunger and Homelessness,Harpswell Sound: Sail,0
-2018,Bersani,Clio,Female,4,4,3,Aroostook County: Houlton Community,Aziscohos Valley,Merritt Island,Morris Farm,Indian Pond,Canoe Tripping,0
-2018,Berube,Cameron,male,5,4,3,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,Day Hiking,Backpacking,Indian Pond,0
-2018,Biondo,Aaliyah,Female,4,4,2,Indian Pond,Whitewater Kayaking,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Canoe Tripping,0
-2018,Black,Perham,Male,3,2,2,Whitewater Kayaking,Backpacking,Indian Pond,Aziscohos Valley,Canoe Tripping,Day Hiking,0
-2018,Blaise,Cedric,Male,3,4,3,Aziscohos Valley,BSE,Canoe Tripping,Harpswell Sound: Surf,Merritt Island,Whitewater Kayaking,0
-2018,Bloniasz,Patrick,Male,3,4,3,Aziscohos Valley,Harpswell Sound: Surf,Merritt Island,Day Hiking,Indian Pond,Canoe Tripping,0
-2018,Boasberg,Anne,Female,5,4,3,Aziscohos Valley,Day Hiking,Harpswell Sound: Surf,Backpacking,Monson Bike,Indian Pond,0
-2018,Boben,Jacqueline,Female,4,4,3,Whitewater Kayaking,Indian Pond,Backpacking,Day Hiking,Stand Up Paddleboarding,Aziscohos Valley,0
-2018,Boe,Stephen,Male,5,4,2,Harpswell Sound: Surf,Aziscohos Valley,Backpacking,Canoe Tripping,Whitewater Kayaking,Harpswell Sound: Sail,0
-2018,Bombard,David,Male,4,3,2,BSE,Canoe Tripping,Harpswell Sound: Sail,Whitewater Kayaking,Carpenter's Boat Shop,Stand Up Paddleboarding,0
-2018,Bor,Joyce,Female,2,2,2,Backpacking,Cabin Trail Work,Indian Pond,Monson Bike,North Haven Island Community,Stand Up Paddleboarding,0
-2018,Boyce,Nicholas,Male,3,2,1,Merritt Island,Passamaquoddy Communities: Pleasant Point,Aroostook County: Houlton Community,Midcoast Communities: Environment and Sustainability,Downeast Communities: Lubec,North Haven Island Community,0
-2018,Brathwaite,Kaprice,Female,2,2,2,Merritt Island,Monson Bike,Midcoast Communities: Public Health,Carpenter's Boat Shop,Passamaquoddy Communities: Pleasant Point,Harpswell Sound: Sail,0
-2018,Bravo,Anthony,Male,4,4,3,Harpswell Sound: Surf,Backpacking,Day Hiking,Harpswell Sound: Sail,Indian Pond,Merritt Island,0
-2018,Britt,Ryan,Male,3,3,2,Downeast Communities: Lubec,Downeast Communities: Milbridge,Aziscohos Valley,Day Hiking,Backpacking,Canoe Tripping,0
-2018,Britt,Allison,Female,4,4,3,Harpswell Sound: Surf,Stand Up Paddleboarding,Whitewater Kayaking,Indian Pond,Harpswell Sound: Sail,Aziscohos Valley,0
-2018,Brogdon,Irene,Female,3,2,2,Harpswell Sound: Sail,Harpswell Sound: Surf,Carpenter's Boat Shop,Passamaquoddy Communities: Pleasant Point,Aroostook County: Presque Isle Community,Cabin Trail Work,0
-2018,Brown,Evan,Male,4,4,3,Backpacking,Whitewater Kayaking,Stand Up Paddleboarding,Day Hiking,Canoe Tripping,Aziscohos Valley,0
-2018,Browne,Journey,Female,2,2,2,Harpswell Sound: Sail,Harpswell Sound: Surf,Carpenter's Boat Shop,Whitewater Kayaking,Stand Up Paddleboarding,Midcoast Communities: Public Health,0
-2018,Bulhan,Warsameh,Male,1,3,3,BSE,Monson Bike,Day Hiking,Backpacking,Western Foothills,Aziscohos Valley,0
-2018,Bullock,Delaney,Female,5,4,3,Backpacking,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Day Hiking,Whitewater Kayaking,0
-2018,Bundy,Fiona,Female ,3,3,3,Harpswell Sound: Surf,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Stand Up Paddleboarding,Whitewater Kayaking,0
-2018,Busching,William,Male,3,3,2,Indian Pond,Aziscohos Valley,Canoe Tripping,Day Hiking,Whitewater Kayaking,Harpswell Sound: Sail,0
-2018,Bussgang,Jason,Male,5,4,3,Whitewater Kayaking,Indian Pond,Aziscohos Valley,Backpacking,Harpswell Sound: Sail,Carpenter's Boat Shop,0
-2018,Bussiere,Sydney,female,2,2,1,Downeast Communities: Milbridge,Midcoast Communities: Immigrants and Refugees,Aroostook County: Houlton Community,Downeast Communities: Lubec,Midcoast Communities: Hunger and Homelessness,Harpswell Sound: Sail,0
-2018,Butler,Jack,male,3,2,2,Aziscohos Valley,Cabin Trail Work,Harpswell Sound: Sail,Indian Pond,Day Hiking,Canoe Tripping,0
-2018,Byars-Waller,Sarah,Female,3,2,2,Day Hiking,Indian Pond,Aziscohos Valley,Carrabassett Trail Work,Cabin Trail Work,Merritt Island,0
-2018,Byishimo,Espoir,Male,3,2,2,Midcoast Communities: Immigrants and Refugees,Harpswell Sound: Sail,Morris Farm,Vinalhaven Island Community,Day Hiking,Aroostook County: Presque Isle Community,0
-2018,Caffe,Lauren,Female,5,4,3,Harpswell Sound: Sail,Aziscohos Valley,Day Hiking,Carrabassett Trail Work,Carpenter's Boat Shop,Backpacking,0
-2018,Campbell,Delanie,Female,3,2,1,Aziscohos Valley,Indian Pond,Canoe Tripping,Cabin Trail Work,Merritt Island,Harpswell Sound: Surf,0
-2018,Campos,Carlos,Male,1,3,2,Downeast Communities: Milbridge,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,North Haven Island Community,Morris Farm,0
-2018,Canarelli,Dylan,Male,3,4,3,Harpswell Sound: Surf,Aziscohos Valley,Canoe Tripping,Backpacking,Whitewater Kayaking,Monson Bike,0
-2018,Cann,Gavin,Male,3,4,3,Canoe Tripping,Whitewater Kayaking,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Carpenter's Boat Shop,0
-2018,Carlson,Aura,Female,4,4,3,Indian Pond,Day Hiking,Backpacking,Whitewater Kayaking,Aziscohos Valley,Stand Up Paddleboarding,0
-2018,Carlton,Hadley,Female,5,4,3,Stand Up Paddleboarding,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Canoe Tripping,Aziscohos Valley,0
-2018,Carmi,Aryeh,Male,5,4,3,Whitewater Kayaking,Indian Pond,Aziscohos Valley,Monson Bike,Backpacking,Canoe Tripping,0
-2018,Cassano,Amanda,Female,4,2,1,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,Day Hiking,Downeast Communities: Lubec,Aroostook County: Presque Isle Community,Aroostook County: Houlton Community,0
-2018,Cawley,Chess (Francesca),Female,4,4,3,Harpswell Sound: Surf,North Haven Island Community,Vinalhaven Island Community,Harpswell Sound: Sail,Indian Pond,Stand Up Paddleboarding,0
-2018,Chakrabarti,Raima,Female,3,2,2,Aziscohos Valley,Day Hiking,Indian Pond,Downeast Communities: Lubec,Canoe Tripping,Cabin Trail Work,0
-2018,Chamberlin,Summer,female,3,3,2,Aziscohos Valley,Harpswell Sound: Surf,Stand Up Paddleboarding,Day Hiking,Canoe Tripping,Whitewater Kayaking,0
-2018,Chase,Abednego,Male,2,3,2,BSE,Merritt Island,Aziscohos Valley,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,0
-2018,Cheah,Yew San,Male,3,2,2,Whitewater Kayaking,Harpswell Sound: Surf,Aziscohos Valley,Backpacking,Harpswell Sound: Sail,Day Hiking,0
-2018,Chen,Alissa,Female,4,2,1,Indian Pond,Stand Up Paddleboarding,Vinalhaven Island Community,North Haven Island Community,Carpenter's Boat Shop,BSE,0
-2018,Chertavian,Casey,Female ,4,4,3,Aziscohos Valley,Canoe Tripping,Day Hiking,Stand Up Paddleboarding,Harpswell Sound: Sail,Merritt Island,0
-2018,Chisari,Jared,male,4,4,3,Indian Pond,Canoe Tripping,Harpswell Sound: Sail,Harpswell Sound: Surf,Stand Up Paddleboarding,Monson Bike,0
-2018,Christopher,Roshaun,Male,3,4,3,Merritt Island,Canoe Tripping,Day Hiking,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,0
-2018,Claar,Carson,male,4,4,3,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,0
-2018,Clack,Noah,Male,3,4,3,Whitewater Kayaking,Canoe Tripping,Indian Pond,Merritt Island,Harpswell Sound: Sail,Cabin Trail Work,0
-2018,Clark,Alexander,Male,5,4,2,Whitewater Kayaking,Indian Pond,Harpswell Sound: Sail,Backpacking,Day Hiking,Stand Up Paddleboarding,0
-2018,Clukey,Jenna,Female,4,4,3,Cabin Trail Work,Merritt Island,Western Foothills,Day Hiking,Backpacking,Carrabassett Trail Work,0
-2018,Coffin,Emily,Female,4,4,3,Carpenter's Boat Shop,Harpswell Sound: Sail,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Morris Farm,0
-2018,Cohen,Andrew,Male,4,4,2,Aziscohos Valley,Day Hiking,Indian Pond,Downeast Communities: Lubec,Aroostook County: Houlton Community,Carrabassett Trail Work,0
-2018,Cohen,Aidan,male,3,3,3,Canoe Tripping,Indian Pond,Day Hiking,Harpswell Sound: Sail,Backpacking,Whitewater Kayaking,0
-2018,Colarusso,Maeve,Female,4,3,3,Aziscohos Valley,Canoe Tripping,Harpswell Sound: Surf,Backpacking,Indian Pond,Harpswell Sound: Sail,0
-2018,Coleman,Emanuel,Male,4,3,3,Aziscohos Valley,Indian Pond,Day Hiking,Backpacking,Stand Up Paddleboarding,Canoe Tripping,0
-2018,Cooper,Harry,Male,5,4,3,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Carpenter's Boat Shop,Whitewater Kayaking,Harpswell Sound: Surf,0
-2018,Cost,Caleb,Male,3,4,3,Backpacking,Canoe Tripping,Day Hiking,Indian Pond,Merritt Island,Stand Up Paddleboarding,0
-2018,Crabtree,Ella,Female,3,3,2,Indian Pond,Backpacking,Canoe Tripping,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,0
-2018,Cramer,Edward,Male,5,3,1,Aziscohos Valley,Merritt Island,Indian Pond,Cabin Trail Work,Carrabassett Trail Work,Harpswell Sound: Surf,0
-2018,Crawford,Stephen,Male,3,4,3,BSE,Whitewater Kayaking,Harpswell Sound: Surf,Cabin Trail Work,Harpswell Sound: Sail,Backpacking,0
-2018,Cruz,Yadira,Female,1,2,2,BSE,Midcoast Communities: Hunger and Homelessness,Carpenter's Boat Shop,Midcoast Communities: Immigrants and Refugees,Aroostook County: Presque Isle Community,Aroostook County: Houlton Community,0
-2018,Cunliffe,Brianna,female,5,3,2,Backpacking,Harpswell Sound: Sail,Whitewater Kayaking,Aziscohos Valley,Passamaquoddy Communities: Indian Township,Carrabassett Trail Work,0
-2018,Cunningham,Kasey,Female,2,4,3,Day Hiking,Indian Pond,Merritt Island,Aziscohos Valley,Carrabassett Trail Work,Stand Up Paddleboarding,0
-2018,Cunningham,Teagan,Female,5,4,3,Indian Pond,Harpswell Sound: Surf,Merritt Island,Canoe Tripping,Aziscohos Valley,Carrabassett Trail Work,0
-2018,Daley,Thomas,Male,4,2,2,Canoe Tripping,Day Hiking,Aziscohos Valley,Downeast Communities: Lubec,Harpswell Sound: Sail,Monson Bike,0
-2018,Daley,Kathryn,Female,5,3,2,Harpswell Sound: Surf,Harpswell Sound: Sail,Indian Pond,Whitewater Kayaking,Backpacking,Aziscohos Valley,0
-2018,Danzig,Theodore,Male,5,3,3,Whitewater Kayaking,Backpacking,Indian Pond,Aziscohos Valley,Canoe Tripping,Monson Bike,0
-2018,Davaadorj,Tuguldur,Male,4,4,3,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Harpswell Sound: Surf,Whitewater Kayaking,BSE,0
-2018,De La Rosa,Giancarlo,Male,4,3,2,Aroostook County: Houlton Community,Carpenter's Boat Shop,Harpswell Sound: Sail,Merritt Island,Carrabassett Trail Work,Downeast Communities: Lubec,0
-2018,de Lasa,Sebastian,Male,5,3,3,Backpacking,Whitewater Kayaking,Canoe Tripping,Day Hiking,Harpswell Sound: Surf,Cabin Trail Work,0
-2018,Dean,Michael,Male,5,4,3,Whitewater Kayaking,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Merritt Island,Aziscohos Valley,0
-2018,Dear,Dalton,Male,4,3,3,Harpswell Sound: Sail,Day Hiking,Indian Pond,Vinalhaven Island Community,Harpswell Sound: Surf,Backpacking,0
-2018,Dewey,Emma,Female,3,2,1,Passamaquoddy Communities: Pleasant Point,Passamaquoddy Communities: Indian Township,Downeast Communities: Milbridge,North Haven Island Community,Vinalhaven Island Community,Midcoast Communities: Immigrants and Refugees,0
-2018,Diaz,Cesar,Male,3,3,3,Whitewater Kayaking,Canoe Tripping,Indian Pond,Aziscohos Valley,Monson Bike,BSE,0
-2018,Diaz,Tyler,Male,4,2,2,Vinalhaven Island Community,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,Midcoast Communities: Environment and Sustainability,North Haven Island Community,Midcoast Communities: Hunger and Homelessness,0
-2018,Dickson,Carly,Female,5,4,3,Indian Pond,Backpacking,Harpswell Sound: Surf,Day Hiking,Whitewater Kayaking,Harpswell Sound: Sail,0
-2018,Diserio,Gabriella,Female,5,3,3,Day Hiking,Cabin Trail Work,Merritt Island,Morris Farm,Aziscohos Valley,Harpswell Sound: Surf,0
-2018,Dong,Ray,Male,4,3,3,Whitewater Kayaking,Harpswell Sound: Surf,Harpswell Sound: Sail,Merritt Island,Monson Bike,Canoe Tripping,0
-2018,Donnelly,Matthew,Male,4,4,3,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Merritt Island,Harpswell Sound: Surf,Day Hiking,0
-2018,Dougal,Aleksandra,female,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Backpacking,Whitewater Kayaking,Midcoast Communities: Environment and Sustainability,0
-2018,Dowd,Eva,Female,5,4,3,Indian Pond,Harpswell Sound: Surf,Aziscohos Valley,Merritt Island,Carrabassett Trail Work,Cabin Trail Work,0
-2018,Duffy,James,male,4,4,2,Aziscohos Valley,Whitewater Kayaking,Canoe Tripping,Stand Up Paddleboarding,Carpenter's Boat Shop,Harpswell Sound: Surf,0
-2018,Duncan-Moore,Tyrese,Male,1,2,1,Backpacking,Morris Farm,Downeast Communities: Lubec,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,Carrabassett Trail Work,0
-2018,Durkin,Ryan,Male,5,4,3,Carpenter's Boat Shop,Indian Pond,Harpswell Sound: Sail,Harpswell Sound: Surf,Whitewater Kayaking,Backpacking,0
-2018,Eaton,Sunshine,Female,3,4,3,BSE,Aziscohos Valley,Monson Bike,Whitewater Kayaking,Western Foothills,Canoe Tripping,0
-2018,Edmonds-Estes,Casey,Male,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Merritt Island,Indian Pond,Aziscohos Valley,0
-2018,Edwards,Morgan,Male,3,4,3,Backpacking,Aziscohos Valley,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Day Hiking,0
-2018,Eichenlaub,Jonas,Male,4,3,2,Backpacking,Harpswell Sound: Sail,Whitewater Kayaking,Canoe Tripping,Stand Up Paddleboarding,Monson Bike,0
-2018,Ellis,Seneca,Female,3,3,2,Aziscohos Valley,Merritt Island,Indian Pond,Morris Farm,North Haven Island Community,Carrabassett Trail Work,0
-2018,Enger,Peter,Male,4,4,3,Monson Bike,Backpacking,Canoe Tripping,Whitewater Kayaking,Day Hiking,Stand Up Paddleboarding,0
-2018,Enzian,Kieran,Male,5,2,2,Whitewater Kayaking,Backpacking,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,Canoe Tripping,0
-2018,Etienne,Qetsia,Female,2,1,1,Harpswell Sound: Surf,Harpswell Sound: Sail,Midcoast Communities: Hunger and Homelessness,Indian Pond,Aroostook County: Houlton Community,Western Foothills,0
-2018,Evans,Adelaide,Female,4,3,2,Harpswell Sound: Sail,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Day Hiking,Harpswell Sound: Surf,0
-2018,Fakatoumafi,Thomas,Male,5,4,3,Whitewater Kayaking,Stand Up Paddleboarding,Indian Pond,Carpenter's Boat Shop,Canoe Tripping,BSE,0
-2018,Farmer,Leah,Female,2,2,1,Merritt Island,Carrabassett Trail Work,Cabin Trail Work,Day Hiking,Aziscohos Valley,Midcoast Communities: Public Health,0
-2018,Feigl,Catherine,female,4,2,2,Canoe Tripping,Aziscohos Valley,Carpenter's Boat Shop,Harpswell Sound: Sail,Whitewater Kayaking,Harpswell Sound: Surf,0
-2018,Feinerman,Sophia,Female,5,3,3,Whitewater Kayaking,Harpswell Sound: Surf,Aziscohos Valley,Stand Up Paddleboarding,Backpacking,Indian Pond,0
-2018,Felser,Benjamin,Male,3,4,3,Whitewater Kayaking,Backpacking,Stand Up Paddleboarding,Carrabassett Trail Work,Merritt Island,Indian Pond,0
-2018,Fenton,River,Male,4,3,3,Canoe Tripping,Indian Pond,Stand Up Paddleboarding,Cabin Trail Work,Whitewater Kayaking,Backpacking,0
-2018,Filiakova,Ekaterina,female,3,2,1,Midcoast Communities: Public Health,North Haven Island Community,Vinalhaven Island Community,Passamaquoddy Communities: Indian Township,Midcoast Communities: Environment and Sustainability,Carpenter's Boat Shop,0
-2018,Filippou,Vasiliki,Female,4,3,2,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,0
-2018,Fisher,Braden,Male,3,4,2,Indian Pond,Canoe Tripping,Day Hiking,Stand Up Paddleboarding,Carrabassett Trail Work,Whitewater Kayaking,0
-2018,Flagg,Emmeline,Female,5,3,2,Carpenter's Boat Shop,Day Hiking,Harpswell Sound: Sail,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Merritt Island,0
-2018,Foehl,Reed,male,4,4,3,Backpacking,Day Hiking,Canoe Tripping,Monson Bike,Cabin Trail Work,Carrabassett Trail Work,0
-2018,Foley,Nicholas,Male,4,4,3,Indian Pond,Harpswell Sound: Surf,Stand Up Paddleboarding,Whitewater Kayaking,Vinalhaven Island Community,Harpswell Sound: Sail,0
-2018,Follett,Spencer,Male,4,4,3,Aziscohos Valley,Indian Pond,Carrabassett Trail Work,Cabin Trail Work,Day Hiking,Stand Up Paddleboarding,0
-2018,Fortier,Evan,Male,5,4,3,Indian Pond,Harpswell Sound: Sail,Aziscohos Valley,Harpswell Sound: Surf,Whitewater Kayaking,Canoe Tripping,0
-2018,Fowler,Chris,Male,3,3,2,Harpswell Sound: Sail,Harpswell Sound: Surf,Backpacking,Day Hiking,Indian Pond,Merritt Island,0
-2018,Fozo,Madison,Female,4,4,3,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,0
-2018,Freeman,Mason ,Male,3,3,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Backpacking,Canoe Tripping,Day Hiking,Whitewater Kayaking,0
-2018,Freeman,Max,Male,3,3,3,Indian Pond,Harpswell Sound: Sail,Backpacking,Day Hiking,Merritt Island,Canoe Tripping,0
-2018,Friel,Laura,Female,3,3,2,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,BSE,Aziscohos Valley,0
-2018,Fuller,Emily,female,4,4,3,Backpacking,Monson Bike,Morris Farm,Western Foothills,Aziscohos Valley,Midcoast Communities: Hunger and Homelessness,0
-2018,Funk,Bridget,Female,4,4,3,Harpswell Sound: Sail,Stand Up Paddleboarding,Whitewater Kayaking,Indian Pond,Harpswell Sound: Surf,Canoe Tripping,0
-2018,Gallagher,Shannon,female,5,4,3,Indian Pond,Stand Up Paddleboarding,Canoe Tripping,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,0
-2018,Gans,Noah,Male,4,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Monson Bike,Stand Up Paddleboarding,Whitewater Kayaking,Backpacking,0
-2018,Gates,Alexander,Male,3,2,1,BSE,Day Hiking,Vinalhaven Island Community,Western Foothills,Midcoast Communities: Environment and Sustainability,Backpacking,0
-2018,Gearan,Jessica,Woman,4,4,3,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Stand Up Paddleboarding,Cabin Trail Work,Canoe Tripping,0
-2018,George,Ishaan ,Male,4,3,3,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,Monson Bike,Day Hiking,0
-2018,Gracey,Elizabeth,Female,5,4,3,Aziscohos Valley,Backpacking,Whitewater Kayaking,Merritt Island,Cabin Trail Work,Carrabassett Trail Work,0
-2018,Granoski,Maia,Female,4,3,2,Aziscohos Valley,Day Hiking,Morris Farm,Indian Pond,Merritt Island,Backpacking,0
-2018,Gray,Corina,Female,4,4,2,Indian Pond,Harpswell Sound: Sail,Aziscohos Valley,Merritt Island,Canoe Tripping,Whitewater Kayaking,0
-2018,Green,Caleb,Male,2,4,3,BSE,Indian Pond,Aziscohos Valley,Carrabassett Trail Work,Merritt Island,Canoe Tripping,0
-2018,Green Jr,Troy,Male,4,3,3,Harpswell Sound: Surf,Canoe Tripping,Harpswell Sound: Sail,Indian Pond,Stand Up Paddleboarding,Backpacking,0
-2018,Greene,Nora,Female,5,4,2,Vinalhaven Island Community,Harpswell Sound: Surf,North Haven Island Community,Merritt Island,Stand Up Paddleboarding,Day Hiking,0
-2018,Grimbilas,George,Male,3,2,2,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Hunger and Homelessness,North Haven Island Community,Aroostook County: Presque Isle Community,0
-2018,Groell,Olivia,Female,3,2,2,BSE,Midcoast Communities: Public Health,Downeast Communities: Milbridge,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Environment and Sustainability,0
-2018,Groves,Lydia,Female,4,3,2,Stand Up Paddleboarding,Aziscohos Valley,Carpenter's Boat Shop,Indian Pond,Whitewater Kayaking,Aroostook County: Houlton Community,0
-2018,Grzyb,Emily,Female,4,4,2,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Midcoast Communities: Immigrants and Refugees,Merritt Island,Vinalhaven Island Community,0
-2018,Gunturu,Prithvi,Male,3,3,3,Aziscohos Valley,Harpswell Sound: Surf,Day Hiking,Indian Pond,Backpacking,BSE,0
-2018,Hacker,Tabitha,Female,5,3,2,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Merritt Island,BSE,Canoe Tripping,0
-2018,Hagi,Mulki,Female ,1,1,1,Merritt Island,Downeast Communities: Lubec,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,North Haven Island Community,Aroostook County: Houlton Community,0
-2018,Hahesy,Emma,Female,3,2,2,Canoe Tripping,Day Hiking,Aziscohos Valley,Merritt Island,Passamaquoddy Communities: Pleasant Point,Passamaquoddy Communities: Indian Township,0
-2018,Haskins,Alia,Female,4,4,3,Passamaquoddy Communities: Pleasant Point,Passamaquoddy Communities: Indian Township,Carpenter's Boat Shop,Harpswell Sound: Sail,Aziscohos Valley,Canoe Tripping,0
-2018,Hatt,Emma,Female,3,2,2,Canoe Tripping,Aziscohos Valley,Backpacking,Day Hiking,Western Foothills,BSE,0
-2018,Hausmann,Will,Male,3,4,2,Indian Pond,Aziscohos Valley,Backpacking,Canoe Tripping,Stand Up Paddleboarding,Harpswell Sound: Sail,0
-2018,Hawkins,Alice,Female,5,4,3,Indian Pond,Backpacking,Harpswell Sound: Surf,Aziscohos Valley,Whitewater Kayaking,Harpswell Sound: Sail,0
-2018,Hawkins,Allyson,female,4,4,2,Aziscohos Valley,Day Hiking,Indian Pond,Downeast Communities: Lubec,Aroostook County: Houlton Community,Carrabassett Trail Work,0
-2018,Hayami,Nana,Female,5,2,2,Merritt Island,Aziscohos Valley,Canoe Tripping,Day Hiking,Carpenter's Boat Shop,Downeast Communities: Lubec,0
-2018,Hayes,Grady,Male,5,4,3,Aziscohos Valley,Merritt Island,Harpswell Sound: Surf,North Haven Island Community,Vinalhaven Island Community,Day Hiking,0
-2018,Healy,Liam,Male,3,2,3,Aziscohos Valley,Harpswell Sound: Sail,Day Hiking,Merritt Island,Whitewater Kayaking,Indian Pond,0
-2018,Helmke,Anika,female ,4,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Indian Pond,Merritt Island,Whitewater Kayaking,0
-2018,Hikida,Madeline,Female,4,3,2,Indian Pond,Aziscohos Valley,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Whitewater Kayaking,0
-2018,Hirsch,Maia,Female,3,2,2,North Haven Island Community,Indian Pond,Vinalhaven Island Community,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,0
-2018,Hocking,Elise,female,5,4,3,Carpenter's Boat Shop,Cabin Trail Work,Day Hiking,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,0
-2018,Holloway,Symone,Female,1,1,1,Aroostook County: Houlton Community,North Haven Island Community,Vinalhaven Island Community,Aroostook County: Presque Isle Community,Passamaquoddy Communities: Indian Township,Downeast Communities: Milbridge,0
-2018,Hood,John,Male,4,4,3,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Stand Up Paddleboarding,Indian Pond,Backpacking,0
-2018,Horan,Melissa,female,4,4,3,Day Hiking,Backpacking,Aziscohos Valley,Indian Pond,Downeast Communities: Lubec,Midcoast Communities: Immigrants and Refugees,0
-2018,Hornbeck,Thomas,Male,4,2,3,Indian Pond,Morris Farm,Whitewater Kayaking,Merritt Island,Canoe Tripping,Harpswell Sound: Sail,0
-2018,Hoyne Grosvenor,Jeremy,Male,4,4,3,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,Aziscohos Valley,Morris Farm,0
-2018,Hu,Xiwen,F,2,2,1,Carpenter's Boat Shop,Merritt Island,BSE,Aziscohos Valley,Backpacking,Monson Bike,0
-2018,Hua,Yucheng,male,4,3,2,Harpswell Sound: Sail,BSE,Aziscohos Valley,Whitewater Kayaking,Midcoast Communities: Environment and Sustainability,Day Hiking,0
-2018,huckaby,tess,female,3,3,3,Morris Farm,Passamaquoddy Communities: Indian Township,North Haven Island Community,Midcoast Communities: Environment and Sustainability,Aroostook County: Presque Isle Community,Midcoast Communities: Hunger and Homelessness,0
-2018,Hugee,Myles,Male,2,4,3,Harpswell Sound: Surf,Indian Pond,Stand Up Paddleboarding,Harpswell Sound: Sail,Canoe Tripping,Whitewater Kayaking,0
-2018,Husted,Anibal,Male ,4,2,2,Monson Bike,North Haven Island Community,Vinalhaven Island Community,Day Hiking,Downeast Communities: Lubec,Midcoast Communities: Environment and Sustainability,0
-2018,Hyman,Isaiah,Male,3,4,2,Aziscohos Valley,Backpacking,Whitewater Kayaking,Day Hiking,Indian Pond,Harpswell Sound: Sail,0
-2018,Inoa,Gabriela,female,4,2,2,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Canoe Tripping,Harpswell Sound: Sail,Midcoast Communities: Hunger and Homelessness,Stand Up Paddleboarding,0
-2018,Isaacson,Henry,Male,5,4,3,Whitewater Kayaking,Harpswell Sound: Surf,Backpacking,Day Hiking,Monson Bike,Harpswell Sound: Sail,0
-2018,Izaguirre Reyes,Jairo,Male,3,4,3,Aziscohos Valley,Indian Pond,Merritt Island,BSE,Midcoast Communities: Public Health,Day Hiking,0
-2018,Jackson,Caroline,Female,4,3,3,Harpswell Sound: Surf,Indian Pond,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Merritt Island,0
-2018,Jadatz,Kyle,Male ,5,4,3,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Monson Bike,Day Hiking,Harpswell Sound: Sail,0
-2018,Jaffer,Ameerah,Female,3,3,2,Stand Up Paddleboarding,Passamaquoddy Communities: Indian Township,Harpswell Sound: Sail,Vinalhaven Island Community,Midcoast Communities: Immigrants and Refugees,Merritt Island,0
-2018,Jaman,Ella Marie,Female,2,2,1,Aziscohos Valley,Carrabassett Trail Work,BSE,Day Hiking,Carpenter's Boat Shop,Western Foothills,0
-2018,Janes,Margaret,female,3,4,3,Aziscohos Valley,Harpswell Sound: Surf,Day Hiking,Merritt Island,Stand Up Paddleboarding,Indian Pond,0
-2018,Janszky,Lucas,Male,5,3,3,Whitewater Kayaking,Backpacking,Canoe Tripping,Aziscohos Valley,Day Hiking,Harpswell Sound: Sail,0
-2018,John,Kathryn,Female,4,3,3,Aziscohos Valley,Whitewater Kayaking,Morris Farm,Canoe Tripping,Day Hiking,Stand Up Paddleboarding,0
-2018,Johnson,Lucas,Male,3,3,3,Harpswell Sound: Sail,Whitewater Kayaking,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Immigrants and Refugees,Day Hiking,0
-2018,Johnston,Emma,Female,4,3,3,Harpswell Sound: Surf,Whitewater Kayaking,Day Hiking,Indian Pond,Downeast Communities: Lubec,Backpacking,0
-2018,Jonas,Serena,Female,5,4,3,Indian Pond,Whitewater Kayaking,Harpswell Sound: Surf,Aziscohos Valley,Stand Up Paddleboarding,Day Hiking,0
-2018,Jones,Rubin,Male,4,2,3,Indian Pond,Harpswell Sound: Sail,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,Cabin Trail Work,0
-2018,Jorgensen,Taylor,Female,2,2,2,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,North Haven Island Community,Aroostook County: Houlton Community,Vinalhaven Island Community,Downeast Communities: Lubec,0
-2018,Joyce,Angelina,Female,4,4,3,BSE,Merritt Island,Harpswell Sound: Sail,Harpswell Sound: Surf,Canoe Tripping,Whitewater Kayaking,0
-2018,Juntura,Danica Andrea,Female,2,2,2,Stand Up Paddleboarding,Harpswell Sound: Sail,Whitewater Kayaking,Day Hiking,Backpacking,Harpswell Sound: Surf,0
-2018,Kagitomi,Taiga,Male,4,4,3,Aroostook County: Houlton Community,Morris Farm,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Environment and Sustainability,Vinalhaven Island Community,North Haven Island Community,0
-2018,Kangas,Atticus,Male,5,4,3,Aziscohos Valley,Canoe Tripping,Indian Pond,Whitewater Kayaking,Stand Up Paddleboarding,Day Hiking,0
-2018,Kant,Brigita,Female,4,2,1,Indian Pond,Whitewater Kayaking,Canoe Tripping,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,0
-2018,Karris,Sophia,Female ,4,4,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Backpacking,Whitewater Kayaking,Western Foothills,Canoe Tripping,0
-2018,Kashner,Tessa,Genderqueer,4,3,2,Cabin Trail Work,Carrabassett Trail Work,Aziscohos Valley,Backpacking,Carpenter's Boat Shop,Western Foothills,0
-2018,Kassama,Francis Jacob,Male,3,2,1,BSE,North Haven Island Community,Vinalhaven Island Community,Cabin Trail Work,Aroostook County: Houlton Community,Midcoast Communities: Public Health,0
-2018,Katz,Lauren,Female,4,3,3,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,Backpacking,Canoe Tripping,0
-2018,Katz,Isaac,Male,4,4,2,Canoe Tripping,Merritt Island,Aziscohos Valley,Cabin Trail Work,Vinalhaven Island Community,Passamaquoddy Communities: Indian Township,0
-2018,Kay,Sela,female,3,4,3,Aziscohos Valley,Harpswell Sound: Surf,Indian Pond,Merritt Island,Stand Up Paddleboarding,Whitewater Kayaking,0
-2018,Kelsey,Nate,Male,5,4,3,Whitewater Kayaking,Backpacking,Aziscohos Valley,Canoe Tripping,Harpswell Sound: Surf,Harpswell Sound: Sail,0
-2018,Kelton,Gemma,Female,2,3,2,Canoe Tripping,Cabin Trail Work,Carrabassett Trail Work,Midcoast Communities: Immigrants and Refugees,Merritt Island,Aziscohos Valley,0
-2018,Kemp,Kathleen,Female,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Canoe Tripping,Indian Pond,Merritt Island,0
-2018,Khoory,Nailah,Female,5,3,2,Whitewater Kayaking,Harpswell Sound: Sail,Indian Pond,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,0
-2018,Kim,Dae Kyu,Male,3,4,3,Aziscohos Valley,Day Hiking,Backpacking,Merritt Island,Monson Bike,Midcoast Communities: Public Health,0
-2018,Kim,Kyubin,Female,2,2,2,Midcoast Communities: Public Health,North Haven Island Community,Midcoast Communities: Immigrants and Refugees,Morris Farm,Vinalhaven Island Community,Merritt Island,0
-2018,King,Gillian,Female,2,3,2,BSE,Day Hiking,Aziscohos Valley,Backpacking,Harpswell Sound: Sail,Indian Pond,0
-2018,Kingston,John,Male,4,4,3,Harpswell Sound: Surf,Indian Pond,Merritt Island,Stand Up Paddleboarding,Whitewater Kayaking,Canoe Tripping,0
-2018,Kissel,Aaron,Male,5,4,3,Backpacking,Whitewater Kayaking,Canoe Tripping,Monson Bike,Merritt Island,Harpswell Sound: Surf,0
-2018,Knight,Evan,Male,5,4,3,Harpswell Sound: Surf,Backpacking,Harpswell Sound: Sail,Whitewater Kayaking,Indian Pond,Canoe Tripping,0
-2018,Ko,Kangrok,"Male	",1,4,1,Aziscohos Valley,Merritt Island,Carpenter's Boat Shop,Carrabassett Trail Work,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,0
-2018,Koeller,Elizabeth,Female,3,4,3,Canoe Tripping,Downeast Communities: Lubec,Whitewater Kayaking,Stand Up Paddleboarding,Harpswell Sound: Sail,North Haven Island Community,0
-2018,Koh,Younju,Female,3,2,2,Merritt Island,Aroostook County: Presque Isle Community,Downeast Communities: Lubec,Harpswell Sound: Sail,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,0
-2018,Komishane,Coleman,Male,5,4,3,Aziscohos Valley,Harpswell Sound: Surf,Indian Pond,Day Hiking,Backpacking,Whitewater Kayaking,0
-2018,Kothari,Arman,Male,3,3,3,Backpacking,Indian Pond,Canoe Tripping,Merritt Island,Whitewater Kayaking,Aziscohos Valley,0
-2018,Kreines,Alexander,Male,3,4,3,Day Hiking,Aziscohos Valley,Carpenter's Boat Shop,Backpacking,Indian Pond,Whitewater Kayaking,0
-2018,Kriz,Claudia,Female,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Vinalhaven Island Community,North Haven Island Community,Stand Up Paddleboarding,Carpenter's Boat Shop,0
-2018,Krogh,Isabel,Female,4,3,2,Canoe Tripping,Indian Pond,Day Hiking,Aziscohos Valley,Cabin Trail Work,Stand Up Paddleboarding,0
-2018,Krupp,Brandon,Male,4,4,2,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Carrabassett Trail Work,Carpenter's Boat Shop,Aroostook County: Presque Isle Community,0
-2018,Kuhnle,Scott,Male,5,3,3,Canoe Tripping,Cabin Trail Work,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,Carrabassett Trail Work,0
-2018,Kunins-Berkowitz,Livia,Female,4,2,2,Backpacking,Indian Pond,Aziscohos Valley,Passamaquoddy Communities: Indian Township,Day Hiking,Whitewater Kayaking,0
-2018,Kwon,Hyeok-Kyoung,Female,3,1,1,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,Midcoast Communities: Hunger and Homelessness,Downeast Communities: Milbridge,Downeast Communities: Lubec,0
-2018,Lam,Nicholas,Male,4,3,3,Indian Pond,Aziscohos Valley,Whitewater Kayaking,Stand Up Paddleboarding,Monson Bike,Canoe Tripping,0
-2018,Lamphier,Colin,male,3,4,2,Canoe Tripping,Harpswell Sound: Sail,Carpenter's Boat Shop,Harpswell Sound: Surf,Merritt Island,Monson Bike,0
-2018,Landau,June (Fleming),Female,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Indian Pond,Canoe Tripping,Stand Up Paddleboarding,Whitewater Kayaking,0
-2018,Lasarte,Diego,Male,2,3,2,Backpacking,Merritt Island,Aziscohos Valley,Canoe Tripping,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,0
-2018,Lau,Jamie,Female ,4,4,3,Backpacking,Cabin Trail Work,Carrabassett Trail Work,Harpswell Sound: Surf,Midcoast Communities: Hunger and Homelessness,Indian Pond,0
-2018,Lawler,Emilia,Female,3,2,2,Merritt Island,Indian Pond,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Day Hiking,0
-2018,Lee,Carey,Female,3,3,2,Whitewater Kayaking,Harpswell Sound: Surf,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Stand Up Paddleboarding,0
-2018,Lee,Grace,Female,4,3,2,BSE,Aziscohos Valley,Stand Up Paddleboarding,Canoe Tripping,Whitewater Kayaking,Passamaquoddy Communities: Pleasant Point,0
-2018,Lenaghan,Brian,male,5,4,3,Indian Pond,Day Hiking,Canoe Tripping,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,0
-2018,Liesman,Jonathan,male,5,4,3,Backpacking,Aziscohos Valley,Whitewater Kayaking,Cabin Trail Work,Merritt Island,Canoe Tripping,0
-2018,Lin,Joanna,Female,3,2,1,BSE,Midcoast Communities: Public Health,Carpenter's Boat Shop,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,0
-2018,Lin,Joshua,Male,3,3,1,BSE,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Public Health,Aroostook County: Presque Isle Community,Midcoast Communities: Immigrants and Refugees,Aroostook County: Houlton Community,0
-2018,Lin,Jingrui,Female,3,2,1,Downeast Communities: Lubec,BSE,Merritt Island,Morris Farm,Canoe Tripping,Passamaquoddy Communities: Indian Township,0
-2018,Little,Daniel,Male,3,3,3,Carpenter's Boat Shop,Morris Farm,Merritt Island,Cabin Trail Work,North Haven Island Community,Monson Bike,0
-2018,Liu,Shuhao,Male,4,3,2,Whitewater Kayaking,Harpswell Sound: Surf,Indian Pond,Canoe Tripping,Merritt Island,Aziscohos Valley,0
-2018,Loaisiga,Maynor,Male,4,3,2,Canoe Tripping,Aziscohos Valley,Merritt Island,Indian Pond,Harpswell Sound: Sail,Day Hiking,0
-2018,Lopes,Joao,Male,5,3,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Cabin Trail Work,Aziscohos Valley,Indian Pond,Carpenter's Boat Shop,0
-2018,Luan,Michelle,Female,4,2,1,Aziscohos Valley,Merritt Island,Canoe Tripping,Cabin Trail Work,Carpenter's Boat Shop,Harpswell Sound: Sail,0
-2018,Luong,Phuong,Female,1,1,2,BSE,Merritt Island,Indian Pond,Backpacking,Day Hiking,Aroostook County: Houlton Community,0
-2018,Mack,Penelope,female,4,2,2,Harpswell Sound: Surf,Merritt Island,Day Hiking,Morris Farm,Indian Pond,Canoe Tripping,0
-2018,MacKenzie,Cameron,Female,5,4,3,Day Hiking,Cabin Trail Work,Harpswell Sound: Sail,Backpacking,Morris Farm,Carrabassett Trail Work,0
-2018,Magrath,Melissa,female,4,4,3,Indian Pond,Backpacking,Day Hiking,Aziscohos Valley,Canoe Tripping,Harpswell Sound: Sail,0
-2018,Majersik,Emilia,Femals,4,3,3,Backpacking,Day Hiking,Indian Pond,Aziscohos Valley,Whitewater Kayaking,Harpswell Sound: Surf,0
-2018,Margiotta,Jameson,Female,2,4,3,Stand Up Paddleboarding,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Day Hiking,Western Foothills,0
-2018,Marin,George,Male ,1,4,2,Merritt Island,Carpenter's Boat Shop,Harpswell Sound: Sail,Aziscohos Valley,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,0
-2018,Marks,Julia,Female,4,4,3,Backpacking,Carrabassett Trail Work,Indian Pond,Day Hiking,Aroostook County: Presque Isle Community,Canoe Tripping,0
-2018,Marquez,Danielle,Female,4,4,3,Harpswell Sound: Surf,Backpacking,Stand Up Paddleboarding,Whitewater Kayaking,Day Hiking,Canoe Tripping,0
-2018,Mason,Benjamin,Male,4,4,2,Carpenter's Boat Shop,Aziscohos Valley,Indian Pond,Harpswell Sound: Sail,Whitewater Kayaking,Harpswell Sound: Surf,0
-2018,Matovu,George,Male,3,3,2,Indian Pond,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Stand Up Paddleboarding,Day Hiking,0
-2018,Mauro,Francesca,F,4,3,2,Indian Pond,Aziscohos Valley,Merritt Island,Day Hiking,Stand Up Paddleboarding,Canoe Tripping,0
-2018,Maus,Jacob,Male,4,4,3,Whitewater Kayaking,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Canoe Tripping,0
-2018,Maus,Ellie,Female,4,3,2,Merritt Island,Indian Pond,Midcoast Communities: Environment and Sustainability,Stand Up Paddleboarding,Harpswell Sound: Surf,Canoe Tripping,0
-2018,McAtee,Bryan,Male,4,4,3,Indian Pond,Whitewater Kayaking,Canoe Tripping,Carrabassett Trail Work,Aziscohos Valley,Stand Up Paddleboarding,0
-2018,McCarty,Sierra,Female,4,2,1,Midcoast Communities: Public Health,Vinalhaven Island Community,North Haven Island Community,Carpenter's Boat Shop,Harpswell Sound: Sail,Aziscohos Valley,0
-2018,McDonagh,Cillian,Male,4,3,2,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,Morris Farm,Passamaquoddy Communities: Indian Township,0
-2018,McKee,Katherine,Female,4,4,3,Day Hiking,Carpenter's Boat Shop,Backpacking,Merritt Island,Cabin Trail Work,Harpswell Sound: Sail,0
-2018,McWhorter,Atticus,M,4,4,3,Backpacking,Harpswell Sound: Surf,Monson Bike,Whitewater Kayaking,Canoe Tripping,Carrabassett Trail Work,0
-2018,Mebust,Theodore,Male,4,3,2,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Day Hiking,Backpacking,0
-2018,Mekonnen,Lisa,Female,2,1,1,BSE,Aziscohos Valley,Monson Bike,Merritt Island,Carrabassett Trail Work,Cabin Trail Work,0
-2018,Melendez Quan,Gabriela,Female,3,2,2,Indian Pond,Aziscohos Valley,Day Hiking,Merritt Island,Stand Up Paddleboarding,Whitewater Kayaking,0
-2018,Meredith,Andrew,Male,3,4,3,Backpacking,Day Hiking,Indian Pond,Canoe Tripping,Carrabassett Trail Work,Aziscohos Valley,0
-2018,Merrill,Nicholas,Male,3,4,3,Day Hiking,Backpacking,Western Foothills,Canoe Tripping,Carrabassett Trail Work,Indian Pond,0
-2018,Michaud,Sasha,female,3,2,2,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,Vinalhaven Island Community,0
-2018,Millar,Margaret,Female,4,2,2,Day Hiking,Cabin Trail Work,BSE,Aziscohos Valley,Carrabassett Trail Work,Midcoast Communities: Environment and Sustainability,0
-2018,Miller,Adrienne,Female,3,4,3,Aziscohos Valley,Merritt Island,Indian Pond,Canoe Tripping,Harpswell Sound: Sail,Stand Up Paddleboarding,0
-2018,Miller,Madisen,Female,3,2,1,Indian Pond,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Day Hiking,Backpacking,0
-2018,Milligan,John,Male,4,4,3,Aziscohos Valley,Stand Up Paddleboarding,Indian Pond,Harpswell Sound: Surf,Canoe Tripping,Whitewater Kayaking,0
-2018,Milliken,Perrin,Female,3,4,3,Backpacking,Monson Bike,Whitewater Kayaking,Day Hiking,Aziscohos Valley,Merritt Island,0
-2018,Min,Chanhee,Female,3,3,2,Aziscohos Valley,Harpswell Sound: Surf,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Harpswell Sound: Sail,Backpacking,0
-2018,Mitchell,Sean,Male,4,4,3,Whitewater Kayaking,Backpacking,Aziscohos Valley,Canoe Tripping,Day Hiking,Vinalhaven Island Community,0
-2018,Monaghan,Grace,Female,4,3,3,Harpswell Sound: Surf,Merritt Island,Indian Pond,Canoe Tripping,Aziscohos Valley,Harpswell Sound: Sail,0
-2018,Moniz,Francesca,female,3,3,2,Merritt Island,Indian Pond,Midcoast Communities: Immigrants and Refugees,Vinalhaven Island Community,Canoe Tripping,Stand Up Paddleboarding,0
-2018,Moody,Erin,female,5,4,3,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,Stand Up Paddleboarding,Monson Bike,0
-2018,Motley,Eliza,Female,5,3,2,Backpacking,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Canoe Tripping,Stand Up Paddleboarding,0
-2018,Moussapour,Neda,Female,3,2,2,Aziscohos Valley,Cabin Trail Work,Carrabassett Trail Work,Indian Pond,Downeast Communities: Lubec,Merritt Island,0
-2018,Moynihan,Katherine,Female,5,4,3,Merritt Island,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Stand Up Paddleboarding,Whitewater Kayaking,0
-2018,Muro,Marc,male,3,2,2,Day Hiking,Indian Pond,Backpacking,Aziscohos Valley,Whitewater Kayaking,Midcoast Communities: Immigrants and Refugees,0
-2018,Murtagh,William,Male,5,4,3,Harpswell Sound: Surf,Indian Pond,Harpswell Sound: Sail,Stand Up Paddleboarding,Whitewater Kayaking,Canoe Tripping,0
-2018,Muzzey,Drew,Male,3,4,3,Aroostook County: Houlton Community,Aroostook County: Presque Isle Community,Cabin Trail Work,Carrabassett Trail Work,Day Hiking,Downeast Communities: Lubec,0
-2018,Nagy,Hajna,Female,3,4,3,Harpswell Sound: Sail,Indian Pond,Aziscohos Valley,Canoe Tripping,Day Hiking,Backpacking,0
-2018,Neirink,Samuel,Male,4,4,3,Backpacking,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Merritt Island,Carpenter's Boat Shop,0
-2018,Nelson,Sara,F,3,3,3,Backpacking,Harpswell Sound: Sail,Canoe Tripping,Carrabassett Trail Work,Whitewater Kayaking,Aziscohos Valley,0
-2018,Nelson,Jack,Male,5,4,3,Day Hiking,Whitewater Kayaking,Canoe Tripping,Backpacking,Monson Bike,Indian Pond,0
-2018,Ng,Griffin,Male,4,3,3,Indian Pond,Stand Up Paddleboarding,Canoe Tripping,Aziscohos Valley,Harpswell Sound: Sail,Harpswell Sound: Surf,0
-2018,Nguyen,Lynn,Female,2,2,2,Midcoast Communities: Public Health,North Haven Island Community,Vinalhaven Island Community,Day Hiking,Merritt Island,Midcoast Communities: Hunger and Homelessness,0
-2018,Nicholson,Andrew,Male,4,1,1,Monson Bike,Day Hiking,Backpacking,Vinalhaven Island Community,Western Foothills,Cabin Trail Work,0
-2018,Nigro,Nicole,Female,4,3,2,Morris Farm,Aziscohos Valley,Aroostook County: Presque Isle Community,Aroostook County: Houlton Community,Downeast Communities: Milbridge,Western Foothills,0
-2018,Niles,Alexandra,Female,5,3,3,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,Harpswell Sound: Sail,Indian Pond,Canoe Tripping,0
-2018,Nino-Tapia,Kevin,Male,1,3,3,BSE,Downeast Communities: Milbridge,Western Foothills,Morris Farm,Carpenter's Boat Shop,Midcoast Communities: Immigrants and Refugees,0
-2018,Nix,Oliver,Male,4,3,3,Canoe Tripping,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Backpacking,Day Hiking,0
-2018,Noel,Lucy,Female ,4,3,2,Indian Pond,Day Hiking,Aziscohos Valley,Canoe Tripping,Cabin Trail Work,Stand Up Paddleboarding,0
-2018,Nolden,Lucie,Female,3,3,2,Canoe Tripping,Western Foothills,Aziscohos Valley,Backpacking,Cabin Trail Work,Carrabassett Trail Work,0
-2018,Nzeyimana,Marie,Female,1,2,2,BSE,Midcoast Communities: Immigrants and Refugees,Aroostook County: Houlton Community,Day Hiking,Merritt Island,Monson Bike,0
-2018,O'Brien,Ailish,Female,4,4,3,Indian Pond,Stand Up Paddleboarding,Canoe Tripping,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,0
-2018,O'Carroll,Fiona,Female,5,3,3,Indian Pond,Backpacking,Whitewater Kayaking,Aziscohos Valley,Stand Up Paddleboarding,Harpswell Sound: Sail,0
-2018,Odlum,George,Male,4,3,2,Aziscohos Valley,Indian Pond,Backpacking,Canoe Tripping,Whitewater Kayaking,Stand Up Paddleboarding,0
-2018,Olcott,Jack,Male,5,4,3,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,Stand Up Paddleboarding,0
-2018,Onuorah,Onyedika,Male,1,2,1,BSE,Morris Farm,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Carpenter's Boat Shop,Midcoast Communities: Environment and Sustainability,0
-2018,Orofino,Nicholas,Male,4,4,3,Aziscohos Valley,Merritt Island,Canoe Tripping,Whitewater Kayaking,Indian Pond,Stand Up Paddleboarding,0
-2018,Ortiz,Drew,Male,3,3,3,Indian Pond,Harpswell Sound: Sail,Canoe Tripping,Harpswell Sound: Surf,Backpacking,Day Hiking,0
-2018,Ortiz,Ismerai,Female,4,3,3,BSE,Merritt Island,North Haven Island Community,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,Midcoast Communities: Environment and Sustainability,0
-2018,Osemobor,Etin-Osa,Female,3,2,1,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,Canoe Tripping,Indian Pond,Carrabassett Trail Work,0
-2018,Otis,Jason,male,2,4,3,Whitewater Kayaking,Day Hiking,Cabin Trail Work,Aziscohos Valley,Carrabassett Trail Work,Canoe Tripping,0
-2018,Ott,Griffin,Male,2,3,2,Cabin Trail Work,Aziscohos Valley,Day Hiking,Carrabassett Trail Work,Morris Farm,Western Foothills,0
-2018,Pahl,Sophia,Female,4,4,3,Aziscohos Valley,Backpacking,Day Hiking,Indian Pond,Merritt Island,Whitewater Kayaking,0
-2018,Paine,Frank,Male,4,3,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Merritt Island,Stand Up Paddleboarding,Aziscohos Valley,0
-2018,Pallotta,Karlye,Female,4,3,2,Aziscohos Valley,Indian Pond,Day Hiking,Stand Up Paddleboarding,Harpswell Sound: Surf,Canoe Tripping,0
-2018,Pan,Emily,Female,2,2,2,BSE,Morris Farm,Aroostook County: Houlton Community,Backpacking,Midcoast Communities: Public Health,Merritt Island,0
-2018,Parajon,Roman,Male,2,2,2,Harpswell Sound: Surf,Backpacking,Day Hiking,Indian Pond,Whitewater Kayaking,Western Foothills,0
-2018,Pareja,Camilo,male,3,3,3,BSE,Indian Pond,Carpenter's Boat Shop,Harpswell Sound: Surf,Aziscohos Valley,Whitewater Kayaking,0
-2018,Parsons,Charlotte,Female,3,3,2,Vinalhaven Island Community,North Haven Island Community,Merritt Island,Morris Farm,Indian Pond,Downeast Communities: Milbridge,0
-2018,Parton,Angus,Male,5,4,2,Backpacking,Whitewater Kayaking,Cabin Trail Work,Carrabassett Trail Work,Aziscohos Valley,Monson Bike,0
-2018,Patti,Thomas,Male,3,4,3,Indian Pond,Aziscohos Valley,Canoe Tripping,Day Hiking,Merritt Island,Downeast Communities: Lubec,0
-2018,Patti,Catherine,Female,4,3,2,Backpacking,Day Hiking,Carrabassett Trail Work,Aziscohos Valley,Cabin Trail Work,Indian Pond,0
-2018,Pekala,Patrycja,Female,2,2,1,BSE,Day Hiking,Whitewater Kayaking,Downeast Communities: Milbridge,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,0
-2018,Pena,Angelica,Female,1,1,1,Passamaquoddy Communities: Indian Township,Aroostook County: Houlton Community,Midcoast Communities: Environment and Sustainability,Morris Farm,Downeast Communities: Milbridge,Passamaquoddy Communities: Pleasant Point,0
-2018,Perez Perez-Hervada,Ignacio,male,4,3,2,Aziscohos Valley,Cabin Trail Work,Western Foothills,Midcoast Communities: Immigrants and Refugees,Whitewater Kayaking,Canoe Tripping,0
-2018,Perillo,Julia,Female,4,2,2,BSE,North Haven Island Community,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Aroostook County: Houlton Community,Midcoast Communities: Environment and Sustainability,0
-2018,Perriello,Lailoo,Female,2,3,2,Day Hiking,North Haven Island Community,Vinalhaven Island Community,Aroostook County: Houlton Community,Stand Up Paddleboarding,Aziscohos Valley,0
-2018,Petronzio,Mary,Female,5,4,3,Aziscohos Valley,Indian Pond,Backpacking,Stand Up Paddleboarding,Canoe Tripping,Whitewater Kayaking,0
-2018,Phillips,Evan,Male,4,4,3,Indian Pond,Day Hiking,Aziscohos Valley,Harpswell Sound: Sail,Vinalhaven Island Community,North Haven Island Community,0
-2018,Pierce,Claire,Female,4,4,3,Harpswell Sound: Surf,Canoe Tripping,Stand Up Paddleboarding,Aziscohos Valley,Harpswell Sound: Sail,Carrabassett Trail Work,0
-2018,Pierre,Alyssa,Female,3,2,2,Harpswell Sound: Sail,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Harpswell Sound: Surf,Stand Up Paddleboarding,0
-2018,Pike,Ellie,Female,5,3,2,Indian Pond,Backpacking,Aziscohos Valley,Canoe Tripping,Whitewater Kayaking,Day Hiking,0
-2018,Pitts,Lydia,Female,4,4,3,Indian Pond,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Aziscohos Valley,Canoe Tripping,0
-2018,Pollock,James,Male,5,4,3,Whitewater Kayaking,Day Hiking,Indian Pond,Harpswell Sound: Sail,Monson Bike,Western Foothills,0
-2018,Polo Brizuela,Andria,Female ,2,1,1,BSE,Downeast Communities: Milbridge,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Morris Farm,Midcoast Communities: Hunger and Homelessness,0
-2018,Poole,Caroline,Female,5,2,2,Harpswell Sound: Surf,Indian Pond,Whitewater Kayaking,Carrabassett Trail Work,Carpenter's Boat Shop,Harpswell Sound: Sail,0
-2018,Poppen,Lily,Female,4,3,2,BSE,Harpswell Sound: Sail,Midcoast Communities: Public Health,Canoe Tripping,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Lubec,0
-2018,Porter,Lucas,Male,3,2,2,Merritt Island,Harpswell Sound: Sail,Canoe Tripping,Harpswell Sound: Surf,Indian Pond,Stand Up Paddleboarding,0
-2018,Powell,Samuel,Male,4,4,3,Indian Pond,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Stand Up Paddleboarding,Merritt Island,0
-2018,Prabhu,Rahul,Male,2,2,2,Downeast Communities: Milbridge,Passamaquoddy Communities: Indian Township,Morris Farm,North Haven Island Community,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,0
-2018,Price,Jeffrey,Male,4,3,3,Aziscohos Valley,Harpswell Sound: Surf,Stand Up Paddleboarding,Indian Pond,Whitewater Kayaking,Canoe Tripping,0
-2018,Puckett,Chelsea,Female,5,4,3,Backpacking,Whitewater Kayaking,Canoe Tripping,Stand Up Paddleboarding,Monson Bike,Day Hiking,0
-2018,Putnam,Ky,Genderqueer,5,3,3,Harpswell Sound: Surf,Carpenter's Boat Shop,Stand Up Paddleboarding,Indian Pond,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Public Health,0
-2018,Pyne,Charles,Male,4,4,3,Harpswell Sound: Sail,Whitewater Kayaking,Harpswell Sound: Surf,Stand Up Paddleboarding,Aziscohos Valley,Canoe Tripping,0
-2018,Quezada,Danielle,Female,2,3,2,Aziscohos Valley,Indian Pond,Harpswell Sound: Sail,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,Day Hiking,0
-2018,Rackear,William,Male,4,4,3,Whitewater Kayaking,Day Hiking,Backpacking,Aziscohos Valley,Harpswell Sound: Surf,Canoe Tripping,0
-2018,Rajiv,Devaki,Female,2,2,2,BSE,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Aziscohos Valley,Canoe Tripping,0
-2018,Ralph,Fiona,Female,4,4,3,Carrabassett Trail Work,Aziscohos Valley,Canoe Tripping,North Haven Island Community,Vinalhaven Island Community,Cabin Trail Work,0
-2018,Raymond,Abigail,Female,5,2,1,Midcoast Communities: Public Health,Vinalhaven Island Community,Midcoast Communities: Immigrants and Refugees,Whitewater Kayaking,Stand Up Paddleboarding,Midcoast Communities: Hunger and Homelessness,0
-2018,Recchiuti,John,Male,4,4,3,Day Hiking,Indian Pond,Whitewater Kayaking,Canoe Tripping,Monson Bike,Carpenter's Boat Shop,0
-2018,Reid,Dylan,male,3,4,3,Whitewater Kayaking,Harpswell Sound: Sail,Day Hiking,Canoe Tripping,Merritt Island,Monson Bike,0
-2018,Reiff,Hannah,female ,4,4,3,Day Hiking,Backpacking,Whitewater Kayaking,Monson Bike,Indian Pond,Canoe Tripping,0
-2018,Riano,Maria Camila,Female,5,3,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Indian Pond,Whitewater Kayaking,Backpacking,Stand Up Paddleboarding,0
-2018,Rice,August,Male,4,2,3,Aziscohos Valley,Backpacking,Canoe Tripping,Day Hiking,Monson Bike,Whitewater Kayaking,0
-2018,Rios,Adela,female,2,2,1,Day Hiking,Aziscohos Valley,Merritt Island,Cabin Trail Work,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,0
-2018,Rivera,Mateo,male,3,4,3,Indian Pond,Backpacking,Aziscohos Valley,Harpswell Sound: Sail,Carrabassett Trail Work,Whitewater Kayaking,0
-2018,Robertson,Jake,Male,5,4,3,Whitewater Kayaking,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,Canoe Tripping,Stand Up Paddleboarding,0
-2018,Ross,Benjamin,Male,4,4,3,Whitewater Kayaking,Backpacking,Aziscohos Valley,Canoe Tripping,Day Hiking,Stand Up Paddleboarding,0
-2018,Russell,Logan,Male ,3,4,3,Canoe Tripping,Indian Pond,Merritt Island,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Stand Up Paddleboarding,0
-2018,Rutledge,Graham,Male,5,4,3,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,Harpswell Sound: Sail,Monson Bike,0
-2018,Ryan,Teagan,female,5,4,3,Indian Pond,Stand Up Paddleboarding,Merritt Island,Canoe Tripping,Whitewater Kayaking,Morris Farm,0
-2018,Ryff,Kevin,Male,5,4,3,Indian Pond,Aziscohos Valley,Merritt Island,Harpswell Sound: Sail,Stand Up Paddleboarding,Canoe Tripping,0
-2018,Sablich,Wren,female,4,4,3,Whitewater Kayaking,Indian Pond,Aziscohos Valley,Day Hiking,Canoe Tripping,Merritt Island,0
-2018,Sackes,Samantha,Woman,2,2,1,Aziscohos Valley,Downeast Communities: Lubec,Aroostook County: Houlton Community,Passamaquoddy Communities: Indian Township,Morris Farm,Cabin Trail Work,0
-2018,Saga,Mary,Female,1,3,1,Midcoast Communities: Environment and Sustainability,Day Hiking,Aziscohos Valley,Western Foothills,North Haven Island Community,Carrabassett Trail Work,0
-2018,Saleh,Safa,Female,1,3,1,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Environment and Sustainability,Downeast Communities: Lubec,Downeast Communities: Milbridge,0
-2018,Sanchez Guevara,Ashley,Female,1,3,1,BSE,Downeast Communities: Milbridge,Downeast Communities: Lubec,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,Aroostook County: Houlton Community,0
-2018,Sandhu,Manveer,Female,2,4,3,Merritt Island,Aziscohos Valley,Canoe Tripping,Midcoast Communities: Public Health,Cabin Trail Work,Midcoast Communities: Immigrants and Refugees,0
-2018,Sandoval,Roberto,male,2,4,2,Backpacking,Midcoast Communities: Environment and Sustainability,Cabin Trail Work,Western Foothills,Carrabassett Trail Work,Day Hiking,0
-2018,Sarmanian,Robert,Male,3,3,3,Whitewater Kayaking,Indian Pond,Stand Up Paddleboarding,Aziscohos Valley,Day Hiking,Backpacking,0
-2018,Sarrazin,Zoe,Female,3,2,2,Morris Farm,Midcoast Communities: Environment and Sustainability,Merritt Island,Indian Pond,Midcoast Communities: Public Health,Day Hiking,0
-2018,Schaefer,Sophia,F,4,4,2,Indian Pond,Harpswell Sound: Sail,Canoe Tripping,Harpswell Sound: Surf,Merritt Island,Aziscohos Valley,0
-2018,Schafir,Reuben,Male,5,4,3,Harpswell Sound: Sail,Carpenter's Boat Shop,Whitewater Kayaking,Backpacking,Indian Pond,Aziscohos Valley,0
-2018,Schiavoni,Stephanie,Female,3,3,3,Harpswell Sound: Surf,Canoe Tripping,Aziscohos Valley,Harpswell Sound: Sail,Stand Up Paddleboarding,Day Hiking,0
-2018,Schmidt,Ella,female,3,3,2,Indian Pond,Carpenter's Boat Shop,Aziscohos Valley,Day Hiking,Backpacking,Stand Up Paddleboarding,0
-2018,Schraeder,Aidan,Male,5,4,3,Harpswell Sound: Surf,Stand Up Paddleboarding,Carpenter's Boat Shop,Morris Farm,Vinalhaven Island Community,North Haven Island Community,0
-2018,Schumann,Noa,Femaile,4,3,3,Harpswell Sound: Sail,Canoe Tripping,Day Hiking,Merritt Island,Carrabassett Trail Work,Backpacking,0
-2018,Scotch,Hannah,F,3,3,2,Backpacking,Day Hiking,Aziscohos Valley,Cabin Trail Work,Canoe Tripping,Whitewater Kayaking,0
-2018,Seider,John,Male,5,4,3,Backpacking,Canoe Tripping,Whitewater Kayaking,Cabin Trail Work,Carpenter's Boat Shop,Monson Bike,0
-2018,Shah,Sonia,Female,4,3,2,BSE,Day Hiking,Downeast Communities: Lubec,Midcoast Communities: Public Health,Cabin Trail Work,Vinalhaven Island Community,0
-2018,Shane,Jack,Male,4,3,3,Aziscohos Valley,Aroostook County: Houlton Community,Indian Pond,Stand Up Paddleboarding,Aroostook County: Presque Isle Community,Midcoast Communities: Environment and Sustainability,0
-2018,Shin,Eunice,Female,2,2,1,Backpacking,Day Hiking,Carrabassett Trail Work,Canoe Tripping,Indian Pond,Midcoast Communities: Immigrants and Refugees,0
-2018,Short,Wilder,Male,3,3,3,Carpenter's Boat Shop,Day Hiking,Harpswell Sound: Sail,Backpacking,Passamaquoddy Communities: Pleasant Point,Canoe Tripping,0
-2018,Siddiqui,Nimra,Female,4,2,2,Western Foothills,Vinalhaven Island Community,North Haven Island Community,Carpenter's Boat Shop,Aroostook County: Houlton Community,Passamaquoddy Communities: Pleasant Point,0
-2018,Siegel,Lucy,Female,5,2,1,Harpswell Sound: Sail,Indian Pond,Whitewater Kayaking,Merritt Island,Harpswell Sound: Surf,Backpacking,0
-2018,Simeone,Micaela,Female,4,2,2,Passamaquoddy Communities: Indian Township,Day Hiking,Midcoast Communities: Hunger and Homelessness,Downeast Communities: Lubec,Monson Bike,Midcoast Communities: Public Health,0
-2018,Simpson,Emma,Female,3,2,1,Passamaquoddy Communities: Indian Township,Backpacking,Harpswell Sound: Surf,Aziscohos Valley,Cabin Trail Work,Passamaquoddy Communities: Pleasant Point,0
-2018,Skacel,Laura,Female,5,4,3,BSE,Whitewater Kayaking,Harpswell Sound: Surf,Merritt Island,Backpacking,Day Hiking,0
-2018,Skates,Thomas,Male,5,3,3,Indian Pond,Harpswell Sound: Sail,Whitewater Kayaking,Backpacking,Carpenter's Boat Shop,Aziscohos Valley,0
-2018,Sloan,Dylan,Male,5,4,3,Harpswell Sound: Surf,Backpacking,Day Hiking,Indian Pond,Whitewater Kayaking,Canoe Tripping,0
-2018,Sloan,Andre,Male,3,2,3,Backpacking,Whitewater Kayaking,Day Hiking,Canoe Tripping,Midcoast Communities: Immigrants and Refugees,Monson Bike,0
-2018,Slovenski,Sophia,Female,4,3,3,Indian Pond,Harpswell Sound: Surf,Aziscohos Valley,Morris Farm,Midcoast Communities: Environment and Sustainability,Monson Bike,0
-2018,Smolenski,Shane,Male,3,4,3,Backpacking,Day Hiking,Whitewater Kayaking,Harpswell Sound: Sail,Monson Bike,Canoe Tripping,0
-2018,Snow,Cameron,Male,4,4,3,Backpacking,Whitewater Kayaking,Indian Pond,Carpenter's Boat Shop,Day Hiking,Monson Bike,0
-2018,snyder,jonathan,Male,4,4,3,Harpswell Sound: Sail,Indian Pond,Stand Up Paddleboarding,Aziscohos Valley,Merritt Island,Western Foothills,0
-2018,Sobhy,Adham,Male,4,4,3,Indian Pond,Merritt Island,Harpswell Sound: Sail,Aziscohos Valley,Canoe Tripping,Carpenter's Boat Shop,0
-2018,Somiah,Afia,Female,2,2,2,Aziscohos Valley,Merritt Island,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,0
-2018,Song,Victoria,Female,3,3,3,Day Hiking,Aziscohos Valley,Merritt Island,Canoe Tripping,Stand Up Paddleboarding,Indian Pond,0
-2018,Sorkin,Emma,Female,5,3,3,Day Hiking,Aziscohos Valley,Carrabassett Trail Work,Passamaquoddy Communities: Pleasant Point,Cabin Trail Work,Western Foothills,0
-2018,Sparrow,Elena,Female ,4,3,2,Backpacking,Canoe Tripping,Carrabassett Trail Work,Day Hiking,Cabin Trail Work,Aziscohos Valley,0
-2018,Staten,Emily,female,3,4,3,Aziscohos Valley,Canoe Tripping,Harpswell Sound: Sail,Cabin Trail Work,Carpenter's Boat Shop,Stand Up Paddleboarding,0
-2018,Steingrub,Oron,Male,3,2,1,Harpswell Sound: Sail,Day Hiking,Stand Up Paddleboarding,Indian Pond,Whitewater Kayaking,Merritt Island,0
-2018,Stevens,Blaine,Female,4,3,2,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,Canoe Tripping,Midcoast Communities: Public Health,Passamaquoddy Communities: Indian Township,0
-2018,Stilphen,Zoe,Female,2,3,3,Aziscohos Valley,Indian Pond,Harpswell Sound: Sail,Backpacking,Canoe Tripping,Monson Bike,0
-2018,Stitson,Elijah,Male,3,2,3,Aziscohos Valley,Backpacking,Day Hiking,Cabin Trail Work,Carrabassett Trail Work,Vinalhaven Island Community,0
-2018,Stochita,Radu,Male,2,1,1,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Lubec,0
-2018,Strudwick,Ian,Male,3,4,3,Stand Up Paddleboarding,Whitewater Kayaking,Day Hiking,Merritt Island,Harpswell Sound: Surf,Backpacking,0
-2018,Strull,Ethan,Male,5,3,3,Harpswell Sound: Sail,Whitewater Kayaking,Indian Pond,Aziscohos Valley,Harpswell Sound: Surf,Merritt Island,0
-2018,Stuhlmann,Kayla,Female,4,2,2,BSE,Harpswell Sound: Sail,Aroostook County: Presque Isle Community,Canoe Tripping,Harpswell Sound: Surf,Midcoast Communities: Hunger and Homelessness,0
-2018,Sturk,Aisley,Female,3,3,3,Downeast Communities: Lubec,Indian Pond,Backpacking,Whitewater Kayaking,Western Foothills,Carrabassett Trail Work,0
-2018,Subedi,Jigyasa,Female,3,2,1,BSE,Carpenter's Boat Shop,Harpswell Sound: Sail,Merritt Island,Midcoast Communities: Hunger and Homelessness,Downeast Communities: Lubec,0
-2018,Sydel,Lucy,Female,4,3,2,Canoe Tripping,Aziscohos Valley,Day Hiking,Harpswell Sound: Sail,Merritt Island,Western Foothills,0
-2018,Sylvan,Gabriel,Male,2,3,2,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Public Health,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,Passamaquoddy Communities: Indian Township,0
-2018,Tahlil,Ayub,Male,1,2,1,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,Vinalhaven Island Community,Midcoast Communities: Hunger and Homelessness,Passamaquoddy Communities: Indian Township,0
-2018,Tang,Yueqian,Male,3,2,1,Midcoast Communities: Environment and Sustainability,BSE,Morris Farm,North Haven Island Community,Vinalhaven Island Community,Western Foothills,0
-2018,Tapscott,Kate,Female,3,3,3,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,Day Hiking,Harpswell Sound: Surf,Backpacking,0
-2018,Tedford,Lily,female,3,2,1,Harpswell Sound: Sail,Harpswell Sound: Surf,Indian Pond,Vinalhaven Island Community,Whitewater Kayaking,Midcoast Communities: Immigrants and Refugees,0
-2018,Thomas,Brett,Male,4,4,3,Aziscohos Valley,Indian Pond,Merritt Island,Cabin Trail Work,Backpacking,Day Hiking,0
-2018,Thomas,Matthew,Male,5,3,3,Backpacking,Cabin Trail Work,Indian Pond,Day Hiking,Canoe Tripping,Harpswell Sound: Sail,0
-2018,Thompson-Haye,Emma,Female,2,2,1,Passamaquoddy Communities: Pleasant Point,Downeast Communities: Milbridge,Passamaquoddy Communities: Indian Township,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,0
-2018,Tran,Tuan,Male,2,2,2,Day Hiking,Backpacking,Monson Bike,Whitewater Kayaking,Canoe Tripping,Midcoast Communities: Hunger and Homelessness,0
-2018,Treat,Andrew,Male,5,3,3,Indian Pond,Aziscohos Valley,Backpacking,Canoe Tripping,Whitewater Kayaking,Day Hiking,0
-2018,Tripathee,Ridhika,Female,2,4,2,Midcoast Communities: Environment and Sustainability,Merritt Island,Aroostook County: Presque Isle Community,Morris Farm,Midcoast Communities: Public Health,Carrabassett Trail Work,0
-2018,Troubh,Jessica,Female,4,3,2,Merritt Island,Canoe Tripping,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,Vinalhaven Island Community,0
-2018,Tsai,Audrey,Female,2,2,2,Downeast Communities: Lubec,Morris Farm,Passamaquoddy Communities: Indian Township,Downeast Communities: Milbridge,Aroostook County: Houlton Community,Aroostook County: Presque Isle Community,0
-2018,Tuna,Zeynep,Female,4,2,1,Aziscohos Valley,Carrabassett Trail Work,Harpswell Sound: Sail,Midcoast Communities: Immigrants and Refugees,Merritt Island,Canoe Tripping,0
-2018,Tyson,Alexander,Male,3,4,3,Indian Pond,Harpswell Sound: Sail,Canoe Tripping,Day Hiking,Whitewater Kayaking,Merritt Island,0
-2018,Uek,Matthew,male,5,4,3,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Indian Pond,Stand Up Paddleboarding,0
-2018,Vaidya,Sumer,Male,5,3,3,Whitewater Kayaking,Harpswell Sound: Surf,Canoe Tripping,Indian Pond,Stand Up Paddleboarding,Monson Bike,0
-2018,van Miltenburg,Cole,Male,4,2,2,Stand Up Paddleboarding,Indian Pond,Aziscohos Valley,Canoe Tripping,Whitewater Kayaking,Harpswell Sound: Sail,0
-2018,Viederman,Miranda,Female,5,3,3,Harpswell Sound: Sail,Aziscohos Valley,Indian Pond,Backpacking,Harpswell Sound: Surf,BSE,0
-2018,Vorno,Joosep,Male,5,4,3,Carpenter's Boat Shop,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Public Health,Merritt Island,Passamaquoddy Communities: Indian Township,0
-2018,Wackerman,Clayton,Male,5,4,2,Backpacking,Day Hiking,Indian Pond,Stand Up Paddleboarding,Whitewater Kayaking,Merritt Island,0
-2018,Wadlington,Augustus,Male,3,2,2,Indian Pond,Carpenter's Boat Shop,Monson Bike,Vinalhaven Island Community,Harpswell Sound: Sail,Morris Farm,0
-2018,Wallace,Evelyn,Female,4,4,3,Backpacking,Carrabassett Trail Work,Aziscohos Valley,Cabin Trail Work,Indian Pond,Merritt Island,0
-2018,Walsh,Katherine,Female,4,2,1,Aziscohos Valley,Indian Pond,Merritt Island,Day Hiking,Whitewater Kayaking,Canoe Tripping,0
-2018,Walters,James,Male,3,4,2,Canoe Tripping,Indian Pond,Harpswell Sound: Sail,Whitewater Kayaking,Merritt Island,Stand Up Paddleboarding,0
-2018,Wang,Siyi,Female,2,3,2,Morris Farm,Canoe Tripping,Whitewater Kayaking,Stand Up Paddleboarding,Carpenter's Boat Shop,Midcoast Communities: Environment and Sustainability,0
-2018,Ward,Brendan,male,3,4,3,Indian Pond,Harpswell Sound: Surf,Stand Up Paddleboarding,Whitewater Kayaking,Canoe Tripping,Harpswell Sound: Sail,0
-2018,Ward,Katherine,Male,5,4,3,Whitewater Kayaking,Monson Bike,Harpswell Sound: Surf,Stand Up Paddleboarding,Day Hiking,Morris Farm,0
-2018,Washco,Albert,Male,3,4,3,Monson Bike,Canoe Tripping,Stand Up Paddleboarding,Backpacking,Day Hiking,Carpenter's Boat Shop,0
-2018,Weatherall,Hayden,Male,4,4,2,Whitewater Kayaking,Harpswell Sound: Surf,Downeast Communities: Lubec,Harpswell Sound: Sail,Carpenter's Boat Shop,Vinalhaven Island Community,0
-2018,Weber,Michael,Male,3,4,3,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Public Health,Morris Farm,Merritt Island,Midcoast Communities: Immigrants and Refugees,0
-2018,Wecker,Theodore,Male,5,2,2,Backpacking,Harpswell Sound: Sail,Carpenter's Boat Shop,Carrabassett Trail Work,Whitewater Kayaking,Cabin Trail Work,0
-2018,Weitzenberg,Lucas,Male,5,2,2,Whitewater Kayaking,Cabin Trail Work,Backpacking,Day Hiking,Indian Pond,Monson Bike,0
-2018,Werah,Atia,Female,1,2,2,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Environment and Sustainability,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,0
-2018,Wheaton,Bennett,Male,5,4,3,Harpswell Sound: Surf,Vinalhaven Island Community,Indian Pond,Whitewater Kayaking,North Haven Island Community,Merritt Island,0
-2018,White,Robert ,Male,5,4,3,Harpswell Sound: Surf,Backpacking,Aziscohos Valley,Whitewater Kayaking,Day Hiking,Canoe Tripping,0
-2018,Whitmore,Elly,Female,5,4,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Indian Pond,Whitewater Kayaking,Backpacking,Canoe Tripping,0
-2018,Willmert,Triana,female,4,4,3,Harpswell Sound: Surf,Backpacking,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,Stand Up Paddleboarding,0
-2018,Wilson,Sophie,Female,3,3,2,BSE,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,Day Hiking,Stand Up Paddleboarding,Passamaquoddy Communities: Pleasant Point,0
-2018,Wilson,Micah,M,5,4,3,Backpacking,Day Hiking,Canoe Tripping,Indian Pond,Cabin Trail Work,Whitewater Kayaking,0
-2018,Wirth,Yasmeen,Female,4,3,2,Harpswell Sound: Sail,Aziscohos Valley,Harpswell Sound: Surf,Indian Pond,Day Hiking,Stand Up Paddleboarding,0
-2018,Wolfe,Devon,Female,4,3,2,Aziscohos Valley,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,Canoe Tripping,Day Hiking,0
-2018,Wolfson,Owen,Male,4,4,3,Carpenter's Boat Shop,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Environment and Sustainability,Passamaquoddy Communities: Indian Township,0
-2018,Woodard,Bennett,Male,4,4,3,BSE,Aziscohos Valley,Whitewater Kayaking,Merritt Island,Vinalhaven Island Community,Canoe Tripping,0
-2018,Wu,Hung-Te,Male,3,2,3,Monson Bike,Backpacking,Day Hiking,Harpswell Sound: Sail,Aroostook County: Presque Isle Community,Harpswell Sound: Surf,0
-2018,Xi,Rose,Female,3,1,1,BSE,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,Downeast Communities: Milbridge,Aroostook County: Houlton Community,0
-2018,Xu,Hanbo,Male,2,2,2,BSE,Aziscohos Valley,Merritt Island,Vinalhaven Island Community,Backpacking,Carpenter's Boat Shop,0
-2018,Xu,Yifei,Male,3,4,3,Harpswell Sound: Surf,Indian Pond,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Backpacking,0
-2018,Yanez,Anthony,Male,2,2,2,Carpenter's Boat Shop,Aziscohos Valley,Merritt Island,Backpacking,Day Hiking,Carrabassett Trail Work,0
-2018,Yang,Justin,Male,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Aziscohos Valley,Whitewater Kayaking,Backpacking,Stand Up Paddleboarding,0
-2018,Yang,Dingliang,Male,3,2,2,Carpenter's Boat Shop,Day Hiking,Monson Bike,Merritt Island,Morris Farm,Canoe Tripping,0
-2018,Yang,Oscar,Male,4,4,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Merritt Island,Aziscohos Valley,Canoe Tripping,Whitewater Kayaking,0
-2018,Yang,Rachel,Female,2,1,1,Carpenter's Boat Shop,Merritt Island,Harpswell Sound: Sail,Downeast Communities: Lubec,Western Foothills,Vinalhaven Island Community,0
-2018,Yip,Nicole Hiu Wang,Female,3,2,2,Carpenter's Boat Shop,North Haven Island Community,Merritt Island,Vinalhaven Island Community,Midcoast Communities: Public Health,Downeast Communities: Milbridge,0
-2018,Youssouf,Nasteho,Female,1,1,1,Harpswell Sound: Sail,Midcoast Communities: Hunger and Homelessness,Passamaquoddy Communities: Indian Township,Carrabassett Trail Work,Aziscohos Valley,Whitewater Kayaking,0
-2018,Zepf,Patrick,Male,5,4,3,Harpswell Sound: Sail,Indian Pond,Backpacking,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,0
-2018,Zhang,Conger,Female,4,4,3,Backpacking,Indian Pond,Stand Up Paddleboarding,Merritt Island,Monson Bike,Day Hiking,0
-2018,Zhou,Jingyi,female,4,3,3,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Day Hiking,Harpswell Sound: Surf,Canoe Tripping,0
-2018,Zietlow,Henry,Male,3,4,3,Carpenter's Boat Shop,North Haven Island Community,Downeast Communities: Lubec,Backpacking,Carrabassett Trail Work,Vinalhaven Island Community,0
+﻿OrientationYear,LastName,FirstName,Gender,SwimmingAbility,ActivityLevel,ActivityIntensity,choice1,choice2,choice3,choice4,choice5,choice6,
+2018,Abboud,Firas,Male,4,3,2,Merritt Island,Indian Pond,Stand Up Paddleboarding,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,
+2018,Abdelrahman,Ahmed,Male,1,3,2,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Indian Pond,Stand Up Paddleboarding,
+2018,Aborbie Jr.,Solomon,Male,2,3,3,Harpswell Sound: Sail,Aziscohos Valley,Harpswell Sound: Surf,Merritt Island,Vinalhaven Island Community,Aroostook County: Houlton Community,
+2018,Abrams,Adunni,Female ,2,3,3,Aziscohos Valley,Merritt Island,Harpswell Sound: Sail,Canoe Tripping,Harpswell Sound: Surf,Carpenter's Boat Shop,
+2018,Adams,Catherine,Female,3,2,2,Day Hiking,Aziscohos Valley,Indian Pond,Merritt Island,Harpswell Sound: Sail,Harpswell Sound: Surf,
+2018,Adelmann,Julia,Female,4,4,3,Indian Pond,Stand Up Paddleboarding,Canoe Tripping,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,
+2018,Adewale,Adedunmola,Female,1,2,1,Aziscohos Valley,Merritt Island,Downeast Communities: Lubec,Carpenter's Boat Shop,Aroostook County: Houlton Community,Day Hiking,
+2018,Ahmed,Sulwan,Female,2,4,2,Passamaquoddy Communities: Pleasant Point,North Haven Island Community,Passamaquoddy Communities: Indian Township,Merritt Island,Canoe Tripping,Carpenter's Boat Shop,
+2018,Ali,Usira,female,1,2,3,Harpswell Sound: Sail,Merritt Island,Day Hiking,Midcoast Communities: Hunger and Homelessness,North Haven Island Community,BSE,
+2018,Ambrosio,Alison,Female,3,2,2,Carpenter's Boat Shop,BSE,Day Hiking,Carrabassett Trail Work,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Environment and Sustainability,
+2018,Anderson,Preston,Male,5,4,2,Carpenter's Boat Shop,Whitewater Kayaking,Day Hiking,Harpswell Sound: Surf,Stand Up Paddleboarding,Harpswell Sound: Sail,
+2018,Andres,Teresa,Female,4,4,3,North Haven Island Community,Midcoast Communities: Environment and Sustainability,Vinalhaven Island Community,Morris Farm,Merritt Island,BSE,
+2018,Angel,Isabella,Female,4,2,2,Indian Pond,Whitewater Kayaking,Carpenter's Boat Shop,Aziscohos Valley,Merritt Island,Harpswell Sound: Sail,
+2018,Angotti,Tatum,female,5,4,3,Indian Pond,Stand Up Paddleboarding,Harpswell Sound: Surf,Whitewater Kayaking,Merritt Island,Harpswell Sound: Sail,
+2018,Argueta Angulo,Camila,Female,1,3,2,Backpacking,Day Hiking,Cabin Trail Work,Downeast Communities: Milbridge,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,
+2018,Aronson,Hailey,Female,5,3,3,Harpswell Sound: Surf,Backpacking,Day Hiking,Carrabassett Trail Work,Whitewater Kayaking,Cabin Trail Work,
+2018,Arrarte,Tomas,Male,5,2,2,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Day Hiking,Harpswell Sound: Sail,Monson Bike,
+2018,Asper,Garrison,Male,5,4,3,Harpswell Sound: Surf,Backpacking,Whitewater Kayaking,Canoe Tripping,Carpenter's Boat Shop,Cabin Trail Work,
+2018,Attisani,Christopher,male,4,4,2,Harpswell Sound: Surf,Indian Pond,Merritt Island,Stand Up Paddleboarding,Whitewater Kayaking,Canoe Tripping,
+2018,Ault,Patrick,male,3,4,2,Canoe Tripping,Day Hiking,Cabin Trail Work,Carrabassett Trail Work,Backpacking,Harpswell Sound: Surf,
+2018,Autrey,Ashlynn,Female,5,4,3,Whitewater Kayaking,Canoe Tripping,Harpswell Sound: Sail,Stand Up Paddleboarding,BSE,Downeast Communities: Milbridge,
+2018,Aydogdu,Mustafa,Male,2,2,2,Monson Bike,Vinalhaven Island Community,Passamaquoddy Communities: Indian Township,Aziscohos Valley,Backpacking,Day Hiking,
+2018,Badger,Nina,Female,5,3,3,Harpswell Sound: Sail,Aziscohos Valley,Day Hiking,Harpswell Sound: Surf,Backpacking,Canoe Tripping,
+2018,Bae,Minseo,male,4,4,3,Whitewater Kayaking,Harpswell Sound: Surf,Monson Bike,Canoe Tripping,Stand Up Paddleboarding,Harpswell Sound: Sail,
+2018,Baker,Elizabeth,Female,3,2,2,BSE,Harpswell Sound: Sail,Harpswell Sound: Surf,Whitewater Kayaking,Carpenter's Boat Shop,Midcoast Communities: Environment and Sustainability,
+2018,Baldwin,Haley,Female,3,2,2,Harpswell Sound: Sail,Morris Farm,Carpenter's Boat Shop,Aziscohos Valley,Cabin Trail Work,Day Hiking,
+2018,Ball,Isabel,Female,5,4,3,Whitewater Kayaking,Harpswell Sound: Surf,Backpacking,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,
+2018,Barbecho,Bryam,Male,3,3,3,BSE,Harpswell Sound: Sail,Midcoast Communities: Immigrants and Refugees,Backpacking,Downeast Communities: Milbridge,Morris Farm,
+2018,Bastone,Andrew,Male,5,3,3,Indian Pond,Aziscohos Valley,Merritt Island,Canoe Tripping,Whitewater Kayaking,Backpacking,
+2018,Behshid,Michelle,Female,3,4,3,Indian Pond,Canoe Tripping,Whitewater Kayaking,Stand Up Paddleboarding,Harpswell Sound: Surf,Aziscohos Valley,
+2018,Bell,Anthea,female,2,2,2,Midcoast Communities: Public Health,Aziscohos Valley,Cabin Trail Work,Day Hiking,North Haven Island Community,Aroostook County: Presque Isle Community,
+2018,Bergquist,Finn,Male,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Merritt Island,Canoe Tripping,
+2018,Berry,Brooke,Female,4,3,3,Canoe Tripping,Whitewater Kayaking,Merritt Island,Morris Farm,Midcoast Communities: Hunger and Homelessness,Harpswell Sound: Sail,
+2018,Bersani,Clio,Female,4,4,3,Aroostook County: Houlton Community,Aziscohos Valley,Merritt Island,Morris Farm,Indian Pond,Canoe Tripping,
+2018,Berube,Cameron,male,5,4,3,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,Day Hiking,Backpacking,Indian Pond,
+2018,Biondo,Aaliyah,Female,4,4,2,Indian Pond,Whitewater Kayaking,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Canoe Tripping,
+2018,Black,Perham,Male,3,2,2,Whitewater Kayaking,Backpacking,Indian Pond,Aziscohos Valley,Canoe Tripping,Day Hiking,
+2018,Blackburn,Bryant,Male,1,4,3,Morris Farm,North Haven Island Community,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,Aroostook County: Houlton Community,Aroostook County: Presque Isle Community,
+2018,Blaise,Cedric,Male,3,4,3,Aziscohos Valley,BSE,Canoe Tripping,Harpswell Sound: Surf,Merritt Island,Whitewater Kayaking,
+2018,Bloniasz,Patrick,Male,3,4,3,Aziscohos Valley,Harpswell Sound: Surf,Merritt Island,Day Hiking,Indian Pond,Canoe Tripping,
+2018,Boasberg,Anne,Female,5,4,3,Aziscohos Valley,Day Hiking,Harpswell Sound: Surf,Backpacking,Monson Bike,Indian Pond,
+2018,Boben,Jacqueline,Female,4,4,3,Whitewater Kayaking,Indian Pond,Backpacking,Day Hiking,Stand Up Paddleboarding,Aziscohos Valley,
+2018,Boe,Stephen,Male,5,4,2,Harpswell Sound: Surf,Aziscohos Valley,Backpacking,Canoe Tripping,Whitewater Kayaking,Harpswell Sound: Sail,
+2018,Bombard,David,Male,4,3,2,BSE,Canoe Tripping,Harpswell Sound: Sail,Whitewater Kayaking,Carpenter's Boat Shop,Stand Up Paddleboarding,
+2018,Bor,Joyce,Female,2,2,2,Backpacking,Cabin Trail Work,Indian Pond,Monson Bike,North Haven Island Community,Stand Up Paddleboarding,
+2018,Boyce,Nicholas,Male,3,2,1,Merritt Island,Passamaquoddy Communities: Pleasant Point,Aroostook County: Houlton Community,Midcoast Communities: Environment and Sustainability,Downeast Communities: Lubec,North Haven Island Community,
+2018,Brathwaite,Kaprice,Female,2,2,2,Merritt Island,Monson Bike,Midcoast Communities: Public Health,Carpenter's Boat Shop,Passamaquoddy Communities: Pleasant Point,Harpswell Sound: Sail,
+2018,Bravo,Anthony,Male,4,4,3,Harpswell Sound: Surf,Backpacking,Day Hiking,Harpswell Sound: Sail,Indian Pond,Merritt Island,
+2018,Britt,Ryan,Male,3,3,2,Downeast Communities: Lubec,Downeast Communities: Milbridge,Aziscohos Valley,Day Hiking,Backpacking,Canoe Tripping,
+2018,Britt,Allison,Female,4,4,3,Harpswell Sound: Surf,Stand Up Paddleboarding,Whitewater Kayaking,Indian Pond,Harpswell Sound: Sail,Aziscohos Valley,
+2018,Brogdon,Irene,Female,3,2,2,Harpswell Sound: Sail,Harpswell Sound: Surf,Carpenter's Boat Shop,Passamaquoddy Communities: Pleasant Point,Aroostook County: Presque Isle Community,Cabin Trail Work,
+2018,Brown,Evan,Male,4,4,3,Backpacking,Whitewater Kayaking,Stand Up Paddleboarding,Day Hiking,Canoe Tripping,Aziscohos Valley,
+2018,Browne,Journey,Female,2,2,2,Harpswell Sound: Sail,Harpswell Sound: Surf,Carpenter's Boat Shop,Whitewater Kayaking,Stand Up Paddleboarding,Midcoast Communities: Public Health,
+2018,Bulhan,Warsameh,Male,1,3,3,BSE,Monson Bike,Day Hiking,Backpacking,Western Foothills,Aziscohos Valley,
+2018,Bullock,Delaney,Female,5,4,3,Backpacking,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Day Hiking,Whitewater Kayaking,
+2018,Bundy,Fiona,Female ,3,3,3,Harpswell Sound: Surf,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Stand Up Paddleboarding,Whitewater Kayaking,
+2018,Busching,William,Male,3,3,2,Indian Pond,Aziscohos Valley,Canoe Tripping,Day Hiking,Whitewater Kayaking,Harpswell Sound: Sail,
+2018,Bussgang,Jason,Male,5,4,3,Whitewater Kayaking,Indian Pond,Aziscohos Valley,Backpacking,Harpswell Sound: Sail,Carpenter's Boat Shop,
+2018,Bussiere,Sydney,female,2,2,1,Downeast Communities: Milbridge,Midcoast Communities: Immigrants and Refugees,Aroostook County: Houlton Community,Downeast Communities: Lubec,Midcoast Communities: Hunger and Homelessness,Harpswell Sound: Sail,
+2018,Butler,Jack,male,3,2,2,Aziscohos Valley,Cabin Trail Work,Harpswell Sound: Sail,Indian Pond,Day Hiking,Canoe Tripping,
+2018,Byars-Waller,Sarah,Female,3,2,2,Day Hiking,Indian Pond,Aziscohos Valley,Carrabassett Trail Work,Cabin Trail Work,Merritt Island,
+2018,Byishimo,Espoir,Male,3,2,2,Midcoast Communities: Immigrants and Refugees,Harpswell Sound: Sail,Morris Farm,Vinalhaven Island Community,Day Hiking,Aroostook County: Presque Isle Community,
+2018,Caffe,Lauren,Female,5,4,3,Harpswell Sound: Sail,Aziscohos Valley,Day Hiking,Carrabassett Trail Work,Carpenter's Boat Shop,Backpacking,
+2018,Campbell,Delanie,Female,3,2,1,Aziscohos Valley,Indian Pond,Canoe Tripping,Cabin Trail Work,Merritt Island,Harpswell Sound: Surf,
+2018,Campos,Carlos,Male,1,3,2,Downeast Communities: Milbridge,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,North Haven Island Community,Morris Farm,
+2018,Canarelli,Dylan,Male,3,4,3,Harpswell Sound: Surf,Aziscohos Valley,Canoe Tripping,Backpacking,Whitewater Kayaking,Monson Bike,
+2018,Cann,Gavin,Male,3,4,3,Canoe Tripping,Whitewater Kayaking,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Carpenter's Boat Shop,
+2018,Carlson,Aura,Female,4,4,3,Indian Pond,Day Hiking,Backpacking,Whitewater Kayaking,Aziscohos Valley,Stand Up Paddleboarding,
+2018,Carlton,Hadley,Female,5,4,3,Stand Up Paddleboarding,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Canoe Tripping,Aziscohos Valley,
+2018,Carmi,Aryeh,Male,5,4,3,Whitewater Kayaking,Indian Pond,Aziscohos Valley,Monson Bike,Backpacking,Canoe Tripping,
+2018,Cassano,Amanda,Female,4,2,1,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,Day Hiking,Downeast Communities: Lubec,Aroostook County: Presque Isle Community,Aroostook County: Houlton Community,
+2018,Cawley,Chess (Francesca),Female,4,4,3,Harpswell Sound: Surf,North Haven Island Community,Vinalhaven Island Community,Harpswell Sound: Sail,Indian Pond,Stand Up Paddleboarding,
+2018,Chakrabarti,Raima,Female,3,2,2,Aziscohos Valley,Day Hiking,Indian Pond,Downeast Communities: Lubec,Canoe Tripping,Cabin Trail Work,
+2018,Chamberlin,Summer,female,3,3,2,Aziscohos Valley,Harpswell Sound: Surf,Stand Up Paddleboarding,Day Hiking,Canoe Tripping,Whitewater Kayaking,
+2018,Chase,Abednego,Male,2,3,2,BSE,Merritt Island,Aziscohos Valley,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,
+2018,Cheah,Yew San,Male,3,2,2,Whitewater Kayaking,Harpswell Sound: Surf,Aziscohos Valley,Backpacking,Harpswell Sound: Sail,Day Hiking,
+2018,Chen,Alissa,Female,4,2,1,Indian Pond,Stand Up Paddleboarding,Vinalhaven Island Community,North Haven Island Community,Carpenter's Boat Shop,BSE,
+2018,Chertavian,Casey,Female ,4,4,3,Aziscohos Valley,Canoe Tripping,Day Hiking,Stand Up Paddleboarding,Harpswell Sound: Sail,Merritt Island,
+2018,Chisari,Jared,male,4,4,3,Indian Pond,Canoe Tripping,Harpswell Sound: Sail,Harpswell Sound: Surf,Stand Up Paddleboarding,Monson Bike,
+2018,Christopher,Roshaun,Male,3,4,3,Merritt Island,Canoe Tripping,Day Hiking,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,
+2018,Claar,Carson,male,4,4,3,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,
+2018,Clack,Noah,Male,3,4,3,Whitewater Kayaking,Canoe Tripping,Indian Pond,Merritt Island,Harpswell Sound: Sail,Cabin Trail Work,
+2018,Clark,Alexander,Male,5,4,2,Whitewater Kayaking,Indian Pond,Harpswell Sound: Sail,Backpacking,Day Hiking,Stand Up Paddleboarding,
+2018,Clukey,Jenna,Female,4,4,3,Cabin Trail Work,Merritt Island,Western Foothills,Day Hiking,Backpacking,Carrabassett Trail Work,
+2018,Coffin,Emily,Female,4,4,3,Carpenter's Boat Shop,Harpswell Sound: Sail,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Morris Farm,
+2018,Cohen,Andrew,Male,4,4,2,Aziscohos Valley,Day Hiking,Indian Pond,Downeast Communities: Lubec,Aroostook County: Houlton Community,Carrabassett Trail Work,
+2018,Cohen,Aidan,male,3,3,3,Canoe Tripping,Indian Pond,Day Hiking,Harpswell Sound: Sail,Backpacking,Whitewater Kayaking,
+2018,Colarusso,Maeve,Female,4,3,3,Aziscohos Valley,Canoe Tripping,Harpswell Sound: Surf,Backpacking,Indian Pond,Harpswell Sound: Sail,
+2018,Coleman,Emanuel,Male,4,3,3,Aziscohos Valley,Indian Pond,Day Hiking,Backpacking,Stand Up Paddleboarding,Canoe Tripping,
+2018,Cooper,Harry,Male,5,4,3,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Carpenter's Boat Shop,Whitewater Kayaking,Harpswell Sound: Surf,
+2018,Cost,Caleb,Male,3,4,3,Backpacking,Canoe Tripping,Day Hiking,Indian Pond,Merritt Island,Stand Up Paddleboarding,
+2018,Crabtree,Ella,Female,3,3,2,Indian Pond,Backpacking,Canoe Tripping,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,
+2018,Cramer,Edward,Male,5,3,1,Aziscohos Valley,Merritt Island,Indian Pond,Cabin Trail Work,Carrabassett Trail Work,Harpswell Sound: Surf,
+2018,Crawford,Stephen,Male,3,4,3,BSE,Whitewater Kayaking,Harpswell Sound: Surf,Cabin Trail Work,Harpswell Sound: Sail,Backpacking,
+2018,Cruz,Yadira,Female,1,2,2,BSE,Midcoast Communities: Hunger and Homelessness,Carpenter's Boat Shop,Midcoast Communities: Immigrants and Refugees,Aroostook County: Presque Isle Community,Aroostook County: Houlton Community,
+2018,Cunliffe,Brianna,female,5,3,2,Backpacking,Harpswell Sound: Sail,Whitewater Kayaking,Aziscohos Valley,Passamaquoddy Communities: Indian Township,Carrabassett Trail Work,
+2018,Cunningham,Kasey,Female,2,4,3,Day Hiking,Indian Pond,Merritt Island,Aziscohos Valley,Carrabassett Trail Work,Stand Up Paddleboarding,
+2018,Cunningham,Teagan,Female,5,4,3,Indian Pond,Harpswell Sound: Surf,Merritt Island,Canoe Tripping,Aziscohos Valley,Carrabassett Trail Work,
+2018,Daley,Thomas,Male,4,2,2,Canoe Tripping,Day Hiking,Aziscohos Valley,Downeast Communities: Lubec,Harpswell Sound: Sail,Monson Bike,
+2018,Daley,Kathryn,Female,5,3,2,Harpswell Sound: Surf,Harpswell Sound: Sail,Indian Pond,Whitewater Kayaking,Backpacking,Aziscohos Valley,
+2018,Danzig,Theodore,M,5,3,3,Whitewater Kayaking,Backpacking,Indian Pond,Aziscohos Valley,Canoe Tripping,Monson Bike,
+2018,Davaadorj,Tuguldur,Male,4,4,3,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Harpswell Sound: Surf,Whitewater Kayaking,BSE,
+2018,De La Rosa,Giancarlo,Male,4,3,2,Aroostook County: Houlton Community,Carpenter's Boat Shop,Harpswell Sound: Sail,Merritt Island,Carrabassett Trail Work,Downeast Communities: Lubec,
+2018,de Lasa,Sebastian,Male,5,3,3,Backpacking,Whitewater Kayaking,Canoe Tripping,Day Hiking,Harpswell Sound: Surf,Cabin Trail Work,
+2018,Dean,Michael,Male,5,4,3,Whitewater Kayaking,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Merritt Island,Aziscohos Valley,
+2018,Dear,Dalton,Male,4,3,3,Harpswell Sound: Sail,Day Hiking,Indian Pond,Vinalhaven Island Community,Harpswell Sound: Surf,Backpacking,
+2018,Dewey,Emma,Female,3,2,1,Passamaquoddy Communities: Pleasant Point,Passamaquoddy Communities: Indian Township,Downeast Communities: Milbridge,North Haven Island Community,Vinalhaven Island Community,Midcoast Communities: Immigrants and Refugees,
+2018,Diaz,Cesar,Male,3,3,3,Whitewater Kayaking,Canoe Tripping,Indian Pond,Aziscohos Valley,Monson Bike,BSE,
+2018,Diaz,Tyler,Male,4,2,2,Vinalhaven Island Community,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,Midcoast Communities: Environment and Sustainability,North Haven Island Community,Midcoast Communities: Hunger and Homelessness,
+2018,Dickson,Carly,Female,5,4,3,Indian Pond,Backpacking,Harpswell Sound: Surf,Day Hiking,Whitewater Kayaking,Harpswell Sound: Sail,
+2018,Dillon,Angus,Male,4,4,2,Harpswell Sound: Surf,Backpacking,Harpswell Sound: Sail,Whitewater Kayaking,Canoe Tripping,Aziscohos Valley,
+2018,Diserio,Gabriella,Female,5,3,3,Day Hiking,Cabin Trail Work,Merritt Island,Morris Farm,Aziscohos Valley,Harpswell Sound: Surf,
+2018,Dong,Ray,Male,4,3,3,Whitewater Kayaking,Harpswell Sound: Surf,Harpswell Sound: Sail,Merritt Island,Monson Bike,Canoe Tripping,
+2018,Donnelly,Matthew,Male,4,4,3,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Merritt Island,Harpswell Sound: Surf,Day Hiking,
+2018,Dougal,Aleksandra,female,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Backpacking,Whitewater Kayaking,Midcoast Communities: Environment and Sustainability,
+2018,Dowd,Eva,Female,5,4,3,Indian Pond,Harpswell Sound: Surf,Aziscohos Valley,Merritt Island,Carrabassett Trail Work,Cabin Trail Work,
+2018,Duffy,James,male,4,4,2,Aziscohos Valley,Whitewater Kayaking,Canoe Tripping,Stand Up Paddleboarding,Carpenter's Boat Shop,Harpswell Sound: Surf,
+2018,Duncan-Moore,Tyrese,Male,1,2,1,Backpacking,Morris Farm,Downeast Communities: Lubec,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,Carrabassett Trail Work,
+2018,Durkin,Ryan,Male,5,4,3,Carpenter's Boat Shop,Indian Pond,Harpswell Sound: Sail,Harpswell Sound: Surf,Whitewater Kayaking,Backpacking,
+2018,Eaton,Sunshine,Female,3,4,3,BSE,Aziscohos Valley,Monson Bike,Whitewater Kayaking,Western Foothills,Canoe Tripping,
+2018,Edmonds-Estes,Casey,Male,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Merritt Island,Indian Pond,Aziscohos Valley,
+2018,Edwards,Morgan,Male,3,4,3,Backpacking,Aziscohos Valley,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Day Hiking,
+2018,Eichenlaub,Jonas,Male,4,3,2,Backpacking,Harpswell Sound: Sail,Whitewater Kayaking,Canoe Tripping,Stand Up Paddleboarding,Monson Bike,
+2018,Ellis,Seneca,Female,3,3,2,Aziscohos Valley,Merritt Island,Indian Pond,Morris Farm,North Haven Island Community,Carrabassett Trail Work,
+2018,Enger,Peter,Male,4,4,3,Monson Bike,Backpacking,Canoe Tripping,Whitewater Kayaking,Day Hiking,Stand Up Paddleboarding,
+2018,Enzian,Kieran,Male,5,2,2,Whitewater Kayaking,Backpacking,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,Canoe Tripping,
+2018,Etienne,Qetsia,Female,2,1,1,Harpswell Sound: Surf,Harpswell Sound: Sail,Midcoast Communities: Hunger and Homelessness,Indian Pond,Aroostook County: Houlton Community,Western Foothills,
+2018,Evans,Adelaide,Female,4,3,2,Harpswell Sound: Sail,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Day Hiking,Harpswell Sound: Surf,
+2018,Fakatoumafi,Thomas,Male,5,4,3,Whitewater Kayaking,Stand Up Paddleboarding,Indian Pond,Carpenter's Boat Shop,Canoe Tripping,BSE,
+2018,Farmer,Leah,Female,2,2,1,Merritt Island,Carrabassett Trail Work,Cabin Trail Work,Day Hiking,Aziscohos Valley,Midcoast Communities: Public Health,
+2018,Feigl,Catherine,female,4,2,2,Canoe Tripping,Aziscohos Valley,Carpenter's Boat Shop,Harpswell Sound: Sail,Whitewater Kayaking,Harpswell Sound: Surf,
+2018,Feinerman,Sophia,Female,5,3,3,Whitewater Kayaking,Harpswell Sound: Surf,Aziscohos Valley,Stand Up Paddleboarding,Backpacking,Indian Pond,
+2018,Felser,Benjamin,Male,3,4,3,Whitewater Kayaking,Backpacking,Stand Up Paddleboarding,Carrabassett Trail Work,Merritt Island,Indian Pond,
+2018,Fenton,River,Male,4,3,3,Canoe Tripping,Indian Pond,Stand Up Paddleboarding,Cabin Trail Work,Whitewater Kayaking,Backpacking,
+2018,Filiakova,Ekaterina,female,3,2,1,Midcoast Communities: Public Health,North Haven Island Community,Vinalhaven Island Community,Passamaquoddy Communities: Indian Township,Midcoast Communities: Environment and Sustainability,Carpenter's Boat Shop,
+2018,Filippou,Vasiliki,Female,4,3,2,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,
+2018,Fisher,Braden,Male,3,4,2,Indian Pond,Canoe Tripping,Day Hiking,Stand Up Paddleboarding,Carrabassett Trail Work,Whitewater Kayaking,
+2018,Flagg,Emmeline,Female,5,3,2,Carpenter's Boat Shop,Day Hiking,Harpswell Sound: Sail,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Merritt Island,
+2018,Foehl,Reed,male,4,4,3,Backpacking,Day Hiking,Canoe Tripping,Monson Bike,Cabin Trail Work,Carrabassett Trail Work,
+2018,Foley,Nicholas,Male,4,4,3,Indian Pond,Harpswell Sound: Surf,Stand Up Paddleboarding,Whitewater Kayaking,Vinalhaven Island Community,Harpswell Sound: Sail,
+2018,Follett,Spencer,Male,4,4,3,Aziscohos Valley,Indian Pond,Carrabassett Trail Work,Cabin Trail Work,Day Hiking,Stand Up Paddleboarding,
+2018,Fortier,Evan,Male,5,4,3,Indian Pond,Harpswell Sound: Sail,Aziscohos Valley,Harpswell Sound: Surf,Whitewater Kayaking,Canoe Tripping,
+2018,Fowler,Chris,Male,3,3,2,Harpswell Sound: Sail,Harpswell Sound: Surf,Backpacking,Day Hiking,Indian Pond,Merritt Island,
+2018,Fozo,Madison,Female,4,4,3,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,
+2018,Freeman,Mason ,Male,3,3,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Backpacking,Canoe Tripping,Day Hiking,Whitewater Kayaking,
+2018,Freeman,Max,Male,3,3,3,Indian Pond,Harpswell Sound: Sail,Backpacking,Day Hiking,Merritt Island,Canoe Tripping,
+2018,Friel,Laura,Female,3,3,2,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,BSE,Aziscohos Valley,
+2018,Fuller,Emily,female,4,4,3,Backpacking,Monson Bike,Morris Farm,Western Foothills,Aziscohos Valley,Midcoast Communities: Hunger and Homelessness,
+2018,Funk,Bridget,Female,4,4,3,Harpswell Sound: Sail,Stand Up Paddleboarding,Whitewater Kayaking,Indian Pond,Harpswell Sound: Surf,Canoe Tripping,
+2018,Gallagher,Shannon,female,5,4,3,Indian Pond,Stand Up Paddleboarding,Canoe Tripping,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,
+2018,Gans,Noah,Male,4,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Monson Bike,Stand Up Paddleboarding,Whitewater Kayaking,Backpacking,
+2018,Gates,Alexander,Male,3,2,1,BSE,Day Hiking,Vinalhaven Island Community,Western Foothills,Midcoast Communities: Environment and Sustainability,Backpacking,
+2018,Gearan,Jessica,Woman,4,4,3,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Stand Up Paddleboarding,Cabin Trail Work,Canoe Tripping,
+2018,George,Ishaan ,Male,4,3,3,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,Monson Bike,Day Hiking,
+2018,Gore,Russ,Male,4,4,3,Stand Up Paddleboarding,Whitewater Kayaking,Merritt Island,Indian Pond,Aziscohos Valley,Canoe Tripping,
+2018,Gracey,Elizabeth,Female,5,4,3,Aziscohos Valley,Backpacking,Whitewater Kayaking,Merritt Island,Cabin Trail Work,Carrabassett Trail Work,
+2018,Granoski,Maia,Female,4,3,2,Aziscohos Valley,Day Hiking,Morris Farm,Indian Pond,Merritt Island,Backpacking,
+2018,Gray,Corina,Female,4,4,2,Indian Pond,Harpswell Sound: Sail,Aziscohos Valley,Merritt Island,Canoe Tripping,Whitewater Kayaking,
+2018,Green,Caleb,Male,2,4,3,BSE,Indian Pond,Aziscohos Valley,Carrabassett Trail Work,Merritt Island,Canoe Tripping,
+2018,Green Jr,Troy,Male,4,3,3,Harpswell Sound: Surf,Canoe Tripping,Harpswell Sound: Sail,Indian Pond,Stand Up Paddleboarding,Backpacking,
+2018,Greene,Nora,Female,5,4,2,Vinalhaven Island Community,Harpswell Sound: Surf,North Haven Island Community,Merritt Island,Stand Up Paddleboarding,Day Hiking,
+2018,Grimbilas,George,Male,3,2,2,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Hunger and Homelessness,North Haven Island Community,Aroostook County: Presque Isle Community,
+2018,Groell,Olivia,Female,3,2,2,BSE,Midcoast Communities: Public Health,Downeast Communities: Milbridge,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Environment and Sustainability,
+2018,Groves,Lydia,Female,4,3,2,Stand Up Paddleboarding,Aziscohos Valley,Carpenter's Boat Shop,Indian Pond,Whitewater Kayaking,Aroostook County: Houlton Community,
+2018,Grzyb,Emily,Female,4,4,2,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Midcoast Communities: Immigrants and Refugees,Merritt Island,Vinalhaven Island Community,
+2018,Gunturu,Prithvi,Male,3,3,3,Aziscohos Valley,Harpswell Sound: Surf,Day Hiking,Indian Pond,Backpacking,BSE,
+2018,Hacker,Tabitha,Female,5,3,2,Harpswell Sound: Sail,Indian Pond,Harpswell Sound: Surf,Merritt Island,BSE,Canoe Tripping,
+2018,Hagi,Mulki,Female ,1,1,1,Merritt Island,Downeast Communities: Lubec,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,North Haven Island Community,Aroostook County: Houlton Community,
+2018,Hahesy,Emma,Female,3,2,2,Canoe Tripping,Day Hiking,Aziscohos Valley,Merritt Island,Passamaquoddy Communities: Pleasant Point,Passamaquoddy Communities: Indian Township,
+2018,Haskins,Alia,Female,4,4,3,Passamaquoddy Communities: Pleasant Point,Passamaquoddy Communities: Indian Township,Carpenter's Boat Shop,Harpswell Sound: Sail,Aziscohos Valley,Canoe Tripping,
+2018,Hatt,Emma,Female,3,2,2,Canoe Tripping,Aziscohos Valley,Backpacking,Day Hiking,Western Foothills,BSE,
+2018,Hausmann,Will,Male,3,4,2,Indian Pond,Aziscohos Valley,Backpacking,Canoe Tripping,Stand Up Paddleboarding,Harpswell Sound: Sail,
+2018,Hawkins,Alice,Female,5,4,3,Indian Pond,Backpacking,Harpswell Sound: Surf,Aziscohos Valley,Whitewater Kayaking,Harpswell Sound: Sail,
+2018,Hawkins,Allyson,female,4,4,2,Aziscohos Valley,Day Hiking,Indian Pond,Downeast Communities: Lubec,Aroostook County: Houlton Community,Carrabassett Trail Work,
+2018,Hayami,Nana,Female,5,2,2,Merritt Island,Aziscohos Valley,Canoe Tripping,Day Hiking,Carpenter's Boat Shop,Downeast Communities: Lubec,
+2018,Hayes,Grady,Male,5,4,3,Aziscohos Valley,Merritt Island,Harpswell Sound: Surf,North Haven Island Community,Vinalhaven Island Community,Day Hiking,
+2018,Healy,Liam,Male,3,2,3,Aziscohos Valley,Harpswell Sound: Sail,Day Hiking,Merritt Island,Whitewater Kayaking,Indian Pond,
+2018,Helmke,Anika,female ,4,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Indian Pond,Merritt Island,Whitewater Kayaking,
+2018,Hikida,Madeline,Female,4,3,2,Indian Pond,Aziscohos Valley,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Whitewater Kayaking,
+2018,Hirsch,Maia,Female,3,2,2,North Haven Island Community,Indian Pond,Vinalhaven Island Community,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,
+2018,Hocking,Elise,female,5,4,3,Carpenter's Boat Shop,Cabin Trail Work,Day Hiking,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,
+2018,Holloway,Symone,Female,1,1,1,Aroostook County: Houlton Community,North Haven Island Community,Vinalhaven Island Community,Aroostook County: Presque Isle Community,Passamaquoddy Communities: Indian Township,Downeast Communities: Milbridge,
+2018,Hood,John,Male,4,4,3,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Stand Up Paddleboarding,Indian Pond,Backpacking,
+2018,Horan,Melissa,female,4,4,3,Day Hiking,Backpacking,Aziscohos Valley,Indian Pond,Downeast Communities: Lubec,Midcoast Communities: Immigrants and Refugees,
+2018,Hornbeck,Thomas,Male,4,2,3,Indian Pond,Morris Farm,Whitewater Kayaking,Merritt Island,Canoe Tripping,Harpswell Sound: Sail,
+2018,Hoyne Grosvenor,Jeremy,Male,4,4,3,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,Aziscohos Valley,Morris Farm,
+2018,Hu,Xiwen,F,2,2,1,Carpenter's Boat Shop,Merritt Island,BSE,Aziscohos Valley,Backpacking,Monson Bike,
+2018,Hua,Yucheng,male,4,3,2,Harpswell Sound: Sail,BSE,Aziscohos Valley,Whitewater Kayaking,Midcoast Communities: Environment and Sustainability,Day Hiking,
+2018,huckaby,tess,female,3,3,3,Morris Farm,Passamaquoddy Communities: Indian Township,North Haven Island Community,Midcoast Communities: Environment and Sustainability,Aroostook County: Presque Isle Community,Midcoast Communities: Hunger and Homelessness,
+2018,Hugee,Myles,Male,2,4,3,Harpswell Sound: Surf,Indian Pond,Stand Up Paddleboarding,Harpswell Sound: Sail,Canoe Tripping,Whitewater Kayaking,
+2018,Husted,Anibal,Male ,4,2,2,Monson Bike,North Haven Island Community,Vinalhaven Island Community,Day Hiking,Downeast Communities: Lubec,Midcoast Communities: Environment and Sustainability,
+2018,Hyman,Isaiah,Male,3,4,2,Aziscohos Valley,Backpacking,Whitewater Kayaking,Day Hiking,Indian Pond,Harpswell Sound: Sail,
+2018,Inoa,Gabriela,female,4,2,2,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Canoe Tripping,Harpswell Sound: Sail,Midcoast Communities: Hunger and Homelessness,Stand Up Paddleboarding,
+2018,Isaacson,Henry,Male,5,4,3,Whitewater Kayaking,Harpswell Sound: Surf,Backpacking,Day Hiking,Monson Bike,Harpswell Sound: Sail,
+2018,Izaguirre Reyes,Jairo,Male,3,4,3,Aziscohos Valley,Indian Pond,Merritt Island,BSE,Midcoast Communities: Public Health,Day Hiking,
+2018,Jackson,Caroline,Female,4,3,3,Harpswell Sound: Surf,Indian Pond,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Merritt Island,
+2018,Jadatz,Kyle,Male ,5,4,3,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Monson Bike,Day Hiking,Harpswell Sound: Sail,
+2018,Jaffer,Ameerah,Female,3,3,2,Stand Up Paddleboarding,Passamaquoddy Communities: Indian Township,Harpswell Sound: Sail,Vinalhaven Island Community,Midcoast Communities: Immigrants and Refugees,Merritt Island,
+2018,Jaman,Ella Marie,Female,2,2,1,Aziscohos Valley,Carrabassett Trail Work,BSE,Day Hiking,Carpenter's Boat Shop,Western Foothills,
+2018,Janes,Margaret,female,3,4,3,Aziscohos Valley,Harpswell Sound: Surf,Day Hiking,Merritt Island,Stand Up Paddleboarding,Indian Pond,
+2018,Janszky,Lucas,Male,5,3,3,Whitewater Kayaking,Backpacking,Canoe Tripping,Aziscohos Valley,Day Hiking,Harpswell Sound: Sail,
+2018,John,Kathryn,Female,4,3,3,Aziscohos Valley,Whitewater Kayaking,Morris Farm,Canoe Tripping,Day Hiking,Stand Up Paddleboarding,
+2018,Johnson,Lucas,Male,3,3,3,Harpswell Sound: Sail,Whitewater Kayaking,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Immigrants and Refugees,Day Hiking,
+2018,Johnston,Emma,Female,4,3,3,Harpswell Sound: Surf,Whitewater Kayaking,Day Hiking,Indian Pond,Downeast Communities: Lubec,Backpacking,
+2018,Jonas,Serena,Female,5,4,3,Indian Pond,Whitewater Kayaking,Harpswell Sound: Surf,Aziscohos Valley,Stand Up Paddleboarding,Day Hiking,
+2018,Jones,Rubin,Male,4,2,3,Indian Pond,Harpswell Sound: Sail,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,Cabin Trail Work,
+2018,Jorgensen,Taylor,Female,2,2,2,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,North Haven Island Community,Aroostook County: Houlton Community,Vinalhaven Island Community,Downeast Communities: Lubec,
+2018,Joyce,Angelina,Female,4,4,3,BSE,Merritt Island,Harpswell Sound: Sail,Harpswell Sound: Surf,Canoe Tripping,Whitewater Kayaking,
+2018,Juntura,Danica Andrea,Female,2,2,2,Stand Up Paddleboarding,Harpswell Sound: Sail,Whitewater Kayaking,Day Hiking,Backpacking,Harpswell Sound: Surf,
+2018,Kagitomi,Taiga,Male,4,4,3,Aroostook County: Houlton Community,Morris Farm,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Environment and Sustainability,Vinalhaven Island Community,North Haven Island Community,
+2018,Kangas,Atticus,Male,5,4,3,Aziscohos Valley,Canoe Tripping,Indian Pond,Whitewater Kayaking,Stand Up Paddleboarding,Day Hiking,
+2018,Kant,Brigita,Female,4,2,1,Indian Pond,Whitewater Kayaking,Canoe Tripping,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,
+2018,Karris,Sophia,Female ,4,4,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Backpacking,Whitewater Kayaking,Western Foothills,Canoe Tripping,
+2018,Kashner,Tessa,Genderqueer,4,3,2,Cabin Trail Work,Carrabassett Trail Work,Aziscohos Valley,Backpacking,Carpenter's Boat Shop,Western Foothills,
+2018,Kassama,Francis Jacob,Male,3,2,1,BSE,North Haven Island Community,Vinalhaven Island Community,Cabin Trail Work,Aroostook County: Houlton Community,Midcoast Communities: Public Health,
+2018,Katter,Julia,Female,5,3,2,Backpacking,Indian Pond,Canoe Tripping,Aziscohos Valley,Day Hiking,Harpswell Sound: Sail,
+2018,Katz,Lauren,Female,4,3,3,Indian Pond,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,Backpacking,Canoe Tripping,
+2018,Katz,Isaac,Male,4,4,2,Canoe Tripping,Merritt Island,Aziscohos Valley,Cabin Trail Work,Vinalhaven Island Community,Passamaquoddy Communities: Indian Township,
+2018,Kay,Sela,female,3,4,3,Aziscohos Valley,Harpswell Sound: Surf,Indian Pond,Merritt Island,Stand Up Paddleboarding,Whitewater Kayaking,
+2018,Kelsey,Nate,Male,5,4,3,Whitewater Kayaking,Backpacking,Aziscohos Valley,Canoe Tripping,Harpswell Sound: Surf,Harpswell Sound: Sail,
+2018,Kelton,Gemma,Female,2,3,2,Canoe Tripping,Cabin Trail Work,Carrabassett Trail Work,Midcoast Communities: Immigrants and Refugees,Merritt Island,Aziscohos Valley,
+2018,Kemp,Kathleen,Female,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Canoe Tripping,Indian Pond,Merritt Island,
+2018,Khoory,Nailah,Female,5,3,2,Whitewater Kayaking,Harpswell Sound: Sail,Indian Pond,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,
+2018,Kim,Dae Kyu,Male,3,4,3,Aziscohos Valley,Day Hiking,Backpacking,Merritt Island,Monson Bike,Midcoast Communities: Public Health,
+2018,Kim,Kyubin,Female,2,2,2,Midcoast Communities: Public Health,North Haven Island Community,Midcoast Communities: Immigrants and Refugees,Morris Farm,Vinalhaven Island Community,Merritt Island,
+2018,King,Gillian,Female,2,3,2,BSE,Day Hiking,Aziscohos Valley,Backpacking,Harpswell Sound: Sail,Indian Pond,
+2018,Kingston,John,Male,4,4,3,Harpswell Sound: Surf,Indian Pond,Merritt Island,Stand Up Paddleboarding,Whitewater Kayaking,Canoe Tripping,
+2018,Kissel,Aaron,Male,5,4,3,Backpacking,Whitewater Kayaking,Canoe Tripping,Monson Bike,Merritt Island,Harpswell Sound: Surf,
+2018,Knight,Evan,Male,5,4,3,Harpswell Sound: Surf,Backpacking,Harpswell Sound: Sail,Whitewater Kayaking,Indian Pond,Canoe Tripping,
+2018,Ko,Kangrok,"Male	",1,4,1,Aziscohos Valley,Merritt Island,Carpenter's Boat Shop,Carrabassett Trail Work,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,
+2018,Koeller,Elizabeth,Female,3,4,3,Canoe Tripping,Downeast Communities: Lubec,Whitewater Kayaking,Stand Up Paddleboarding,Harpswell Sound: Sail,North Haven Island Community,
+2018,Koh,Younju,Female,3,2,2,Merritt Island,Aroostook County: Presque Isle Community,Downeast Communities: Lubec,Harpswell Sound: Sail,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,
+2018,Komishane,Coleman,Male,5,4,3,Aziscohos Valley,Harpswell Sound: Surf,Indian Pond,Day Hiking,Backpacking,Whitewater Kayaking,
+2018,Kothari,Arman,Male,3,3,3,Backpacking,Indian Pond,Canoe Tripping,Merritt Island,Whitewater Kayaking,Aziscohos Valley,
+2018,Kreines,Alexander,Male,3,4,3,Day Hiking,Aziscohos Valley,Carpenter's Boat Shop,Backpacking,Indian Pond,Whitewater Kayaking,
+2018,Kriz,Claudia,Female,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Vinalhaven Island Community,North Haven Island Community,Stand Up Paddleboarding,Carpenter's Boat Shop,
+2018,Krogh,Isabel,Female,4,3,2,Canoe Tripping,Indian Pond,Day Hiking,Aziscohos Valley,Cabin Trail Work,Stand Up Paddleboarding,
+2018,Krupp,Brandon,Male,4,4,2,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Carrabassett Trail Work,Carpenter's Boat Shop,Aroostook County: Presque Isle Community,
+2018,Kuhnle,Scott,Male,5,3,3,Canoe Tripping,Cabin Trail Work,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,Carrabassett Trail Work,
+2018,Kunins-Berkowitz,Livia,Female,4,2,2,Backpacking,Indian Pond,Aziscohos Valley,Passamaquoddy Communities: Indian Township,Day Hiking,Whitewater Kayaking,
+2018,Kwon,Hyeok-Kyoung,Female,3,1,1,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,Midcoast Communities: Hunger and Homelessness,Downeast Communities: Milbridge,Downeast Communities: Lubec,
+2018,Lam,Nicholas,Male,4,3,3,Indian Pond,Aziscohos Valley,Whitewater Kayaking,Stand Up Paddleboarding,Monson Bike,Canoe Tripping,
+2018,Lamphier,Colin,male,3,4,2,Canoe Tripping,Harpswell Sound: Sail,Carpenter's Boat Shop,Harpswell Sound: Surf,Merritt Island,Monson Bike,
+2018,Landau,June (Fleming),Female,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Indian Pond,Canoe Tripping,Stand Up Paddleboarding,Whitewater Kayaking,
+2018,Lasarte,Diego,Male,2,3,2,Backpacking,Merritt Island,Aziscohos Valley,Canoe Tripping,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,
+2018,Lau,Jamie,Female ,4,4,3,Backpacking,Cabin Trail Work,Carrabassett Trail Work,Harpswell Sound: Surf,Midcoast Communities: Hunger and Homelessness,Indian Pond,
+2018,Lawler,Emilia,Female,3,2,2,Merritt Island,Indian Pond,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Day Hiking,
+2018,Lee,Carey,Female,3,3,2,Whitewater Kayaking,Harpswell Sound: Surf,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Stand Up Paddleboarding,
+2018,Lee,Grace,Female,4,3,2,BSE,Aziscohos Valley,Stand Up Paddleboarding,Canoe Tripping,Whitewater Kayaking,Passamaquoddy Communities: Pleasant Point,
+2018,Lenaghan,Brian,male,5,4,3,Indian Pond,Day Hiking,Canoe Tripping,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,
+2018,Liesman,Jonathan,male,5,4,3,Backpacking,Aziscohos Valley,Whitewater Kayaking,Cabin Trail Work,Merritt Island,Canoe Tripping,
+2018,Lin,Joanna,Female,3,2,1,BSE,Midcoast Communities: Public Health,Carpenter's Boat Shop,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,
+2018,Lin,Joshua,Male,3,3,1,BSE,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Public Health,Aroostook County: Presque Isle Community,Midcoast Communities: Immigrants and Refugees,Aroostook County: Houlton Community,
+2018,Lin,Jingrui,Female,3,2,1,Downeast Communities: Lubec,BSE,Merritt Island,Morris Farm,Canoe Tripping,Passamaquoddy Communities: Indian Township,
+2018,Little,Daniel,Male,3,3,3,Carpenter's Boat Shop,Morris Farm,Merritt Island,Cabin Trail Work,North Haven Island Community,Monson Bike,
+2018,Liu,Shuhao,Male,4,3,2,Whitewater Kayaking,Harpswell Sound: Surf,Indian Pond,Canoe Tripping,Merritt Island,Aziscohos Valley,
+2018,Loaisiga,Maynor,Male,4,3,2,Canoe Tripping,Aziscohos Valley,Merritt Island,Indian Pond,Harpswell Sound: Sail,Day Hiking,
+2018,Lopes,Joao,Male,5,3,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Cabin Trail Work,Aziscohos Valley,Indian Pond,Carpenter's Boat Shop,
+2018,Luan,Michelle,Female,4,2,1,Aziscohos Valley,Merritt Island,Canoe Tripping,Cabin Trail Work,Carpenter's Boat Shop,Harpswell Sound: Sail,
+2018,Luong,Phuong,Female,1,1,2,BSE,Merritt Island,Indian Pond,Backpacking,Day Hiking,Aroostook County: Houlton Community,
+2018,Mack,Penelope,female,4,2,2,Harpswell Sound: Surf,Merritt Island,Day Hiking,Morris Farm,Indian Pond,Canoe Tripping,
+2018,MacKenzie,Cameron,Female,5,4,3,Day Hiking,Cabin Trail Work,Harpswell Sound: Sail,Backpacking,Morris Farm,Carrabassett Trail Work,
+2018,Magrath,Melissa,female,4,4,3,Indian Pond,Backpacking,Day Hiking,Aziscohos Valley,Canoe Tripping,Harpswell Sound: Sail,
+2018,Majersik,Emilia,Femals,4,3,3,Backpacking,Day Hiking,Indian Pond,Aziscohos Valley,Whitewater Kayaking,Harpswell Sound: Surf,
+2018,Maniatis,Nicholas,Male,5,4,3,Backpacking,Whitewater Kayaking,Day Hiking,Stand Up Paddleboarding,Monson Bike,Canoe Tripping,
+2018,Margiotta,Jameson,Female,2,4,3,Stand Up Paddleboarding,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Day Hiking,Western Foothills,
+2018,Marin,George,Male ,1,4,2,Merritt Island,Carpenter's Boat Shop,Harpswell Sound: Sail,Aziscohos Valley,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,
+2018,Marks,Julia,Female,4,4,3,Backpacking,Carrabassett Trail Work,Indian Pond,Day Hiking,Aroostook County: Presque Isle Community,Canoe Tripping,
+2018,Marquez,Danielle,Female,4,4,3,Harpswell Sound: Surf,Backpacking,Stand Up Paddleboarding,Whitewater Kayaking,Day Hiking,Canoe Tripping,
+2018,Mason,Benjamin,Male,4,4,2,Carpenter's Boat Shop,Aziscohos Valley,Indian Pond,Harpswell Sound: Sail,Whitewater Kayaking,Harpswell Sound: Surf,
+2018,Matovu,George,Male,3,3,2,Indian Pond,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Stand Up Paddleboarding,Day Hiking,
+2018,Mauro,Francesca,F,4,3,2,Indian Pond,Aziscohos Valley,Merritt Island,Day Hiking,Stand Up Paddleboarding,Canoe Tripping,
+2018,Maus,Jacob,Male,4,4,3,Whitewater Kayaking,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,Stand Up Paddleboarding,Canoe Tripping,
+2018,Maus,Ellie,Female,4,3,2,Merritt Island,Indian Pond,Midcoast Communities: Environment and Sustainability,Stand Up Paddleboarding,Harpswell Sound: Surf,Canoe Tripping,
+2018,McAtee,Bryan,Male,4,4,3,Indian Pond,Whitewater Kayaking,Canoe Tripping,Carrabassett Trail Work,Aziscohos Valley,Stand Up Paddleboarding,
+2018,McCarty,Sierra,Female,4,2,1,Midcoast Communities: Public Health,Vinalhaven Island Community,North Haven Island Community,Carpenter's Boat Shop,Harpswell Sound: Sail,Aziscohos Valley,
+2018,McDonagh,Cillian,Male,4,3,2,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,Morris Farm,Passamaquoddy Communities: Indian Township,
+2018,McKee,Katherine,Female,4,4,3,Day Hiking,Carpenter's Boat Shop,Backpacking,Merritt Island,Cabin Trail Work,Harpswell Sound: Sail,
+2018,McWhorter,Atticus,M,4,4,3,Backpacking,Harpswell Sound: Surf,Monson Bike,Whitewater Kayaking,Canoe Tripping,Carrabassett Trail Work,
+2018,Mebust,Theodore,Male,4,3,2,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Stand Up Paddleboarding,Day Hiking,Backpacking,
+2018,Mekonnen,Lisa,Female,2,1,1,BSE,Aziscohos Valley,Monson Bike,Merritt Island,Carrabassett Trail Work,Cabin Trail Work,
+2018,Melendez Quan,Gabriela,Female,3,2,2,Indian Pond,Aziscohos Valley,Day Hiking,Merritt Island,Stand Up Paddleboarding,Whitewater Kayaking,
+2018,Meredith,Andrew,Male,3,4,3,Backpacking,Day Hiking,Indian Pond,Canoe Tripping,Carrabassett Trail Work,Aziscohos Valley,
+2018,Merrill,Nicholas,Male,3,4,3,Day Hiking,Backpacking,Western Foothills,Canoe Tripping,Carrabassett Trail Work,Indian Pond,
+2018,Michaud,Sasha,female,3,2,2,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,Vinalhaven Island Community,
+2018,Millar,Margaret,Female,4,2,2,Day Hiking,Cabin Trail Work,BSE,Aziscohos Valley,Carrabassett Trail Work,Midcoast Communities: Environment and Sustainability,
+2018,Miller,Adrienne,Female,3,4,3,Aziscohos Valley,Merritt Island,Indian Pond,Canoe Tripping,Harpswell Sound: Sail,Stand Up Paddleboarding,
+2018,Miller,Madisen,Female,3,2,1,Indian Pond,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Day Hiking,Backpacking,
+2018,Milligan,John,Male,4,4,3,Aziscohos Valley,Stand Up Paddleboarding,Indian Pond,Harpswell Sound: Surf,Canoe Tripping,Whitewater Kayaking,
+2018,Milliken,Perrin,Female,3,4,3,Backpacking,Monson Bike,Whitewater Kayaking,Day Hiking,Aziscohos Valley,Merritt Island,
+2018,Min,Chanhee,Female,3,3,2,Aziscohos Valley,Harpswell Sound: Surf,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Harpswell Sound: Sail,Backpacking,
+2018,Mitchell,Sean,Male,4,4,3,Whitewater Kayaking,Backpacking,Aziscohos Valley,Canoe Tripping,Day Hiking,Vinalhaven Island Community,
+2018,Monaghan,Grace,Female,4,3,3,Harpswell Sound: Surf,Merritt Island,Indian Pond,Canoe Tripping,Aziscohos Valley,Harpswell Sound: Sail,
+2018,Moniz,Francesca,female,3,3,2,Merritt Island,Indian Pond,Midcoast Communities: Immigrants and Refugees,Vinalhaven Island Community,Canoe Tripping,Stand Up Paddleboarding,
+2018,Moody,Erin,female,5,4,3,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,Stand Up Paddleboarding,Monson Bike,
+2018,Motley,Eliza,Female,5,3,2,Backpacking,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Canoe Tripping,Stand Up Paddleboarding,
+2018,Moussapour,Neda,Female,3,2,2,Aziscohos Valley,Cabin Trail Work,Carrabassett Trail Work,Indian Pond,Downeast Communities: Lubec,Merritt Island,
+2018,Moynihan,Katherine,Female,5,4,3,Merritt Island,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Stand Up Paddleboarding,Whitewater Kayaking,
+2018,Muro,Marc,male,3,2,2,Day Hiking,Indian Pond,Backpacking,Aziscohos Valley,Whitewater Kayaking,Midcoast Communities: Immigrants and Refugees,
+2018,Murtagh,William,Male,5,4,3,Harpswell Sound: Surf,Indian Pond,Harpswell Sound: Sail,Stand Up Paddleboarding,Whitewater Kayaking,Canoe Tripping,
+2018,Muzzey,Drew,Male,3,4,3,Aroostook County: Houlton Community,Aroostook County: Presque Isle Community,Cabin Trail Work,Carrabassett Trail Work,Day Hiking,Downeast Communities: Lubec,
+2018,Nagy,Hajna,Female,3,4,3,Harpswell Sound: Sail,Indian Pond,Aziscohos Valley,Canoe Tripping,Day Hiking,Backpacking,
+2018,Nassor,Samara,female,3,2,2,Aziscohos Valley,Western Foothills,Day Hiking,North Haven Island Community,Vinalhaven Island Community,Merritt Island,
+2018,Neirink,Samuel,Male,4,4,3,Backpacking,Harpswell Sound: Sail,Canoe Tripping,Aziscohos Valley,Merritt Island,Carpenter's Boat Shop,
+2018,Nelson,Sara,F,3,3,3,Backpacking,Harpswell Sound: Sail,Canoe Tripping,Carrabassett Trail Work,Whitewater Kayaking,Aziscohos Valley,
+2018,Nelson,Jack,Male,5,4,3,Day Hiking,Whitewater Kayaking,Canoe Tripping,Backpacking,Monson Bike,Indian Pond,
+2018,Ng,Griffin,Male,4,3,3,Indian Pond,Stand Up Paddleboarding,Canoe Tripping,Aziscohos Valley,Harpswell Sound: Sail,Harpswell Sound: Surf,
+2018,Nguyen,Lynn,Female,2,2,2,Midcoast Communities: Public Health,North Haven Island Community,Vinalhaven Island Community,Day Hiking,Merritt Island,Midcoast Communities: Hunger and Homelessness,
+2018,Nicholson,Andrew,Male,4,1,1,Monson Bike,Day Hiking,Backpacking,Vinalhaven Island Community,Western Foothills,Cabin Trail Work,
+2018,Nigro,Nicole,Female,4,3,2,Morris Farm,Aziscohos Valley,Aroostook County: Presque Isle Community,Aroostook County: Houlton Community,Downeast Communities: Milbridge,Western Foothills,
+2018,Niles,Alexandra,Female,5,3,3,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,Harpswell Sound: Sail,Indian Pond,Canoe Tripping,
+2018,Nino-Tapia,Kevin,Male,1,3,3,BSE,Downeast Communities: Milbridge,Western Foothills,Morris Farm,Carpenter's Boat Shop,Midcoast Communities: Immigrants and Refugees,
+2018,Nix,Oliver,Male,4,3,3,Canoe Tripping,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Backpacking,Day Hiking,
+2018,Noel,Lucy,Female ,4,3,2,Indian Pond,Day Hiking,Aziscohos Valley,Canoe Tripping,Cabin Trail Work,Stand Up Paddleboarding,
+2018,Nolden,Lucie,Female,3,3,2,Canoe Tripping,Western Foothills,Aziscohos Valley,Backpacking,Cabin Trail Work,Carrabassett Trail Work,
+2018,Nzeyimana,Marie,Female,1,2,2,BSE,Midcoast Communities: Immigrants and Refugees,Aroostook County: Houlton Community,Day Hiking,Merritt Island,Monson Bike,
+2018,O'Brien,Ailish,Female,4,4,3,Indian Pond,Stand Up Paddleboarding,Canoe Tripping,Harpswell Sound: Surf,Whitewater Kayaking,Harpswell Sound: Sail,
+2018,O'Carroll,Fiona,Female,5,3,3,Indian Pond,Backpacking,Whitewater Kayaking,Aziscohos Valley,Stand Up Paddleboarding,Harpswell Sound: Sail,
+2018,Odlum,George,Male,4,3,2,Aziscohos Valley,Indian Pond,Backpacking,Canoe Tripping,Whitewater Kayaking,Stand Up Paddleboarding,
+2018,Olcott,Jack,Male,5,4,3,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,Stand Up Paddleboarding,
+2018,Onuorah,Onyedika,Male,1,2,1,BSE,Morris Farm,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Carpenter's Boat Shop,Midcoast Communities: Environment and Sustainability,
+2018,Orofino,Nicholas,Male,4,4,3,Aziscohos Valley,Merritt Island,Canoe Tripping,Whitewater Kayaking,Indian Pond,Stand Up Paddleboarding,
+2018,Ortiz,Drew,Male,3,3,3,Indian Pond,Harpswell Sound: Sail,Canoe Tripping,Harpswell Sound: Surf,Backpacking,Day Hiking,
+2018,Ortiz,Ismerai,Female,4,3,3,BSE,Merritt Island,North Haven Island Community,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,Midcoast Communities: Environment and Sustainability,
+2018,Osemobor,Etin-Osa,Female,3,2,1,Aziscohos Valley,Harpswell Sound: Sail,Whitewater Kayaking,Canoe Tripping,Indian Pond,Carrabassett Trail Work,
+2018,Otis,Jason,male,2,4,3,Whitewater Kayaking,Day Hiking,Cabin Trail Work,Aziscohos Valley,Carrabassett Trail Work,Canoe Tripping,
+2018,Ott,Griffin,Male,2,3,2,Cabin Trail Work,Aziscohos Valley,Day Hiking,Carrabassett Trail Work,Morris Farm,Western Foothills,
+2018,Pahl,Sophia,Female,4,4,3,Aziscohos Valley,Backpacking,Day Hiking,Indian Pond,Merritt Island,Whitewater Kayaking,
+2018,Paine,Frank,Male,4,3,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Whitewater Kayaking,Merritt Island,Stand Up Paddleboarding,Aziscohos Valley,
+2018,Pallotta,Karlye,Female,4,3,2,Aziscohos Valley,Indian Pond,Day Hiking,Stand Up Paddleboarding,Harpswell Sound: Surf,Canoe Tripping,
+2018,Pan,Emily,Female,2,2,2,BSE,Morris Farm,Aroostook County: Houlton Community,Backpacking,Midcoast Communities: Public Health,Merritt Island,
+2018,Parajon,Roman,Male,2,2,2,Harpswell Sound: Surf,Backpacking,Day Hiking,Indian Pond,Whitewater Kayaking,Western Foothills,
+2018,Pareja,Camilo,male,3,3,3,BSE,Indian Pond,Carpenter's Boat Shop,Harpswell Sound: Surf,Aziscohos Valley,Whitewater Kayaking,
+2018,Parsons,Charlotte,Female,3,3,2,Vinalhaven Island Community,North Haven Island Community,Merritt Island,Morris Farm,Indian Pond,Downeast Communities: Milbridge,
+2018,Parton,Angus,Male,5,4,2,Backpacking,Whitewater Kayaking,Cabin Trail Work,Carrabassett Trail Work,Aziscohos Valley,Monson Bike,
+2018,Patti,Thomas,Male,3,4,3,Indian Pond,Aziscohos Valley,Canoe Tripping,Day Hiking,Merritt Island,Downeast Communities: Lubec,
+2018,Patti,Catherine,Female,4,3,2,Backpacking,Day Hiking,Carrabassett Trail Work,Aziscohos Valley,Cabin Trail Work,Indian Pond,
+2018,Pekala,Patrycja,Female,2,2,1,BSE,Day Hiking,Whitewater Kayaking,Downeast Communities: Milbridge,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,
+2018,Pena,Angelica,Female,1,1,1,Passamaquoddy Communities: Indian Township,Aroostook County: Houlton Community,Midcoast Communities: Environment and Sustainability,Morris Farm,Downeast Communities: Milbridge,Passamaquoddy Communities: Pleasant Point,
+2018,Perez Perez-Hervada,Ignacio,male,4,3,2,Aziscohos Valley,Cabin Trail Work,Western Foothills,Midcoast Communities: Immigrants and Refugees,Whitewater Kayaking,Canoe Tripping,
+2018,Perillo,Julia,Female,4,2,2,BSE,North Haven Island Community,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Aroostook County: Houlton Community,Midcoast Communities: Environment and Sustainability,
+2018,Perriello,Lailoo,Female,2,3,2,Day Hiking,North Haven Island Community,Vinalhaven Island Community,Aroostook County: Houlton Community,Stand Up Paddleboarding,Aziscohos Valley,
+2018,Petronzio,Mary,Female,5,4,3,Aziscohos Valley,Indian Pond,Backpacking,Stand Up Paddleboarding,Canoe Tripping,Whitewater Kayaking,
+2018,Phillips,Evan,Male,4,4,3,Indian Pond,Day Hiking,Aziscohos Valley,Harpswell Sound: Sail,Vinalhaven Island Community,North Haven Island Community,
+2018,Pierce,Claire,Female,4,4,3,Harpswell Sound: Surf,Canoe Tripping,Stand Up Paddleboarding,Aziscohos Valley,Harpswell Sound: Sail,Carrabassett Trail Work,
+2018,Pierre,Alyssa,Female,3,2,2,Harpswell Sound: Sail,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Harpswell Sound: Surf,Stand Up Paddleboarding,
+2018,Pike,Ellie,Female,5,3,2,Indian Pond,Backpacking,Aziscohos Valley,Canoe Tripping,Whitewater Kayaking,Day Hiking,
+2018,Pitts,Lydia,Female,4,4,3,Indian Pond,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Aziscohos Valley,Canoe Tripping,
+2018,Pollock,James,Male,5,4,3,Whitewater Kayaking,Day Hiking,Indian Pond,Harpswell Sound: Sail,Monson Bike,Western Foothills,
+2018,Polo Brizuela,Andria,Female ,2,1,1,BSE,Downeast Communities: Milbridge,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Morris Farm,Midcoast Communities: Hunger and Homelessness,
+2018,Poole,Caroline,Female,5,2,2,Harpswell Sound: Surf,Indian Pond,Whitewater Kayaking,Carrabassett Trail Work,Carpenter's Boat Shop,Harpswell Sound: Sail,
+2018,Poppen,Lily,Female,4,3,2,BSE,Harpswell Sound: Sail,Midcoast Communities: Public Health,Canoe Tripping,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Lubec,
+2018,Porter,Lucas,Male,3,2,2,Merritt Island,Harpswell Sound: Sail,Canoe Tripping,Harpswell Sound: Surf,Indian Pond,Stand Up Paddleboarding,
+2018,Powell,Samuel,Male,4,4,3,Indian Pond,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Stand Up Paddleboarding,Merritt Island,
+2018,Prabhu,Rahul,Male,2,2,2,Downeast Communities: Milbridge,Passamaquoddy Communities: Indian Township,Morris Farm,North Haven Island Community,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,
+2018,Price,Jeffrey,Male,4,3,3,Aziscohos Valley,Harpswell Sound: Surf,Stand Up Paddleboarding,Indian Pond,Whitewater Kayaking,Canoe Tripping,
+2018,Puckett,Chelsea,Female,5,4,3,Backpacking,Whitewater Kayaking,Canoe Tripping,Stand Up Paddleboarding,Monson Bike,Day Hiking,
+2018,Putnam,Ky,Genderqueer,5,3,3,Harpswell Sound: Surf,Carpenter's Boat Shop,Stand Up Paddleboarding,Indian Pond,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Public Health,
+2018,Pyne,Charles,Male,4,4,3,Harpswell Sound: Sail,Whitewater Kayaking,Harpswell Sound: Surf,Stand Up Paddleboarding,Aziscohos Valley,Canoe Tripping,
+2018,Quezada,Danielle,Female,2,3,2,Aziscohos Valley,Indian Pond,Harpswell Sound: Sail,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,Day Hiking,
+2018,Rackear,William,Male,4,4,3,Whitewater Kayaking,Day Hiking,Backpacking,Aziscohos Valley,Harpswell Sound: Surf,Canoe Tripping,
+2018,Rajiv,Devaki,Female,2,2,2,BSE,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Aziscohos Valley,Canoe Tripping,
+2018,Ralph,Fiona,Female,4,4,3,Carrabassett Trail Work,Aziscohos Valley,Canoe Tripping,North Haven Island Community,Vinalhaven Island Community,Cabin Trail Work,
+2018,Raymond,Abigail,Female,5,2,1,Midcoast Communities: Public Health,Vinalhaven Island Community,Midcoast Communities: Immigrants and Refugees,Whitewater Kayaking,Stand Up Paddleboarding,Midcoast Communities: Hunger and Homelessness,
+2018,Recchiuti,John,Male,4,4,3,Day Hiking,Indian Pond,Whitewater Kayaking,Canoe Tripping,Monson Bike,Carpenter's Boat Shop,
+2018,Reid,Dylan,male,3,4,3,Whitewater Kayaking,Harpswell Sound: Sail,Day Hiking,Canoe Tripping,Merritt Island,Monson Bike,
+2018,Reiff,Hannah,female ,4,4,3,Day Hiking,Backpacking,Whitewater Kayaking,Monson Bike,Indian Pond,Canoe Tripping,
+2018,Riano,Maria Camila,Female,5,3,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Indian Pond,Whitewater Kayaking,Backpacking,Stand Up Paddleboarding,
+2018,Rice,August,Male,4,2,3,Aziscohos Valley,Backpacking,Canoe Tripping,Day Hiking,Monson Bike,Whitewater Kayaking,
+2018,Rios,Adela,female,2,2,1,Day Hiking,Aziscohos Valley,Merritt Island,Cabin Trail Work,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,
+2018,Rivera,Mateo,male,3,4,3,Indian Pond,Backpacking,Aziscohos Valley,Harpswell Sound: Sail,Carrabassett Trail Work,Whitewater Kayaking,
+2018,Robertson,Jake,Male,5,4,3,Whitewater Kayaking,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,Canoe Tripping,Stand Up Paddleboarding,
+2018,Ross,Benjamin,Male,4,4,3,Whitewater Kayaking,Backpacking,Aziscohos Valley,Canoe Tripping,Day Hiking,Stand Up Paddleboarding,
+2018,Russell,Logan,Male ,3,4,3,Canoe Tripping,Indian Pond,Merritt Island,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Stand Up Paddleboarding,
+2018,Rutledge,Graham,Male,5,4,3,Harpswell Sound: Surf,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,Harpswell Sound: Sail,Monson Bike,
+2018,Ryan,Teagan,female,5,4,3,Indian Pond,Stand Up Paddleboarding,Merritt Island,Canoe Tripping,Whitewater Kayaking,Morris Farm,
+2018,Ryff,Kevin,Male,5,4,3,Indian Pond,Aziscohos Valley,Merritt Island,Harpswell Sound: Sail,Stand Up Paddleboarding,Canoe Tripping,
+2018,Sablich,Wren,female,4,4,3,Whitewater Kayaking,Indian Pond,Aziscohos Valley,Day Hiking,Canoe Tripping,Merritt Island,
+2018,Sackes,Samantha,Woman,2,2,1,Aziscohos Valley,Downeast Communities: Lubec,Aroostook County: Houlton Community,Passamaquoddy Communities: Indian Township,Morris Farm,Cabin Trail Work,
+2018,Saga,Mary,Female,1,3,1,Midcoast Communities: Environment and Sustainability,Day Hiking,Aziscohos Valley,Western Foothills,North Haven Island Community,Carrabassett Trail Work,
+2018,Saleh,Safa,Female,1,3,1,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Environment and Sustainability,Downeast Communities: Lubec,Downeast Communities: Milbridge,
+2018,Sanchez Guevara,Ashley,Female,1,3,1,BSE,Downeast Communities: Milbridge,Downeast Communities: Lubec,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,Aroostook County: Houlton Community,
+2018,Sandhu,Manveer,Female,2,4,3,Merritt Island,Aziscohos Valley,Canoe Tripping,Midcoast Communities: Public Health,Cabin Trail Work,Midcoast Communities: Immigrants and Refugees,
+2018,Sandoval,Roberto,male,2,4,2,Backpacking,Midcoast Communities: Environment and Sustainability,Cabin Trail Work,Western Foothills,Carrabassett Trail Work,Day Hiking,
+2018,Sarmanian,Robert,Male,3,3,3,Whitewater Kayaking,Indian Pond,Stand Up Paddleboarding,Aziscohos Valley,Day Hiking,Backpacking,
+2018,Sarrazin,Zoe,Female,3,2,2,Morris Farm,Midcoast Communities: Environment and Sustainability,Merritt Island,Indian Pond,Midcoast Communities: Public Health,Day Hiking,
+2018,Schaefer,Sophia,F,4,4,2,Indian Pond,Harpswell Sound: Sail,Canoe Tripping,Harpswell Sound: Surf,Merritt Island,Aziscohos Valley,
+2018,Schafir,Reuben,Male,5,4,3,Harpswell Sound: Sail,Carpenter's Boat Shop,Whitewater Kayaking,Backpacking,Indian Pond,Aziscohos Valley,
+2018,Schiavoni,Stephanie,Female,3,3,3,Harpswell Sound: Surf,Canoe Tripping,Aziscohos Valley,Harpswell Sound: Sail,Stand Up Paddleboarding,Day Hiking,
+2018,Schmidt,Ella,female,3,3,2,Indian Pond,Carpenter's Boat Shop,Aziscohos Valley,Day Hiking,Backpacking,Stand Up Paddleboarding,
+2018,Schraeder,Aidan,Male,5,4,3,Harpswell Sound: Surf,Stand Up Paddleboarding,Carpenter's Boat Shop,Morris Farm,Vinalhaven Island Community,North Haven Island Community,
+2018,Schumann,Noa,Femaile,4,3,3,Harpswell Sound: Sail,Canoe Tripping,Day Hiking,Merritt Island,Carrabassett Trail Work,Backpacking,
+2018,Scotch,Hannah,F,3,3,2,Backpacking,Day Hiking,Aziscohos Valley,Cabin Trail Work,Canoe Tripping,Whitewater Kayaking,
+2018,Seider,John,Male,5,4,3,Backpacking,Canoe Tripping,Whitewater Kayaking,Cabin Trail Work,Carpenter's Boat Shop,Monson Bike,
+2018,Shah,Sonia,Female,4,3,2,BSE,Day Hiking,Downeast Communities: Lubec,Midcoast Communities: Public Health,Cabin Trail Work,Vinalhaven Island Community,
+2018,Shane,Jack,Male,4,3,3,Aziscohos Valley,Aroostook County: Houlton Community,Indian Pond,Stand Up Paddleboarding,Aroostook County: Presque Isle Community,Midcoast Communities: Environment and Sustainability,
+2018,Shin,Eunice,Female,2,2,1,Backpacking,Day Hiking,Carrabassett Trail Work,Canoe Tripping,Indian Pond,Midcoast Communities: Immigrants and Refugees,
+2018,Short,Wilder,Male,3,3,3,Carpenter's Boat Shop,Day Hiking,Harpswell Sound: Sail,Backpacking,Passamaquoddy Communities: Pleasant Point,Canoe Tripping,
+2018,Siddiqui,Nimra,Female,4,2,2,Western Foothills,Vinalhaven Island Community,North Haven Island Community,Carpenter's Boat Shop,Aroostook County: Houlton Community,Passamaquoddy Communities: Pleasant Point,
+2018,Siegel,Lucy,Female,5,2,1,Harpswell Sound: Sail,Indian Pond,Whitewater Kayaking,Merritt Island,Harpswell Sound: Surf,Backpacking,
+2018,Simeone,Micaela,Female,4,2,2,Passamaquoddy Communities: Indian Township,Day Hiking,Midcoast Communities: Hunger and Homelessness,Downeast Communities: Lubec,Monson Bike,Midcoast Communities: Public Health,
+2018,Simpson,Emma,Female,3,2,1,Passamaquoddy Communities: Indian Township,Backpacking,Harpswell Sound: Surf,Aziscohos Valley,Cabin Trail Work,Passamaquoddy Communities: Pleasant Point,
+2018,Skacel,Laura,Female,5,4,3,BSE,Whitewater Kayaking,Harpswell Sound: Surf,Merritt Island,Backpacking,Day Hiking,
+2018,Skates,Thomas,Male,5,3,3,Indian Pond,Harpswell Sound: Sail,Whitewater Kayaking,Backpacking,Carpenter's Boat Shop,Aziscohos Valley,
+2018,Sloan,Dylan,Male,5,4,3,Harpswell Sound: Surf,Backpacking,Day Hiking,Indian Pond,Whitewater Kayaking,Canoe Tripping,
+2018,Sloan,Andre,Male,3,2,3,Backpacking,Whitewater Kayaking,Day Hiking,Canoe Tripping,Midcoast Communities: Immigrants and Refugees,Monson Bike,
+2018,Slovenski,Sophia,Female,4,3,3,Indian Pond,Harpswell Sound: Surf,Aziscohos Valley,Morris Farm,Midcoast Communities: Environment and Sustainability,Monson Bike,
+2018,Smolenski,Shane,Male,3,4,3,Backpacking,Day Hiking,Whitewater Kayaking,Harpswell Sound: Sail,Monson Bike,Canoe Tripping,
+2018,Snow,Cameron,Male,4,4,3,Backpacking,Whitewater Kayaking,Indian Pond,Carpenter's Boat Shop,Day Hiking,Monson Bike,
+2018,snyder,jonathan,Male,4,4,3,Harpswell Sound: Sail,Indian Pond,Stand Up Paddleboarding,Aziscohos Valley,Merritt Island,Western Foothills,
+2018,Sobhy,Adham,Male,4,4,3,Indian Pond,Merritt Island,Harpswell Sound: Sail,Aziscohos Valley,Canoe Tripping,Carpenter's Boat Shop,
+2018,Somiah,Afia,Female,2,2,2,Aziscohos Valley,Merritt Island,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Milbridge,
+2018,Song,Victoria,Female,3,3,3,Day Hiking,Aziscohos Valley,Merritt Island,Canoe Tripping,Stand Up Paddleboarding,Indian Pond,
+2018,Sorkin,Emma,Female,5,3,3,Day Hiking,Aziscohos Valley,Carrabassett Trail Work,Passamaquoddy Communities: Pleasant Point,Cabin Trail Work,Western Foothills,
+2018,Sparrow,Elena,Female ,4,3,2,Backpacking,Canoe Tripping,Carrabassett Trail Work,Day Hiking,Cabin Trail Work,Aziscohos Valley,
+2018,Staten,Emily,female,3,4,3,Aziscohos Valley,Canoe Tripping,Harpswell Sound: Sail,Cabin Trail Work,Carpenter's Boat Shop,Stand Up Paddleboarding,
+2018,Steingrub,Oron,Male,3,2,1,Harpswell Sound: Sail,Day Hiking,Stand Up Paddleboarding,Indian Pond,Whitewater Kayaking,Merritt Island,
+2018,Stevens,Blaine,Female,4,3,2,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,Canoe Tripping,Midcoast Communities: Public Health,Passamaquoddy Communities: Indian Township,
+2018,Stilphen,Zoe,Female,2,3,3,Aziscohos Valley,Indian Pond,Harpswell Sound: Sail,Backpacking,Canoe Tripping,Monson Bike,
+2018,Stitson,Elijah,Male,3,2,3,Aziscohos Valley,Backpacking,Day Hiking,Cabin Trail Work,Carrabassett Trail Work,Vinalhaven Island Community,
+2018,Stochita,Radu,Male,2,1,1,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Downeast Communities: Lubec,
+2018,Straus,Danielle,woman,5,3,3,Indian Pond,Harpswell Sound: Surf,Stand Up Paddleboarding,Whitewater Kayaking,Midcoast Communities: Immigrants and Refugees,Backpacking,
+2018,Strudwick,Ian,Male,3,4,3,Stand Up Paddleboarding,Whitewater Kayaking,Day Hiking,Merritt Island,Harpswell Sound: Surf,Backpacking,
+2018,Strull,Ethan,Male,5,3,3,Harpswell Sound: Sail,Whitewater Kayaking,Indian Pond,Aziscohos Valley,Harpswell Sound: Surf,Merritt Island,
+2018,Stuhlmann,Kayla,Female,4,2,2,BSE,Harpswell Sound: Sail,Aroostook County: Presque Isle Community,Canoe Tripping,Harpswell Sound: Surf,Midcoast Communities: Hunger and Homelessness,
+2018,Sturk,Aisley,Female,3,3,3,Downeast Communities: Lubec,Indian Pond,Backpacking,Whitewater Kayaking,Western Foothills,Carrabassett Trail Work,
+2018,Subedi,Jigyasa,Female,3,2,1,BSE,Carpenter's Boat Shop,Harpswell Sound: Sail,Merritt Island,Midcoast Communities: Hunger and Homelessness,Downeast Communities: Lubec,
+2018,Sydel,Lucy,Female,4,3,2,Canoe Tripping,Aziscohos Valley,Day Hiking,Harpswell Sound: Sail,Merritt Island,Western Foothills,
+2018,Sylvan,Gabriel,Male,2,3,2,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Public Health,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,Passamaquoddy Communities: Indian Township,
+2018,Tahlil,Ayub,Male,1,2,1,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Immigrants and Refugees,North Haven Island Community,Vinalhaven Island Community,Midcoast Communities: Hunger and Homelessness,Passamaquoddy Communities: Indian Township,
+2018,Tang,Yueqian,Male,3,2,1,Midcoast Communities: Environment and Sustainability,BSE,Morris Farm,North Haven Island Community,Vinalhaven Island Community,Western Foothills,
+2018,Tapscott,Kate,Female,3,3,3,Indian Pond,Aziscohos Valley,Stand Up Paddleboarding,Day Hiking,Harpswell Sound: Surf,Backpacking,
+2018,Tedford,Lily,female,3,2,1,Harpswell Sound: Sail,Harpswell Sound: Surf,Indian Pond,Vinalhaven Island Community,Whitewater Kayaking,Midcoast Communities: Immigrants and Refugees,
+2018,Thomas,Brett,Male,4,4,3,Aziscohos Valley,Indian Pond,Merritt Island,Cabin Trail Work,Backpacking,Day Hiking,
+2018,Thomas,Matthew,Male,5,3,3,Backpacking,Cabin Trail Work,Indian Pond,Day Hiking,Canoe Tripping,Harpswell Sound: Sail,
+2018,Thompson-Haye,Emma,Female,2,2,1,Passamaquoddy Communities: Pleasant Point,Downeast Communities: Milbridge,Passamaquoddy Communities: Indian Township,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,
+2018,Tran,Tuan,Male,2,2,2,Day Hiking,Backpacking,Monson Bike,Whitewater Kayaking,Canoe Tripping,Midcoast Communities: Hunger and Homelessness,
+2018,Treat,Andrew,Male,5,3,3,Indian Pond,Aziscohos Valley,Backpacking,Canoe Tripping,Whitewater Kayaking,Day Hiking,
+2018,Tripathee,Ridhika,Female,2,4,2,Midcoast Communities: Environment and Sustainability,Merritt Island,Aroostook County: Presque Isle Community,Morris Farm,Midcoast Communities: Public Health,Carrabassett Trail Work,
+2018,Troubh,Jessica,Female,4,3,2,Merritt Island,Canoe Tripping,Aziscohos Valley,Day Hiking,Stand Up Paddleboarding,Vinalhaven Island Community,
+2018,Tsai,Audrey,Female,2,2,2,Downeast Communities: Lubec,Morris Farm,Passamaquoddy Communities: Indian Township,Downeast Communities: Milbridge,Aroostook County: Houlton Community,Aroostook County: Presque Isle Community,
+2018,Tuna,Zeynep,Female,4,2,1,Aziscohos Valley,Carrabassett Trail Work,Harpswell Sound: Sail,Midcoast Communities: Immigrants and Refugees,Merritt Island,Canoe Tripping,
+2018,Tyson,Alexander,Male,3,4,3,Indian Pond,Harpswell Sound: Sail,Canoe Tripping,Day Hiking,Whitewater Kayaking,Merritt Island,
+2018,Uek,Matthew,male,5,4,3,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Environment and Sustainability,Indian Pond,Stand Up Paddleboarding,
+2018,Vaidya,Sumer,Male,5,3,3,Whitewater Kayaking,Harpswell Sound: Surf,Canoe Tripping,Indian Pond,Stand Up Paddleboarding,Monson Bike,
+2018,van Miltenburg,Cole,Male,4,2,2,Stand Up Paddleboarding,Indian Pond,Aziscohos Valley,Canoe Tripping,Whitewater Kayaking,Harpswell Sound: Sail,
+2018,Viederman,Miranda,Female,5,3,3,Harpswell Sound: Sail,Aziscohos Valley,Indian Pond,Backpacking,Harpswell Sound: Surf,BSE,
+2018,Vorno,Joosep,Male,5,4,3,Carpenter's Boat Shop,North Haven Island Community,Passamaquoddy Communities: Pleasant Point,Midcoast Communities: Public Health,Merritt Island,Passamaquoddy Communities: Indian Township,
+2018,Wackerman,Clayton,Male,5,4,2,Backpacking,Day Hiking,Indian Pond,Stand Up Paddleboarding,Whitewater Kayaking,Merritt Island,
+2018,Wadlington,Augustus,Male,3,2,2,Indian Pond,Carpenter's Boat Shop,Monson Bike,Vinalhaven Island Community,Harpswell Sound: Sail,Morris Farm,
+2018,Wallace,Evelyn,Female,4,4,3,Backpacking,Carrabassett Trail Work,Aziscohos Valley,Cabin Trail Work,Indian Pond,Merritt Island,
+2018,Walsh,Katherine,Female,4,2,1,Aziscohos Valley,Indian Pond,Merritt Island,Day Hiking,Whitewater Kayaking,Canoe Tripping,
+2018,Walters,James,Male,3,4,2,Canoe Tripping,Indian Pond,Harpswell Sound: Sail,Whitewater Kayaking,Merritt Island,Stand Up Paddleboarding,
+2018,Wang,Siyi,Female,2,3,2,Morris Farm,Canoe Tripping,Whitewater Kayaking,Stand Up Paddleboarding,Carpenter's Boat Shop,Midcoast Communities: Environment and Sustainability,
+2018,Ward,Brendan,male,3,4,3,Indian Pond,Harpswell Sound: Surf,Stand Up Paddleboarding,Whitewater Kayaking,Canoe Tripping,Harpswell Sound: Sail,
+2018,Ward,Katherine,Male,5,4,3,Whitewater Kayaking,Monson Bike,Harpswell Sound: Surf,Stand Up Paddleboarding,Day Hiking,Morris Farm,
+2018,Washco,Albert,Male,3,4,3,Monson Bike,Canoe Tripping,Stand Up Paddleboarding,Backpacking,Day Hiking,Carpenter's Boat Shop,
+2018,Waters,Lauren,Female,3,3,2,Harpswell Sound: Sail,Merritt Island,Aziscohos Valley,Indian Pond,Day Hiking,Canoe Tripping,
+2018,Weatherall,Hayden,Male,4,4,2,Whitewater Kayaking,Harpswell Sound: Surf,Downeast Communities: Lubec,Harpswell Sound: Sail,Carpenter's Boat Shop,Vinalhaven Island Community,
+2018,Weber,Michael,Male,3,4,3,Midcoast Communities: Environment and Sustainability,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Public Health,Morris Farm,Merritt Island,Midcoast Communities: Immigrants and Refugees,
+2018,Wecker,Theodore,Male,5,2,2,Backpacking,Harpswell Sound: Sail,Carpenter's Boat Shop,Carrabassett Trail Work,Whitewater Kayaking,Cabin Trail Work,
+2018,Weitzenberg,Lucas,Male,5,2,2,Whitewater Kayaking,Cabin Trail Work,Backpacking,Day Hiking,Indian Pond,Monson Bike,
+2018,Werah,Atia,Female,1,2,2,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Environment and Sustainability,Passamaquoddy Communities: Indian Township,Passamaquoddy Communities: Pleasant Point,
+2018,Wheaton,Bennett,Male,5,4,3,Harpswell Sound: Surf,Vinalhaven Island Community,Indian Pond,Whitewater Kayaking,North Haven Island Community,Merritt Island,
+2018,White,Robert ,Male,5,4,3,Harpswell Sound: Surf,Backpacking,Aziscohos Valley,Whitewater Kayaking,Day Hiking,Canoe Tripping,
+2018,Whitmore,Elly,Female,5,4,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Indian Pond,Whitewater Kayaking,Backpacking,Canoe Tripping,
+2018,Willmert,Triana,female,4,4,3,Harpswell Sound: Surf,Backpacking,Whitewater Kayaking,Harpswell Sound: Sail,Canoe Tripping,Stand Up Paddleboarding,
+2018,Wilson,Sophie,Female,3,3,2,BSE,Midcoast Communities: Immigrants and Refugees,Passamaquoddy Communities: Indian Township,Day Hiking,Stand Up Paddleboarding,Passamaquoddy Communities: Pleasant Point,
+2018,Wilson,Micah,M,5,4,3,Backpacking,Day Hiking,Canoe Tripping,Indian Pond,Cabin Trail Work,Whitewater Kayaking,
+2018,Wirth,Yasmeen,Female,4,3,2,Harpswell Sound: Sail,Aziscohos Valley,Harpswell Sound: Surf,Indian Pond,Day Hiking,Stand Up Paddleboarding,
+2018,Wolfe,Devon,Female,4,3,2,Aziscohos Valley,Indian Pond,Harpswell Sound: Surf,Harpswell Sound: Sail,Canoe Tripping,Day Hiking,
+2018,Wolfson,Owen,Male,4,4,3,Carpenter's Boat Shop,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Public Health,Midcoast Communities: Hunger and Homelessness,Midcoast Communities: Environment and Sustainability,Passamaquoddy Communities: Indian Township,
+2018,Woodard,Bennett,Male,4,4,3,BSE,Aziscohos Valley,Whitewater Kayaking,Merritt Island,Vinalhaven Island Community,Canoe Tripping,
+2018,Wu,Hung-Te,Male,3,2,3,Monson Bike,Backpacking,Day Hiking,Harpswell Sound: Sail,Aroostook County: Presque Isle Community,Harpswell Sound: Surf,
+2018,Xi,Rose,Female,3,1,1,BSE,Midcoast Communities: Public Health,Midcoast Communities: Immigrants and Refugees,Midcoast Communities: Hunger and Homelessness,Downeast Communities: Milbridge,Aroostook County: Houlton Community,
+2018,Xu,Hanbo,Male,2,2,2,BSE,Aziscohos Valley,Merritt Island,Vinalhaven Island Community,Backpacking,Carpenter's Boat Shop,
+2018,Xu,Yifei,Male,3,4,3,Harpswell Sound: Surf,Indian Pond,Whitewater Kayaking,Aziscohos Valley,Canoe Tripping,Backpacking,
+2018,Yanez,Anthony,Male,2,2,2,Carpenter's Boat Shop,Aziscohos Valley,Merritt Island,Backpacking,Day Hiking,Carrabassett Trail Work,
+2018,Yang,Justin,Male,5,4,3,Harpswell Sound: Surf,Harpswell Sound: Sail,Aziscohos Valley,Whitewater Kayaking,Backpacking,Stand Up Paddleboarding,
+2018,Yang,Dingliang,Male,3,2,2,Carpenter's Boat Shop,Day Hiking,Monson Bike,Merritt Island,Morris Farm,Canoe Tripping,
+2018,Yang,Oscar,Male,4,4,3,Harpswell Sound: Sail,Harpswell Sound: Surf,Merritt Island,Aziscohos Valley,Canoe Tripping,Whitewater Kayaking,
+2018,Yang,Rachel,Female,2,1,1,Carpenter's Boat Shop,Merritt Island,Harpswell Sound: Sail,Downeast Communities: Lubec,Western Foothills,Vinalhaven Island Community,
+2018,Yip,Nicole Hiu Wang,Female,3,2,2,Carpenter's Boat Shop,North Haven Island Community,Merritt Island,Vinalhaven Island Community,Midcoast Communities: Public Health,Downeast Communities: Milbridge,
+2018,Youssouf,Nasteho,Female,1,1,1,Harpswell Sound: Sail,Midcoast Communities: Hunger and Homelessness,Passamaquoddy Communities: Indian Township,Carrabassett Trail Work,Aziscohos Valley,Whitewater Kayaking,
+2018,Zepf,Patrick,Male,5,4,3,Harpswell Sound: Sail,Indian Pond,Backpacking,Whitewater Kayaking,Stand Up Paddleboarding,Canoe Tripping,
+2018,Zhang,Conger,Female,4,4,3,Backpacking,Indian Pond,Stand Up Paddleboarding,Merritt Island,Monson Bike,Day Hiking,
+2018,Zhou,Jingyi,female,4,3,3,Aziscohos Valley,Indian Pond,Whitewater Kayaking,Day Hiking,Harpswell Sound: Surf,Canoe Tripping,
+2018,Zietlow,Henry,Male,3,4,3,Carpenter's Boat Shop,North Haven Island Community,Downeast Communities: Lubec,Backpacking,Carrabassett Trail Work,Vinalhaven Island Community,

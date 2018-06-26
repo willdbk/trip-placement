@@ -11,29 +11,24 @@
 
 using namespace std;
 
-
 typedef struct _student {
-  int id; //the row that the student is on
   string year, lastName, firstName;
   int gender; //-1 for male, 1 for female, 0 for non-binary
   int swimmingAbility, activityLevel, activityIntensity;
   vector<int> pref;
   bool placed;
+  bool got_choice;
+  int request_score;
 } student;
 
 typedef struct _trip {
-    int id; //the row that the trip is on
     string name;
+    int index;
     int capacity;
     vector<int> num_of_requests;
     int total_requests;
     bool full;
     vector<int> participants;
-    bool operator<(const _trip rhs) const {
-        int diff = total_requests - capacity;
-        int rhs_diff = rhs.total_requests - rhs.capacity;
-        return diff > rhs_diff;
-    }
 } trip;
 
 
