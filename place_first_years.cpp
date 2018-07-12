@@ -72,7 +72,9 @@ int main(int argc, char** argv) {
     num_of_students_didnt_get_choice = 0;
     srand(time(NULL));
     reset_placements();
+    //print_trips();
     assign_students();
+    //print_trips();
     write_placements();
     cout << "num_of_students_didn't get choice: " << num_of_students_didnt_get_choice << endl;
 }
@@ -281,31 +283,33 @@ void assign_least_requested_first() {
         if(trips[index_of_best_trip].full) {
             open_trips.pop_back();
         }
-        //sleep(1);
     }
     best_trips = trips;
 }
 
 int get_best_trip() {
-    sort(open_trips.begin(), open_trips.end(), trip_buffer_cmp);
-    double threshold = 0.9;
+    sort(open_trips.begin(), open_trips.end(), request_ratio_cmp);
+    print_open_trips();
+    printf("\n");
+    //usleep(500000);
+    double threshold = 0.75;
 
     int index_in_open_trips = open_trips.size()-1;
     int index_of_best_trip = open_trips[index_in_open_trips]->index;
     double percent_filled_after_add = (trips[index_of_best_trip].participants.size()+threshold)/trips[index_of_best_trip].capacity;
-    cout << "percent filled after add: " << percent_filled_after_add << endl;
-    cout << "average_percent_filled: " << average_percent_filled << endl;
+    // cout << "percent filled after add: " << percent_filled_after_add << endl;
+    // cout << "average_percent_filled: " << average_percent_filled << endl;
     while(percent_filled_after_add - average_percent_filled > 0) {
         if(index_in_open_trips > 0) {
             index_in_open_trips--;
         }
         else {
             index_in_open_trips = open_trips.size()-1;
-            threshold = threshold/2;
+            threshold -= 0.1;
         }
         index_of_best_trip = open_trips[index_in_open_trips]->index;
-        cout << "index_of_best_trip: " << index_of_best_trip << endl;
-        if(threshold <= 0.2) {
+        // cout << "index_of_best_trip: " << index_of_best_trip << endl;
+        if(threshold <= 0) {
             break;
         }
         percent_filled_after_add = (trips[index_of_best_trip].participants.size()+threshold)/trips[index_of_best_trip].capacity;
@@ -452,7 +456,6 @@ void count_trip_requests() {
             trips[trip_index].requests_vector[j]++;
             students[i].request_score += trips[trip_index].total_requests/trips[trip_index].capacity;
         }
-        cout << endl;
     }
 }
 
@@ -497,7 +500,6 @@ void reset_placements() {
     trips = {};
     students = {};
     read_trips();
-    // print_trips();
     read_students();
     count_trip_requests();
 }
@@ -506,9 +508,9 @@ void reset_placements() {
 /********************************************************************/
 /* miscellaneous functions */
 int request_ratio_cmp(trip* t1, trip* t2) {
-    assert(t1->capacity-t1->total_requests!=0);
-    int ratio1 = t1->total_requests/(t1->capacity-t1->total_requests);
-    int ratio2 = t2->total_requests/(t2->capacity-t2->total_requests);
+    assert(t1->capacity-t1->participants.size()!=0);
+    double ratio1 = t1->total_requests/((1.0*t1->capacity)-t1->participants.size());
+    double ratio2 = t2->total_requests/((1.0*t2->capacity)-t2->participants.size());
     return ratio1 > ratio2;
 }
 
@@ -525,14 +527,15 @@ int trip_buffer_cmp(trip* t1, trip* t2) {
 void print_trips() {
     for(int i = 0; i < trips.size(); i++) {
         assert(trips[i].requests_vector.size() == 6);
-        printf("trip index: %d, capacity: %d, total requests: %d, c1: %d, c2: %d, c3: %d, c4: %d, c5: %d, c6: %d, name: %s\n", i, trips[i].capacity, trips[i].total_requests, trips[i].requests_vector[0], trips[i].requests_vector[1], trips[i].requests_vector[2], trips[i].requests_vector[3], trips[i].requests_vector[4], trips[i].requests_vector[5], trips[i].name.c_str());
-        // trips[i].name.c_str()
+        printf("trip index: %d, capacity: %d, num of students placed: %lu, num of females: %d, num of males: %d, total requests: %d, name: %s\n", i, trips[i].capacity, trips[i].participants.size(), trips[i].num_of_females, trips[i].num_of_males, trips[i].total_requests, trips[i].name.c_str());
+        printf("c1: %d, c2: %d, c3: %d, c4: %d, c5: %d, c6: %d\n",  trips[i].requests_vector[0], trips[i].requests_vector[1], trips[i].requests_vector[2], trips[i].requests_vector[3], trips[i].requests_vector[4], trips[i].requests_vector[5]);
     }
 }
 
 void print_open_trips() {
     for(int i = 0; i < open_trips.size(); i++) {
-        printf("trip index: %d, capacity: %d, total requests: %d, c1: %d, c2: %d, c3: %d, c4: %d, c5: %d, c6: %d, name: %s\n", open_trips[i]->index, open_trips[i]->capacity, open_trips[i]->total_requests, open_trips[i]->requests_vector[0], open_trips[i]->requests_vector[1], open_trips[i]->requests_vector[2], open_trips[i]->requests_vector[3], open_trips[i]->requests_vector[4], open_trips[i]->requests_vector[5], open_trips[i]->name.c_str());
+        double ratio = open_trips[i]->total_requests/((1.0*open_trips[i]->capacity)-open_trips[i]->participants.size());
+        printf("trip index: %d, ratio: %f, capacity: %d, num of students placed: %lu, total requests: %d, c1: %d, c2: %d, c3: %d, c4: %d, c5: %d, c6: %d, name: %s\n", open_trips[i]->index, ratio, open_trips[i]->capacity, open_trips[i]->participants.size(), open_trips[i]->total_requests, open_trips[i]->requests_vector[0], open_trips[i]->requests_vector[1], open_trips[i]->requests_vector[2], open_trips[i]->requests_vector[3], open_trips[i]->requests_vector[4], open_trips[i]->requests_vector[5], open_trips[i]->name.c_str());
         // trips[i].name.c_str()
     }
 }
