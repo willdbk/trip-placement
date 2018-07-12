@@ -50,6 +50,7 @@ int get_best_trip();
 void count_trip_requests();
 int get_random_student();
 int get_open_trip_for_student(int student_index);
+void remove_from_open_trips(int trip_index);
 int get_random_open_trip();
 int get_best_student_for_trip(int trip_index);
 bool place_student_on_trip(int student_index, int trip_index);
@@ -274,33 +275,48 @@ void assign_least_requested_first() {
         while(trip_to_fill == -1 && i < (students.size()-students_placed)*10) {
             student_to_add = get_random_student();
             trip_to_fill = get_open_trip_for_student(student_to_add);
-            cout << "placing student " << student_to_add << " on trip " << trip_to_fill << endl;
             i++;
+        }
+        if(trip_to_fill == -1) {
+            trip_to_fill = get_random_open_trip();
+            student_to_add = get_random_student();
         }
         if(student_to_add == -1) {
             student_to_add = get_best_student_for_trip(trip_to_fill);
         }
 
+
         place_student_on_trip(student_to_add, trip_to_fill);
 
         if(trips[trip_to_fill].full) {
-            open_trips.pop_back();
+            remove_from_open_trips(trip_to_fill);
         }
     }
     best_trips = trips;
+}
+
+void remove_from_open_trips(int trip_index) {
+    for(int i = 0; i < open_trips.size(); i++) {
+        if(open_trips[i]->index == trip_index) {
+            open_trips.erase(open_trips.begin() + i);
+            break;
+        }
+    }
+    return;
 }
 
 // returns index of the trip that most needs students
 // returns -1 if no trip can be added to without going over the average
 int get_best_trip() {
     sort(open_trips.begin(), open_trips.end(), request_ratio_cmp);
-    // print_open_trips();
-    // printf("\n");
+    //print_open_trips();
+    //printf("\n");
+    double threshold = 0.75;
     // usleep(500000);
 
     int index_in_open_trips = open_trips.size()-1;
     int index_of_best_trip = open_trips[index_in_open_trips]->index;
-    double percent_filled_after_add = (trips[index_of_best_trip].participants.size()+1)/trips[index_of_best_trip].capacity;
+    double percent_filled_after_add = (trips[index_of_best_trip].participants.size()+1.0)/trips[index_of_best_trip].capacity;
     while(percent_filled_after_add > average_percent_filled) {
         if(index_in_open_trips > 0) {
             index_in_open_trips--;
@@ -310,9 +326,9 @@ int get_best_trip() {
             return -1;
         }
         index_of_best_trip = open_trips[index_in_open_trips]->index;
-        percent_filled_after_add = (trips[index_of_best_trip].participants.size()+1)/trips[index_of_best_trip].capacity;
+        percent_filled_after_add = (trips[index_of_best_trip].participants.size()+1.0)/trips[index_of_best_trip].capacity;
     }
-    cout << "index_of_best_trip: " << index_of_best_trip << endl;
+    //cout << "index_of_best_trip: " << index_of_best_trip << endl;
     return index_of_best_trip;
 }
 
@@ -471,7 +487,7 @@ void count_trip_requests() {
 
 // assigns student to trip
 bool place_student_on_trip(int student_index, int trip_index) {
-    // cout << "placing student " << student_index << " on trip " << trip_index << endl;
+    cout << "placing student " << student_index << " on trip " << trip_index << endl;
 
     if(trips[trip_index].full) {
         return false;
@@ -490,6 +506,7 @@ bool place_student_on_trip(int student_index, int trip_index) {
         // cout << trips[trip_index].participants.size() << endl;
         // cout << trips[trip_index].capacity << endl;
         assert(trips[trip_index].participants.size() == trips[trip_index].capacity);
+        cout << "trip " << trip_index << " is full" << endl;
         trips[trip_index].full = true;
     }
 
@@ -518,6 +535,7 @@ void reset_placements() {
 /********************************************************************/
 /* miscellaneous functions */
 int request_ratio_cmp(trip* t1, trip* t2) {
+    cout << "trip index: " << t1->index << endl;
     assert(t1->capacity-t1->participants.size()!=0);
     double ratio1 = t1->total_requests/((1.0*t1->capacity)-t1->participants.size());
     double ratio2 = t2->total_requests/((1.0*t2->capacity)-t2->participants.size());
