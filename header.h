@@ -25,8 +25,10 @@ typedef struct _trip {
     string name;
     int index;
     int capacity;
-    vector<int> num_of_requests;
+    vector<int> requests_vector;
     int total_requests;
+    int num_of_females;
+    int num_of_males;
     bool full;
     vector<int> participants;
 } trip;
