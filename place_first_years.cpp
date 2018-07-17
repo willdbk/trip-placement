@@ -50,7 +50,7 @@ int get_best_trip();
 void count_trip_requests();
 int get_random_student();
 int get_open_trip_for_student(int student_index);
-void remove_from_open_trips(int trip_index);
+void erase_open_trip_with_index(int trip_index);
 int get_random_open_trip();
 int get_best_student_for_trip(int trip_index);
 bool place_student_on_trip(int student_index, int trip_index);
@@ -280,22 +280,23 @@ void assign_least_requested_first() {
         if(trip_to_fill == -1) {
             trip_to_fill = get_random_open_trip();
             student_to_add = get_random_student();
+            students[student_to_add].got_choice = false;
+            num_of_students_didnt_get_choice++;
         }
-        if(student_to_add == -1) {
+        else if(student_to_add == -1) {
             student_to_add = get_best_student_for_trip(trip_to_fill);
         }
-
 
         place_student_on_trip(student_to_add, trip_to_fill);
 
         if(trips[trip_to_fill].full) {
-            remove_from_open_trips(trip_to_fill);
+            erase_open_trip_with_index(trip_to_fill);
         }
     }
     best_trips = trips;
 }
 
-void remove_from_open_trips(int trip_index) {
+void erase_open_trip_with_index(int trip_index) {
     for(int i = 0; i < open_trips.size(); i++) {
         if(open_trips[i]->index == trip_index) {
             open_trips.erase(open_trips.begin() + i);
@@ -311,7 +312,6 @@ int get_best_trip() {
     sort(open_trips.begin(), open_trips.end(), request_ratio_cmp);
     //print_open_trips();
     //printf("\n");
-    double threshold = 0.75;
     // usleep(500000);
 
     int index_in_open_trips = open_trips.size()-1;
@@ -322,7 +322,6 @@ int get_best_trip() {
             index_in_open_trips--;
         }
         else {
-            cout << "-1 returned" << endl;
             return -1;
         }
         index_of_best_trip = open_trips[index_in_open_trips]->index;
@@ -346,6 +345,7 @@ int get_best_student_for_trip(int trip_index) {
 
     int index_of_best_student = -1;
     int best_priority = 6;
+    int rand_index = rand() % students.size();
     for(int i = 0; i < students.size(); i++) {
         student s = students[i];
         if(max_females && s.gender == 1) {
@@ -359,8 +359,6 @@ int get_best_student_for_trip(int trip_index) {
                 if(s.pref.size() > j && s.pref[j] == trip_index) {
                     index_of_best_student = i;
                     best_priority = j;
-                    // cout << "best priority: " << best_priority << endl;
-                    // cout << get_csv_row_for_student(i) << endl;
                     break;
                 }
             }
@@ -463,6 +461,12 @@ int get_open_trip_for_student(int student_index) {
     int trip_index;
     for(int j = 0; j < students[student_index].pref.size(); j++) {
         trip_index = students[student_index].pref[j];
+        if(students[student_index].gender == 1 && trips[trip_index].num_of_females >= trips[trip_index].capacity/2) {
+            continue;
+        }
+        if(students[student_index].gender == -1 && trips[trip_index].num_of_males >= trips[trip_index].capacity/2) {
+            continue;
+        }
         if(trips[trip_index].full == false) {
             return trip_index;
         }
@@ -487,7 +491,7 @@ void count_trip_requests() {
 
 // assigns student to trip
 bool place_student_on_trip(int student_index, int trip_index) {
-    cout << "placing student " << student_index << " on trip " << trip_index << endl;
+    // cout << "placing student " << student_index << " on trip " << trip_index << endl;
 
     if(trips[trip_index].full) {
         return false;
@@ -506,7 +510,6 @@ bool place_student_on_trip(int student_index, int trip_index) {
         // cout << trips[trip_index].participants.size() << endl;
         // cout << trips[trip_index].capacity << endl;
         assert(trips[trip_index].participants.size() == trips[trip_index].capacity);
-        cout << "trip " << trip_index << " is full" << endl;
         trips[trip_index].full = true;
     }
 
@@ -535,7 +538,6 @@ void reset_placements() {
 /********************************************************************/
 /* miscellaneous functions */
 int request_ratio_cmp(trip* t1, trip* t2) {
-    cout << "trip index: " << t1->index << endl;
     assert(t1->capacity-t1->participants.size()!=0);
     double ratio1 = t1->total_requests/((1.0*t1->capacity)-t1->participants.size());
     double ratio2 = t2->total_requests/((1.0*t2->capacity)-t2->participants.size());
