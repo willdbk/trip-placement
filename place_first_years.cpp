@@ -27,7 +27,8 @@ vector<student> students;
 int students_placed;
 double average_percent_filled;
 vector<trip*> open_trips;
-int num_of_students_didnt_get_choice;
+int did_not_get_choice;
+int best_trip_did_not_get_choice;
 
 
 
@@ -53,10 +54,11 @@ int get_open_trip_for_student(int student_index);
 void erase_open_trip_with_index(int trip_index);
 int get_random_open_trip();
 int get_best_student_for_trip(int trip_index);
+bool can_place_student_on_trip(int student_index, int trip_index);
 bool place_student_on_trip(int student_index, int trip_index);
 void assign_students_randomly();
 void reset_placements();
-void assign_students_random_n_iterations(int n);
+void assign_students_n_iterations(int n);
 
 
 int request_ratio_cmp(trip* t1, trip* t2);
@@ -71,14 +73,21 @@ void print_students();
 /********************************************************************/
 
 int main(int argc, char** argv) {
-    num_of_students_didnt_get_choice = 0;
+    did_not_get_choice = 0;
     srand(time(NULL));
+
+    cout << "\nReading CSV files..." << endl;
     reset_placements();
-    //print_trips();
+    cout << "CSV files read." << endl;
+
+    cout << "\nPlacing students..." << endl;
     assign_students();
-    //print_trips();
+    cout << "Students placed." << endl;
+
+    cout << "\nWriting placements..." << endl;
     write_placements();
-    cout << "num_of_students who didn't get their choice: " << num_of_students_didnt_get_choice << endl;
+    cout << "Placements written.\n" << endl;
+
 }
 
 /********************************************************************/
@@ -97,6 +106,15 @@ void read_trips() {
         t.index = i-1;
         t.name = row[0];
         t.capacity = stoi(row[1]);
+        if(isdigit(row[2][0])) {
+            t.minSwimmingAbility = stoi(row[2]);
+        }
+        if(isdigit(row[3][0])) {
+            t.minActivityLevel = stoi(row[3]);
+        }
+        if(isdigit(row[4][0])) {
+            t.minActivityIntensity = stoi(row[4]);
+        }
         t.requests_vector = {0,0,0,0,0,0};
         t.total_requests = 0;
         t.num_of_females = 0;
@@ -113,15 +131,19 @@ void read_trips() {
 
 }
 
-// reads data from "OrientationChoices2018.csv" and fills in students vector
+// reads data from "OrientationChoices.csv" and fills in students vector
 void read_students() {
-    CSVReader reader("OrientationChoices2018.csv");
+    CSVReader reader("OrientationChoices.csv");
     vector<vector<string>> student_data = reader.getData();
     // ignore first row
     for(int i = 1; i < student_data.size(); i++) {
         student student_to_add;
         vector<string> row = student_data[i];
+        if(!isdigit(row[0][0])) {
+            break;
+        }
         student_to_add.placed = false;
+        student_to_add.got_choice = true;
         student_to_add.year = row[0];
         student_to_add.lastName = row[1];
         student_to_add.firstName = row[2];
@@ -231,12 +253,9 @@ string get_csv_row_for_student(int index) {
     studentString += s.lastName + ",";
     studentString += s.firstName + ",";
     studentString += genderString + ",";
-    studentString += s.swimmingAbility;
-    studentString += ",";
-    studentString += s.activityLevel;
-    studentString += ",";
-    studentString += s.activityIntensity;
-    studentString += ",";
+    studentString += to_string(s.swimmingAbility) + ",";
+    studentString += to_string(s.activityLevel) + ",";
+    studentString += to_string(s.activityIntensity) + ",";
     for(int j = 0; j < 6; j++) {
         if(j >= s.pref.size()) {
             studentString += "no pref given,";
@@ -259,8 +278,7 @@ string get_csv_row_for_student(int index) {
 
 // places students  on trips
 void assign_students() {
-    //assign_students_random_n_iterations(10x);
-    assign_least_requested_first();
+    assign_students_n_iterations(500);
 }
 
 // find the trip with the smallest ratio between capacity and requests
@@ -281,7 +299,7 @@ void assign_least_requested_first() {
             trip_to_fill = get_random_open_trip();
             student_to_add = get_random_student();
             students[student_to_add].got_choice = false;
-            num_of_students_didnt_get_choice++;
+            did_not_get_choice++;
         }
         else if(student_to_add == -1) {
             student_to_add = get_best_student_for_trip(trip_to_fill);
@@ -293,7 +311,6 @@ void assign_least_requested_first() {
             erase_open_trip_with_index(trip_to_fill);
         }
     }
-    best_trips = trips;
 }
 
 void erase_open_trip_with_index(int trip_index) {
@@ -333,31 +350,16 @@ int get_best_trip() {
 
 // gets the best student for a trip and also removes it from unassigned_students
 int get_best_student_for_trip(int trip_index) {
-    bool max_females = false;
-    bool max_males = false;
-
-    if(trips[trip_index].num_of_females >= trips[trip_index].capacity/2) {
-        max_females = true;
-    }
-    if(trips[trip_index].num_of_males >= trips[trip_index].capacity/2) {
-        max_males = true;
-    }
-
     int index_of_best_student = -1;
     int best_priority = 6;
     int rand_index = rand() % students.size();
+
     for(int i = 0; i < students.size(); i++) {
-        student s = students[i];
-        if(max_females && s.gender == 1) {
-            continue;
-        }
-        if(max_males && s.gender == -1) {
-            continue;
-        }
-        if(s.placed == false) {
+        int student_index = (i+rand_index)%students.size();
+        if(can_place_student_on_trip(student_index, trip_index)) {
             for(int j = 0; j < best_priority; j++) {
-                if(s.pref.size() > j && s.pref[j] == trip_index) {
-                    index_of_best_student = i;
+                if(students[student_index].pref.size() > j && students[student_index].pref[j] == trip_index) {
+                    index_of_best_student = student_index;
                     best_priority = j;
                     break;
                 }
@@ -371,21 +373,21 @@ int get_best_student_for_trip(int trip_index) {
 }
 
 // calls assign_students_randomly n times and outputs the placement with the best "score"
-void assign_students_random_n_iterations(int n) {
+void assign_students_n_iterations(int n) {
     int best_score = 10000000;
     best_trips = trips;
     for(int i = 0; i < n; i++) {
         reset_placements();
-        assign_students_randomly();
+        assign_least_requested_first();
         int score = get_score();
         if(score < best_score) {
             best_score = score;
             best_trips = trips;
-            cout << best_score << endl;
-
+            for(int i = 0; i < students.size(); i++) {
+                students[i].best_trip_got_choice = students[i].got_choice;
+            }
         }
     }
-    cout << best_score << endl;
 }
 
 // places student on a trip randomly
@@ -431,7 +433,7 @@ int get_score() {
             }
             for(int k = 0; k < students[student_index].pref.size(); k++) {
                 if(students[student_index].pref[k] == i) {
-                    score += k;
+                    score += k*k;
                     break;
                 }
             }
@@ -461,17 +463,30 @@ int get_open_trip_for_student(int student_index) {
     int trip_index;
     for(int j = 0; j < students[student_index].pref.size(); j++) {
         trip_index = students[student_index].pref[j];
-        if(students[student_index].gender == 1 && trips[trip_index].num_of_females >= trips[trip_index].capacity/2) {
-            continue;
-        }
-        if(students[student_index].gender == -1 && trips[trip_index].num_of_males >= trips[trip_index].capacity/2) {
-            continue;
-        }
-        if(trips[trip_index].full == false) {
+        if(can_place_student_on_trip(student_index, trip_index)) {
             return trip_index;
         }
     }
     return -1;
+}
+
+bool can_place_student_on_trip(int student_index, int trip_index) {
+    student* s = &students[student_index];
+    trip* t = &trips[trip_index];
+    if(s->placed == true) {
+        return false;
+    }
+    if(t->full == true) {
+        return false;
+    }
+    if((s->gender == 1 && t->num_of_females >= t->capacity/2) ||
+        (s->gender == -1 && t->num_of_males >= t->capacity/2)) {
+        return false;
+    }
+    if(s->swimmingAbility < t->minSwimmingAbility || s->activityLevel < t->minActivityLevel || s->activityIntensity < t->minActivityIntensity) {
+        return false;
+    }
+    return true;
 }
 
 // counts the number of unplaced students who have requested each trip
@@ -528,7 +543,11 @@ bool place_student_on_trip(int student_index, int trip_index) {
 void reset_placements() {
     //cout << "resetting placements" << endl;
     trips = {};
+    open_trips = {};
     students = {};
+    did_not_get_choice = 0;
+    students_placed = 0;
+    num_of_spaces = 0;
     read_trips();
     read_students();
     count_trip_requests();
@@ -536,7 +555,7 @@ void reset_placements() {
 
 
 /********************************************************************/
-/* miscellaneous functions */
+/* compare functions */
 int request_ratio_cmp(trip* t1, trip* t2) {
     assert(t1->capacity-t1->participants.size()!=0);
     double ratio1 = t1->total_requests/((1.0*t1->capacity)-t1->participants.size());
