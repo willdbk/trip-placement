@@ -11,18 +11,19 @@
 
 using namespace std;
 
-//
+// the struct student encapsulates a student that must be placed on a trip.
 typedef struct _student {
   string year, lastName, firstName;
-  int gender; //-1 for male, 1 for female, 0 for non-binary
-  int swimmingAbility, activityLevel, activityIntensity;
-  vector<int> pref;
+  int gender; // -1 for male, 1 for female, 0 for non-binary
+  int swimmingAbility, activityLevel, activityIntensity; // each on a 1-5 scale
+  vector<int> preferences; // 
   bool placed;
   bool got_choice;
   bool best_trip_got_choice;
   int request_score;
 } student;
 
+// the struct trip encapsulates a trip that must be filled with students.
 typedef struct _trip {
     string name;
     int index;
