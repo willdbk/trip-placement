@@ -30,6 +30,7 @@ vector<trip*> open_trips;
 int did_not_get_choice;
 
 int num_of_iterations;
+int max_athletes;
 
 
 
@@ -45,6 +46,8 @@ void count_trip_requests();
 
 int gender_string_to_int(string gender_string);
 string gender_int_to_string(int gender_int);
+bool string_to_bool(string s);
+string bool_to_string(bool b);
 int trip_name_to_index(string name);
 bool strings_similar(string s1, string s2);
 string get_csv_row_for_student(int index);
@@ -79,7 +82,7 @@ void assign_students_randomly();
 // parses command line input and calls primary functions
 int main(int argc, char** argv) {
     srand(time(NULL));
-
+    max_athletes = 5;
     //read number of iterations from user
     if (argc!=2) {
       printf("\nusage: ./place_first_years <num_of_iterations> \n");
@@ -151,19 +154,25 @@ void read_students() {
         student_to_add.lastName = row[1];
         student_to_add.firstName = row[2];
         student_to_add.gender = gender_string_to_int(row[3]);
-        // only adds skill catgeories if given
-        if(isdigit(row[4][0])) {
-            student_to_add.swimmingAbility = stoi(row[4]);
+        bool a = false;
+        if(rand() % 4 == 0) {
+            a = true;
         }
+        //student_to_add.athlete = string_to_bool(row[4]);
+        student_to_add.athlete = a;
+        // only adds skill catgeories if given
         if(isdigit(row[5][0])) {
-            student_to_add.activityLevel = stoi(row[5]);
+            student_to_add.swimmingAbility = stoi(row[5]);
         }
         if(isdigit(row[6][0])) {
-            student_to_add.activityIntensity = stoi(row[6]);
+            student_to_add.activityLevel = stoi(row[6]);
+        }
+        if(isdigit(row[7][0])) {
+            student_to_add.activityIntensity = stoi(row[7]);
         }
         student_to_add.preferences = {};
-        if(row.size() > 7) {
-            for(int j = 7; j < 13; j++) {
+        if(row.size() > 8) {
+            for(int j = 8; j < 14; j++) {
                 int trip_index = trip_name_to_index(row[j]);
                 if(trip_index != -1) {
                     student_to_add.preferences.push_back(trip_index);
@@ -179,7 +188,7 @@ void read_students() {
 void write_placements() {
     ofstream output_file;
     output_file.open("OrientationPlacement.csv");
-    output_file << "OrientationYear,LastName,FirstName,Gender,SwimmingAbility,ActivityLevel,ActivityIntensity,choice1,choice2,choice3,choice4,choice5,choice6,TripAssignment\n";
+    output_file << "OrientationYear,LastName,FirstName,Gender,Athlete,SwimmingAbility,ActivityLevel,ActivityIntensity,choice1,choice2,choice3,choice4,choice5,choice6,TripAssignment\n";
     for(int i = 0; i < best_trips.size(); i++) {
         // cout << trips[i].name << endl;
         for(int j = 0; j < best_trips[i].participants.size(); j++) {
@@ -207,6 +216,7 @@ void reset_placements() {
         trips[i].total_requests = 0;
         trips[i].num_of_females = 0;
         trips[i].num_of_males = 0;
+        trips[i].num_of_athletes = 0;
         trips[i].participants = {};
         trips[i].full = false;
         open_trips.push_back(&trips[i]);
@@ -249,7 +259,7 @@ int gender_string_to_int(string gender_string) {
     return 0;
 }
 
-// converts gender int to a  string
+// converts gender int to a string
 string gender_int_to_string(int gender_int) {
     if(gender_int == -1) {
         return "Male";
@@ -259,6 +269,27 @@ string gender_int_to_string(int gender_int) {
     }
     return "Non-binary";
 }
+
+// converts yes to true and anything else to false
+bool string_to_bool(string s) {
+    // Reads any string beginning with 'Y' or 'y' as yes
+    if(s[0] == 'Y' || s[0] == 'y') {
+        return true;
+    }
+    // Reads any other string as non-binary.
+    return false;
+}
+
+// converts yes to true and anything else to false
+string bool_to_string(bool b) {
+    // Reads any string beginning with 'Y' or 'y' as yes
+    if(b) {
+        return "Yes";
+    }
+    // Reads any other string as non-binary.
+    return "No";
+}
+
 
 // returns trip_index based on a trip name
 int trip_name_to_index(string name) {
@@ -297,11 +328,13 @@ bool strings_similar(string s1, string s2) {
 string get_csv_row_for_student(int index) {
     student s = students[index];
     string genderString = gender_int_to_string(s.gender);
+    string athleteString = bool_to_string(s.athlete);
     string studentString;
     studentString += s.year + ",";
     studentString += s.lastName + ",";
     studentString += s.firstName + ",";
     studentString += genderString + ",";
+    studentString += athleteString + ",";
     studentString += to_string(s.swimmingAbility) + ",";
     studentString += to_string(s.activityLevel) + ",";
     studentString += to_string(s.activityIntensity) + ",";
@@ -447,6 +480,9 @@ bool can_place_student_on_trip(int student_index, int trip_index) {
         (s->gender == -1 && t->num_of_males >= t->capacity/2)) {
         return false;
     }
+    if(s->athlete && t->num_of_athletes >= max_athletes) {
+        return false;
+    }
     if((s->swimmingAbility < t->minSwimmingAbility) ||
         (s->activityLevel < t->minActivityLevel) ||
         (s->activityIntensity < t->minActivityIntensity)) {
@@ -494,6 +530,9 @@ void place_student_on_trip(int student_index, int trip_index) {
     }
     else if(students[student_index].gender == -1) {
         trips[trip_index].num_of_males++;
+    }
+    if(students[student_index].athlete == true) {
+        trips[trip_index].num_of_athletes++;
     }
     if(trips[trip_index].participants.size() == trips[trip_index].capacity) {
         trips[trip_index].full = true;
