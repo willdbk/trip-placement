@@ -16,7 +16,8 @@ typedef struct _student {
   string year, lastName, firstName;
   int gender; // -1 for male, 1 for female, 0 for non-binary
   int swimmingAbility, activityLevel, activityIntensity; // each on a 1-5 scale
-  vector<int> preferences; // 
+  vector<int> preferences; //
+  bool athlete;
   bool placed;
   bool got_choice;
   bool best_trip_got_choice;
@@ -31,6 +32,7 @@ typedef struct _trip {
     int minSwimmingAbility, minActivityLevel, minActivityIntensity;
     vector<int> requests_vector;
     int total_requests;
+    int num_of_athletes;
     int num_of_females;
     int num_of_males;
     bool full;
